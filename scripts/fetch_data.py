@@ -9,6 +9,15 @@ per match, which avoids the ambiguity you get scraping rendered text
 (team names like "Loudoun United FC 2" collide with score digits when
 you regex flattened text -- structured JSON avoids that entirely).
 
+Strategy: USL2 has no unified matchday numbering (each of its ~20
+divisions runs its own schedule), so Sofascore's round-based endpoint
+doesn't return the full season -- round 1 comes back as a single
+oddly-sized bucket and every other round number 404s. Instead, we:
+  1. Do one round-1 pull just to discover every team_id in the league.
+  2. Fetch each team's COMPLETE match history (a separate, properly
+     paginated endpoint), filtered down to USL League Two games.
+  3. Dedupe by game_id (every match appears in two teams' histories).
+
 Usage:
     python scripts/fetch_data.py
 
@@ -23,7 +32,7 @@ import time
 from pathlib import Path
 
 import pandas as pd
-from datafc import match_data, seasons_data
+from datafc import match_data, seasons_data, team_match_history_data
 from datafc.exceptions import DataNotAvailableError, APIError
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
@@ -32,17 +41,10 @@ log = logging.getLogger("fetch_data")
 # Sofascore's unique-tournament id for USL League Two. Confirmed via
 # https://www.sofascore.com/football/tournament/usa/usl-league-two/13546
 TOURNAMENT_ID = 13546
-
-# USL2's regular season runs ~14 matchweeks (varies slightly by division)
-# plus playoff rounds. We probe a generous range and stop early once we
-# hit several consecutive empty/missing rounds, so this doesn't need to
-# be updated by hand each season.
-MAX_ROUND_PROBE = 30
-CONSECUTIVE_MISS_STOP = 4
+TOURNAMENT_NAME_FILTER = "usl league two"  # case-insensitive substring match
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
-
 
 
 # Sofascore's main API domain sometimes 403s requests from cloud/CI IP
@@ -84,35 +86,38 @@ def get_current_season_id(tournament_id: int, data_source: str) -> tuple[int, st
     return int(row["season_id"]), str(row["season_name"])
 
 
-def fetch_all_rounds(tournament_id: int, season_id: int, data_source: str) -> pd.DataFrame:
+def discover_team_ids(tournament_id: int, season_id: int, data_source: str) -> set[int]:
+    """One bulk pull, just to get every team_id in the league -- not used
+    as the actual match source, since it's known to be incomplete."""
+    df = match_data(tournament_id, season_id, week_number=1, data_source=data_source)
+    ids = set(df["home_team_id"].dropna().astype(int)) | set(df["away_team_id"].dropna().astype(int))
+    log.info("discovered %d teams from round-1 bulk pull", len(ids))
+    return ids
+
+
+def fetch_full_history_for_teams(team_ids: set[int], data_source: str) -> pd.DataFrame:
     frames = []
-    consecutive_misses = 0
-    for week in range(1, MAX_ROUND_PROBE + 1):
+    for i, team_id in enumerate(sorted(team_ids), start=1):
         try:
-            df = match_data(tournament_id, season_id, week_number=week, data_source=data_source)
-            frames.append(df)
-            consecutive_misses = 0
-            log.info("round %2d: %d matches", week, len(df))
+            df = team_match_history_data(team_id, data_source=data_source)
         except DataNotAvailableError:
-            consecutive_misses += 1
-            log.info("round %2d: no data (miss %d/%d)", week, consecutive_misses, CONSECUTIVE_MISS_STOP)
-            if consecutive_misses >= CONSECUTIVE_MISS_STOP:
-                log.info("stopping round probe after %d consecutive misses", CONSECUTIVE_MISS_STOP)
-                break
+            log.warning("team_id=%s: no history data", team_id)
+            continue
         except APIError as e:
-            log.warning("round %2d: API error, retrying once (%s)", week, e)
+            log.warning("team_id=%s: API error, retrying once (%s)", team_id, e)
             time.sleep(3)
             try:
-                df = match_data(tournament_id, season_id, week_number=week, data_source=data_source)
-                frames.append(df)
-                consecutive_misses = 0
+                df = team_match_history_data(team_id, data_source=data_source)
             except Exception as e2:
-                log.warning("round %2d: still failing, skipping (%s)", week, e2)
-                consecutive_misses += 1
-        time.sleep(0.5)  # be polite
+                log.warning("team_id=%s: still failing, skipping (%s)", team_id, e2)
+                continue
+
+        usl2_df = df[df["tournament"].astype(str).str.lower().str.contains(TOURNAMENT_NAME_FILTER, na=False)]
+        frames.append(usl2_df)
+        log.info("team %3d/%d (id=%s): %d USL2 matches in history", i, len(team_ids), team_id, len(usl2_df))
 
     if not frames:
-        raise RuntimeError("No match data fetched at all -- check tournament/season id.")
+        raise RuntimeError("No match data fetched at all -- check tournament/season id or team discovery.")
 
     all_matches = pd.concat(frames, ignore_index=True)
     all_matches = all_matches.drop_duplicates(subset=["game_id"]).reset_index(drop=True)
@@ -127,8 +132,11 @@ def main():
     season_id, season_name = get_current_season_id(TOURNAMENT_ID, data_source)
     log.info("Using season_id=%s (%s)", season_id, season_name)
 
-    df = fetch_all_rounds(TOURNAMENT_ID, season_id, data_source)
-    log.info("Fetched %d total matches (all statuses)", len(df))
+    team_ids = discover_team_ids(TOURNAMENT_ID, season_id, data_source)
+
+    log.info("Fetching complete match history for each of %d teams (this takes a few minutes)...", len(team_ids))
+    df = fetch_full_history_for_teams(team_ids, data_source)
+    log.info("Fetched %d total USL2 matches (all statuses) after dedup", len(df))
 
     out_csv = DATA_DIR / "matches.csv"
     df.to_csv(out_csv, index=False)
@@ -139,6 +147,7 @@ def main():
         "season_id": season_id,
         "season_name": season_name,
         "data_source": data_source,
+        "team_count": len(team_ids),
         "fetched_at_utc": pd.Timestamp.now('UTC').isoformat(),
         "match_count": len(df),
     }
