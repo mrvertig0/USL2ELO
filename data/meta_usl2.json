@@ -1,0 +1,11 @@
+{
+  "league": "usl2",
+  "label": "USL League Two",
+  "tournament_id": 13546,
+  "season_id": 90245,
+  "season_name": "USL League Two 2026",
+  "data_source": "sofascore",
+  "team_count": 158,
+  "fetched_at_utc": "2026-07-09T22:54:45.966341+00:00",
+  "match_count": 4901
+}
