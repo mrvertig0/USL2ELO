@@ -167,6 +167,25 @@ def write_output(rows, history_out, fetched_at, matches_used, path_prefix, extra
     print(f"Wrote {history_path}")
 
 
+def write_matches_json(finished: pd.DataFrame, key: str):
+    """Compact all-time match list for the Compare Clubs (head-to-head +
+    implied odds) feature -- just enough per match to filter down to a
+    given pair of teams and show the meeting history client-side."""
+    records = []
+    for _, row in finished.iterrows():
+        ts = row["start_timestamp"]
+        records.append({
+            "t": None if pd.isna(ts) else int(ts),
+            "h": int(row["home_team_id"]),
+            "a": int(row["away_team_id"]),
+            "hs": int(row["home_score_current"]),
+            "as": int(row["away_score_current"]),
+        })
+    path = OUT_DIR / f"matches_{key}.json"
+    path.write_text(json.dumps(records))
+    print(f"Wrote {path} ({len(records)} matches)")
+
+
 def compute_league(key: str, cfg: dict):
     matches_path = DATA_DIR / f"matches_{key}.csv"
     if not matches_path.exists():
@@ -188,7 +207,11 @@ def compute_league(key: str, cfg: dict):
 
     # --- all-time pass: every match ever played, one continuous rating ---
     rows_all, history_all = run_elo_pass(finished)
-    write_output(rows_all, history_all, fetched_at, len(finished), key)
+
+    draw_rate = round(float((finished["home_score_current"] == finished["away_score_current"]).mean()), 4) if len(finished) else 0.24
+    write_output(rows_all, history_all, fetched_at, len(finished), key, extra_meta={"league_draw_rate": draw_rate})
+
+    write_matches_json(finished, key)
 
     # --- current-season pass: reset to 1500, only this season's matches ---
     if "season" in finished.columns and finished["season"].notna().any():

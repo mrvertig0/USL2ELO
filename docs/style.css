@@ -12,6 +12,23 @@
   --display: "Barlow Condensed", sans-serif;
   --body: "IBM Plex Sans", sans-serif;
   --mono: "IBM Plex Mono", monospace;
+
+  /* League-reactive accent -- deliberately scoped to branding chrome only
+     (league tab pill, hero rating number, the "Elo." dot). Never applied
+     to the movers/sparkline up-down colors above, so a club's brand red
+     never gets mistaken for a "falling" indicator. */
+  --league-accent: var(--turf-bright);
+  --league-accent-text: var(--pitch-deep);
+}
+
+body[data-league="usl2"] {
+  --league-accent: #ff6b76;
+  --league-accent-text: #5c0f16;
+}
+
+body[data-league="wleague"] {
+  --league-accent: #c9a3f5;
+  --league-accent-text: #33195c;
 }
 
 * { box-sizing: border-box; }
@@ -76,7 +93,7 @@ body {
   letter-spacing: -0.01em;
 }
 
-.hero-accent { color: var(--turf-bright); }
+.hero-accent { color: var(--league-accent); }
 
 .league-tabs {
   display: inline-flex;
@@ -99,9 +116,9 @@ body {
 .league-tab:hover { background: rgba(246, 244, 238, 0.14); }
 
 .league-tab.is-active {
-  background: var(--turf-bright);
-  border-color: var(--turf-bright);
-  color: var(--pitch-deep);
+  background: var(--league-accent);
+  border-color: var(--league-accent);
+  color: var(--league-accent-text);
   font-weight: 600;
 }
 
@@ -119,7 +136,7 @@ body {
   font-family: var(--mono);
   font-weight: 600;
   font-size: clamp(2.4rem, 6vw, 3.2rem);
-  color: var(--turf-bright);
+  color: var(--league-accent);
   line-height: 1;
 }
 
@@ -464,4 +481,175 @@ footer {
   .modal-team-name { font-size: 1.4rem; }
   .league-tabs { flex-wrap: wrap; }
   .league-tab { font-size: 0.8rem; padding: 0.35rem 0.8rem; }
+  .compare-pickers { flex-direction: column; align-items: stretch; }
+  .compare-vs { text-align: center; }
+  .compare-odds-grid { grid-template-columns: 1fr; }
+}
+
+/* ---------- compare clubs ---------- */
+
+.compare-btn {
+  font-family: var(--body);
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--ink);
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 0.42rem 0.9rem;
+  cursor: pointer;
+}
+
+.compare-btn:hover { background: rgba(79, 157, 110, 0.08); }
+
+.modal-wide { max-width: 760px; }
+
+.compare-pickers {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin-bottom: 1.2rem;
+}
+
+.compare-select {
+  flex: 1;
+  font-family: var(--body);
+  font-size: 0.92rem;
+  padding: 0.5rem 0.7rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fff;
+  color: var(--ink);
+}
+
+.compare-vs {
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  color: rgba(20, 35, 29, 0.45);
+  flex-shrink: 0;
+}
+
+.compare-empty {
+  text-align: center;
+  padding: 1.6rem 0;
+  color: rgba(20, 35, 29, 0.5);
+  font-size: 0.88rem;
+}
+
+.compare-h2h {
+  text-align: center;
+  padding: 0.9rem 0 1.2rem;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 1.2rem;
+}
+
+.compare-h2h-record {
+  font-family: var(--mono);
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.compare-h2h-sub {
+  font-size: 0.82rem;
+  color: rgba(20, 35, 29, 0.55);
+  margin-top: 0.3rem;
+}
+
+.compare-h2h-list {
+  list-style: none;
+  margin: 0.9rem 0 0;
+  padding: 0;
+  text-align: left;
+  max-height: 140px;
+  overflow-y: auto;
+  font-size: 0.82rem;
+  font-family: var(--mono);
+  color: rgba(20, 35, 29, 0.68);
+}
+
+.compare-h2h-list li {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.25rem 0.1rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.compare-chart-wrap {
+  margin-bottom: 1.3rem;
+}
+
+.compare-chart-wrap svg { width: 100%; height: auto; display: block; }
+
+.compare-legend {
+  display: flex;
+  gap: 1.2rem;
+  justify-content: center;
+  font-size: 0.8rem;
+  margin-bottom: 0.6rem;
+}
+
+.compare-legend-item { display: flex; align-items: center; gap: 0.4rem; }
+
+.compare-legend-swatch {
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+.compare-odds-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  margin-bottom: 0.8rem;
+}
+
+.seg-sm .seg-btn { font-size: 0.75rem; padding: 0.32rem 0.6rem; }
+
+.compare-odds-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0.7rem;
+}
+
+.compare-odds-card {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.7rem 0.5rem;
+  text-align: center;
+}
+
+.compare-odds-name {
+  font-size: 0.78rem;
+  color: rgba(20, 35, 29, 0.6);
+  margin-bottom: 0.3rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.compare-odds-pct {
+  font-family: var(--mono);
+  font-weight: 600;
+  font-size: 1.15rem;
+}
+
+.compare-odds-american {
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  color: rgba(20, 35, 29, 0.55);
+  margin-top: 0.15rem;
+}
+
+.compare-disclaimer {
+  font-size: 0.76rem;
+  color: rgba(20, 35, 29, 0.5);
+  line-height: 1.5;
+  margin-top: 0.9rem;
+  text-align: center;
 }

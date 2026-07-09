@@ -17,7 +17,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body data-league="usl2">
 
 <header class="hero">
   <div class="hero-inner">
@@ -42,6 +42,7 @@
   <div class="toolbar">
     <input id="search" type="text" placeholder="Find a club&hellip;" autocomplete="off">
     <div class="toolbar-right">
+      <button type="button" class="compare-btn" id="compare-open">Compare clubs</button>
       <div class="seg" id="season-toggle" role="tablist" aria-label="Ratings scope">
         <button type="button" class="seg-btn is-active" data-scope="all_time" role="tab" aria-selected="true">All&#8209;time</button>
         <button type="button" class="seg-btn" data-scope="season" role="tab" aria-selected="false">This season</button>
@@ -104,6 +105,42 @@
       <div class="modal-team-sub" id="modal-team-sub"></div>
     </div>
     <div class="modal-chart-wrap" id="modal-chart-wrap"></div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="compare-overlay" hidden>
+  <div class="modal modal-wide" role="dialog" aria-modal="true" aria-labelledby="compare-title">
+    <button type="button" class="modal-close" id="compare-close" aria-label="Close">&times;</button>
+    <div class="modal-header">
+      <div class="modal-team-name" id="compare-title">Compare clubs</div>
+    </div>
+
+    <div class="compare-pickers">
+      <select id="compare-team-a" class="compare-select"><option value="">Pick a club&hellip;</option></select>
+      <span class="compare-vs">vs</span>
+      <select id="compare-team-b" class="compare-select"><option value="">Pick a club&hellip;</option></select>
+    </div>
+
+    <p class="compare-empty" id="compare-empty">Pick two clubs to see their all-time head-to-head record and today's implied odds.</p>
+
+    <div id="compare-body" hidden>
+      <div class="compare-h2h" id="compare-h2h"></div>
+
+      <div class="compare-chart-wrap" id="compare-chart-wrap"></div>
+
+      <div class="compare-odds">
+        <div class="compare-odds-header">
+          <span>Model-implied odds, if they played today</span>
+          <div class="seg seg-sm" id="compare-venue-toggle">
+            <button type="button" class="seg-btn is-active" data-venue="neutral">Neutral</button>
+            <button type="button" class="seg-btn" data-venue="a">A hosts</button>
+            <button type="button" class="seg-btn" data-venue="b">B hosts</button>
+          </div>
+        </div>
+        <div class="compare-odds-grid" id="compare-odds-grid"></div>
+        <p class="compare-disclaimer">Based only on these Elo ratings &mdash; not a real betting line, and it has no idea about injuries, lineups, or anything that's happened since the last result. For fun, not for wagering.</p>
+      </div>
+    </div>
   </div>
 </div>
 

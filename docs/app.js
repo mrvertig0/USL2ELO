@@ -19,6 +19,18 @@
   var modalTeamName = document.getElementById("modal-team-name");
   var modalTeamSub = document.getElementById("modal-team-sub");
   var modalChartWrap = document.getElementById("modal-chart-wrap");
+  var compareOpenBtn = document.getElementById("compare-open");
+  var compareOverlay = document.getElementById("compare-overlay");
+  var compareClose = document.getElementById("compare-close");
+  var compareTeamA = document.getElementById("compare-team-a");
+  var compareTeamB = document.getElementById("compare-team-b");
+  var compareEmpty = document.getElementById("compare-empty");
+  var compareBody = document.getElementById("compare-body");
+  var compareH2h = document.getElementById("compare-h2h");
+  var compareChartWrap = document.getElementById("compare-chart-wrap");
+  var compareVenueToggle = document.getElementById("compare-venue-toggle");
+  var compareOddsGrid = document.getElementById("compare-odds-grid");
+  var compareVenue = "neutral";
 
   var LEAGUES = {
     usl2: {
@@ -258,6 +270,7 @@
     var league = btn.dataset.league;
     if (league === activeLeague) return;
     activeLeague = league;
+    document.body.dataset.league = league;
     Array.prototype.forEach.call(leagueTabs.querySelectorAll(".league-tab"), function (b) {
       b.classList.toggle("is-active", b === btn);
       b.setAttribute("aria-selected", b === btn ? "true" : "false");
@@ -284,15 +297,216 @@
     });
   }
 
+  // ---------- Compare Clubs ----------
+
+  function populateCompareSelects() {
+    var ds = datasets[activeLeague].all_time;
+    var teams = ds ? ds.teams.slice().sort(function (a, b) { return a.team.localeCompare(b.team); }) : [];
+    [compareTeamA, compareTeamB].forEach(function (sel) {
+      var current = sel.value;
+      sel.innerHTML = '<option value="">Pick a club&hellip;</option>';
+      teams.forEach(function (t) {
+        var opt = document.createElement("option");
+        opt.value = t.team_id;
+        opt.textContent = t.team;
+        sel.appendChild(opt);
+      });
+      if (current) sel.value = current;
+    });
+  }
+
+  function openCompare() {
+    populateCompareSelects();
+    compareOverlay.hidden = false;
+    document.body.style.overflow = "hidden";
+  }
+
+  function closeCompare() {
+    compareOverlay.hidden = true;
+    document.body.style.overflow = "";
+  }
+
+  compareOpenBtn.addEventListener("click", openCompare);
+  compareClose.addEventListener("click", closeCompare);
+  compareOverlay.addEventListener("click", function (e) {
+    if (e.target === compareOverlay) closeCompare();
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape" && !compareOverlay.hidden) closeCompare();
+  });
+
+  function probToAmerican(p) {
+    if (p <= 0 || p >= 1) return "\u2014";
+    var am = p >= 0.5 ? -100 * p / (1 - p) : 100 * (1 - p) / p;
+    var rounded = Math.round(am);
+    return (rounded > 0 ? "+" : "") + rounded;
+  }
+
+  function computeOdds(ratingA, ratingB, homeAdv, drawRate, venue) {
+    var adv = venue === "a" ? homeAdv : venue === "b" ? -homeAdv : 0;
+    var dr = (ratingA + adv) - ratingB;
+    var eA = 1 / (1 + Math.pow(10, -dr / 400));
+    var pDraw = drawRate * Math.exp(-Math.pow(dr / 400, 2));
+    var remaining = 1 - pDraw;
+    var pA = remaining * eA;
+    var pB = remaining * (1 - eA);
+    return { pA: pA, pDraw: pDraw, pB: pB };
+  }
+
+  function renderCompareOdds(teamA, teamB, ratingsMeta) {
+    var homeAdv = ratingsMeta.home_advantage || 60;
+    var drawRate = ratingsMeta.league_draw_rate != null ? ratingsMeta.league_draw_rate : 0.24;
+    var odds = computeOdds(teamA.rating, teamB.rating, homeAdv, drawRate, compareVenue);
+
+    function card(name, p) {
+      return (
+        '<div class="compare-odds-card">' +
+        '<div class="compare-odds-name">' + escapeHtml(name) + "</div>" +
+        '<div class="compare-odds-pct">' + (p * 100).toFixed(0) + "%</div>" +
+        '<div class="compare-odds-american">' + probToAmerican(p) + "</div>" +
+        "</div>"
+      );
+    }
+
+    compareOddsGrid.innerHTML =
+      card(teamA.team, odds.pA) +
+      card("Draw", odds.pDraw) +
+      card(teamB.team, odds.pB);
+  }
+
+  function renderCompareChart(teamA, teamB, historyA, historyB) {
+    var w = 640, h = 260, pad = 28;
+    var seriesA = historyA.filter(function (p) { return p.t != null; });
+    var seriesB = historyB.filter(function (p) { return p.t != null; });
+    if (seriesA.length < 2 && seriesB.length < 2) {
+      compareChartWrap.innerHTML = '<p class="modal-empty">Not enough matches yet for a chart.</p>';
+      return;
+    }
+    var allPoints = seriesA.concat(seriesB);
+    var allT = allPoints.map(function (p) { return p.t; });
+    var allR = allPoints.map(function (p) { return p.rating; });
+    var minT = Math.min.apply(null, allT), maxT = Math.max.apply(null, allT);
+    var minR = Math.min.apply(null, allR), maxR = Math.max.apply(null, allR);
+    var tRange = (maxT - minT) || 1;
+    var rRange = (maxR - minR) || 1;
+
+    function toPoints(series) {
+      return series.map(function (p) {
+        var x = pad + ((p.t - minT) / tRange) * (w - 2 * pad);
+        var y = h - pad - ((p.rating - minR) / rRange) * (h - 2 * pad);
+        return x.toFixed(1) + "," + y.toFixed(1);
+      }).join(" ");
+    }
+
+    var colorA = "#4f9d6e";
+    var colorB = "#8b5fbf";
+
+    var gridVals = [minR, (minR + maxR) / 2, maxR];
+    var gridLines = gridVals.map(function (v) {
+      var y = h - pad - ((v - minR) / rRange) * (h - 2 * pad);
+      return (
+        '<line x1="' + pad + '" y1="' + y.toFixed(1) + '" x2="' + (w - pad) + '" y2="' + y.toFixed(1) + '" ' +
+        'stroke="rgba(20,35,29,0.1)" stroke-width="1"/>' +
+        '<text x="' + (pad - 6) + '" y="' + (y + 4).toFixed(1) + '" text-anchor="end" ' +
+        'font-family="var(--mono)" font-size="11" fill="rgba(20,35,29,0.5)">' + v.toFixed(0) + "</text>"
+      );
+    }).join("");
+
+    var svg =
+      '<div class="compare-legend">' +
+      '<span class="compare-legend-item"><span class="compare-legend-swatch" style="background:' + colorA + '"></span>' + escapeHtml(teamA.team) + "</span>" +
+      '<span class="compare-legend-item"><span class="compare-legend-swatch" style="background:' + colorB + '"></span>' + escapeHtml(teamB.team) + "</span>" +
+      "</div>" +
+      '<svg width="100%" viewBox="0 0 ' + w + " " + h + '" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Rating history comparison">' +
+      gridLines +
+      (seriesA.length >= 2 ? '<polyline fill="none" stroke="' + colorA + '" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" points="' + toPoints(seriesA) + '"/>' : "") +
+      (seriesB.length >= 2 ? '<polyline fill="none" stroke="' + colorB + '" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" points="' + toPoints(seriesB) + '"/>' : "") +
+      "</svg>";
+    compareChartWrap.innerHTML = svg;
+  }
+
+  function renderCompareH2H(teamA, teamB) {
+    var matches = datasets[activeLeague].matches || [];
+    var meetings = matches.filter(function (m) {
+      return (m.h === teamA.team_id && m.a === teamB.team_id) || (m.h === teamB.team_id && m.a === teamA.team_id);
+    }).sort(function (x, y) { return (y.t || 0) - (x.t || 0); });
+
+    var winsA = 0, winsB = 0, draws = 0;
+    meetings.forEach(function (m) {
+      var aIsHome = m.h === teamA.team_id;
+      var aScore = aIsHome ? m.hs : m.as;
+      var bScore = aIsHome ? m.as : m.hs;
+      if (aScore > bScore) winsA++;
+      else if (bScore > aScore) winsB++;
+      else draws++;
+    });
+
+    if (!meetings.length) {
+      compareH2h.innerHTML =
+        '<div class="compare-h2h-record">No meetings yet</div>' +
+        '<div class="compare-h2h-sub">' + escapeHtml(teamA.team) + " and " + escapeHtml(teamB.team) + " haven't played each other.</div>";
+      return;
+    }
+
+    var listHtml = meetings.slice(0, 15).map(function (m) {
+      var date = m.t ? new Date(m.t * 1000).toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" }) : "";
+      var homeIsA = m.h === teamA.team_id;
+      var line = (homeIsA ? teamA.team : teamB.team) + " " + m.hs + "\u2013" + m.as + " " + (homeIsA ? teamB.team : teamA.team);
+      return "<li><span>" + escapeHtml(date) + "</span><span>" + escapeHtml(line) + "</span></li>";
+    }).join("");
+
+    compareH2h.innerHTML =
+      '<div class="compare-h2h-record">' + winsA + "\u2013" + draws + "\u2013" + winsB + "</div>" +
+      '<div class="compare-h2h-sub">' + escapeHtml(teamA.team) + " wins \u2013 draws \u2013 " + escapeHtml(teamB.team) + " wins, " +
+      meetings.length + " all-time meeting" + (meetings.length === 1 ? "" : "s") + "</div>" +
+      '<ul class="compare-h2h-list">' + listHtml + "</ul>";
+  }
+
+  function renderCompare() {
+    var aId = compareTeamA.value, bId = compareTeamB.value;
+    if (!aId || !bId || aId === bId) {
+      compareEmpty.hidden = false;
+      compareBody.hidden = true;
+      return;
+    }
+    var ds = datasets[activeLeague].all_time;
+    if (!ds) return;
+    var teamA = ds.teams.find(function (t) { return String(t.team_id) === aId; });
+    var teamB = ds.teams.find(function (t) { return String(t.team_id) === bId; });
+    if (!teamA || !teamB) return;
+
+    compareEmpty.hidden = true;
+    compareBody.hidden = false;
+
+    renderCompareH2H(teamA, teamB);
+    renderCompareChart(teamA, teamB, ds.history[String(teamA.team_id)] || [], ds.history[String(teamB.team_id)] || []);
+    renderCompareOdds(teamA, teamB, ds.ratings);
+  }
+
+  compareTeamA.addEventListener("change", renderCompare);
+  compareTeamB.addEventListener("change", renderCompare);
+
+  compareVenueToggle.addEventListener("click", function (e) {
+    var btn = e.target.closest(".seg-btn");
+    if (!btn) return;
+    compareVenue = btn.dataset.venue;
+    Array.prototype.forEach.call(compareVenueToggle.querySelectorAll(".seg-btn"), function (b) {
+      b.classList.toggle("is-active", b === btn);
+    });
+    renderCompare();
+  });
+
   function loadLeague(key) {
     return Promise.all([
       loadJson("data/ratings_" + key + ".json").catch(function () { return null; }),
       loadJson("data/history_" + key + ".json").catch(function () { return {}; }),
       loadJson("data/ratings_" + key + "_season.json").catch(function () { return null; }),
       loadJson("data/history_" + key + "_season.json").catch(function () { return {}; }),
+      loadJson("data/matches_" + key + ".json").catch(function () { return []; }),
     ]).then(function (r) {
       if (r[0]) datasets[key].all_time = { ratings: r[0], teams: r[0].teams || [], history: r[1] || {} };
       if (r[2]) datasets[key].season = { ratings: r[2], teams: r[2].teams || [], history: r[3] || {} };
+      datasets[key].matches = r[4] || [];
     });
   }
 
