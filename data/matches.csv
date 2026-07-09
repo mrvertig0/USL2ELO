@@ -1,0 +1,497 @@
+country,tournament,season,week,game_id,home_team,home_team_id,away_team,away_team_id,injury_time_1,injury_time_2,start_timestamp,status,home_score_current,home_score_display,home_score_period1,home_score_period2,home_score_normaltime,away_score_current,away_score_display,away_score_period1,away_score_period2,away_score_normaltime
+USA,"USL, League Two",2026,1,15587486,San Francisco City,253178,CA San Juan FC,294927,,,1777845600,Ended,3.0,3.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587487,CA San Juan FC,294927,Davis Legacy,407739,,,1778205600,Ended,2.0,2.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587490,Philadelphia Lone Star,419436,West Chester United,419461,,,1778356800,Interrupted,3.0,3.0,0.0,3.0,3.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587488,Project 51O,341750,Academica SC,313606,,,1778356800,Ended,2.0,2.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587491,Boston City FC,253850,New England FC,1077315,,,1778364000,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587492,Virginia Beach United,316282,Lionsbridge FC,284085,,,1778367600,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587494,Apotheos FC,414152,Columbus United FC,510443,,,1778369400,Ended,1.0,1.0,0.0,1.0,1.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587495,Almaden FC,507372,San Francisco City,253178,,,1778371200,Ended,2.0,2.0,1.0,1.0,2.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587496,Saint Louis Ambush,1077482,Peoria City,380878,,,1778371200,Ended,1.0,1.0,1.0,0.0,1.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587497,Fort Worth Vaqueros,313656,Denton Diablos,313622,,,1778373000,Ended,0.0,0.0,0.0,0.0,0.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15587498,FC Olympia,407749,Bangers FC,1090012,,,1778376600,Ended,0.0,0.0,0.0,0.0,0.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587502,Loudoun United FC 2,1173420,Christos FC,253848,,,1778454000,Ended,4.0,4.0,2.0,2.0,4.0,5.0,5.0,2.0,3.0,5.0
+USA,"USL, League Two",2026,1,15587500,Northern Virginia FC,383424,Virginia Marauders FC,465621,,,1778455800,Ended,3.0,3.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587503,West Seattle Junction FC,507371,Tacoma Stars,381179,,,1778458500,Ended,4.0,4.0,1.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587504,FC Lehigh Valley United,253414,West Chester United,419461,,,1778627400,Ended,3.0,3.0,3.0,0.0,3.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587508,Dayton Dutch Lions FC,71058,Louisville City FC USL 2,1173421,,,1778709600,Ended,1.0,1.0,1.0,0.0,1.0,5.0,5.0,0.0,5.0,5.0
+USA,"USL, League Two",2026,1,15587510,Appalachian FC,381170,Asheville City SC,313610,,,1778713200,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587511,Brevard Fire SC,465618,Lakeland United FC,1173423,,,1778713200,Ended,2.0,2.0,0.0,3.0,3.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587512,Kalamazoo FC,313650,Union FC Macomb,507374,,,1778713200,Ended,1.0,1.0,0.0,1.0,1.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587514,Seacoast United Phantoms,253404,New England FC,1077315,,,1778713200,Ended,2.0,2.0,1.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0
+USA,"USL, League Two",2026,1,15587518,Houston FC,253791,AHFC Royals,284112,,,1778716800,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587516,Project 51O,341750,Almaden FC,507372,,,1778716800,Ended,1.0,1.0,1.0,0.0,1.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587515,Weston FC,253665,Miami AC,407746,,,1778716800,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587519,Academica SC,313606,Davis Legacy,407739,,,1778724000,Ended,3.0,3.0,2.0,1.0,3.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587520,CA San Juan FC,294927,San Francisco Glens SC,284088,,,1778724000,Ended,1.0,1.0,1.0,0.0,1.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587521,Wake FC,316192,Charlotte Eagles,23633,,,1778799600,Ended,1.0,1.0,1.0,0.0,1.0,3.0,3.0,3.0,0.0,3.0
+USA,"USL, League Two",2026,1,15587523,West Virginia United,253410,Kings Hammer Columbus,1077311,,,1778882400,Ended,2.0,2.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587524,Western Mass Pioneers,36101,Blackwatch Rush,407743,,,1778887800,Ended,4.0,4.0,2.0,2.0,4.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587525,Des Moines Menace,100011,Santafe Wanderers FC,1077483,,,1778889600,Ended,2.0,2.0,0.0,2.0,2.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587526,San Antonio FC 2,1173424,Laredo Heat,153488,,,1778891400,Ended,1.0,1.0,0.0,1.0,1.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587527,Ballard FC,407758,FC Olympia,407749,,,1778898600,Ended,3.0,3.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587529,Edgewater Castle FC,516610,Rockford Raptors,1173426,,,1778954400,Ended,4.0,4.0,2.0,2.0,4.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587530,Sueño FC,507364,Rochester FC,465630,,,1778954400,Ended,7.0,7.0,3.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587533,Asheville City SC,313610,Hickory FC,508947,,,1778959800,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587534,Philadelphia Lone Star,419436,Eagle FC,1173428,,,1778961600,Ended,5.0,5.0,1.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587535,Seacoast United Phantoms,253404,Vermont Green FC,407738,,,1778961600,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587536,Brooke House FC,507378,Nona FC,407750,,,1778965200,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587539,Midwest United FC,407755,Lansing City Football,407759,,,1778968800,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587537,Minneapolis City,313612,Chicago Dutch Lions FC,407745,,,1778968800,Ended,6.0,6.0,3.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587540,Staten Island Asc,507375,Ironbound SC,465622,,,1778968800,Ended,2.0,2.0,1.0,1.0,2.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587541,Akron City FC,414148,FC Buffalo,313627,,,1778972400,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587522,Birmingham Legion FC 2,507370,East Atlanta FC,380881,,,1778972400,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587543,Charlotte Independence II,380880,South Carolina United FC,224816,,,1778972400,Ended,3.0,3.0,1.0,2.0,3.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587528,Christos FC,253848,Lionsbridge FC,284085,,,1778972400,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587544,Connecticut Rush,1173429,Boston City FC,253850,,,1778972400,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587545,Hill City FC,1173430,Loudoun United FC 2,1173420,,,1778972400,Ended,4.0,4.0,0.0,4.0,4.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587531,New England FC,1077315,AC Connecticut,253660,,,1778972400,Ended,4.0,4.0,3.0,1.0,4.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587546,Oakland County FC,380876,Union FC Macomb,507374,,,1778972400,Ended,4.0,4.0,1.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587547,Shark Coast FC,1173431,SC Jacksonville II,1173432,,,1778972400,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587549,West Chester United,419461,Pennsylvania Classics,414154,,,1778972400,Ended,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587550,Weston FC,253665,Fort Lauderdale United FC,1077309,,,1778972400,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587551,Columbus United FC,510443,Apotheos FC,414152,,,1778974200,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587555,Dothan United SC,507366,Montgomery United FC,1077307,,,1778976000,Ended,2.0,2.0,0.0,2.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587552,Louisiana Krewe FC,339309,Memphis FC,1173434,,,1778976000,Ended,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587553,Red River FC,1090017,Hattiesburg FC,507368,,,1778976000,Ended,2.0,2.0,1.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587554,Sunflower State FC,414143,Saint Louis Ambush,1077482,,,1778976000,Ended,1.0,1.0,1.0,0.0,1.0,4.0,4.0,2.0,2.0,4.0
+USA,"USL, League Two",2026,1,15587556,Fort Worth Vaqueros,313656,Lubbock Matadors SC,414147,,,1778977800,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587557,McKinney Chupacabras FC,1090016,Denton Diablos,313622,,,1778977800,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587558,Almaden FC,507372,Academica SC,313606,,,1778979600,Ended,1.0,1.0,0.0,1.0,1.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587560,Colorado International SA,417129,Atletico Union,1173435,,,1778979600,Ended,0.0,0.0,0.0,0.0,0.0,4.0,4.0,3.0,1.0,4.0
+USA,"USL, League Two",2026,1,15587559,City SC San Diego,1090015,Capo FC 2,517933,,,1778981400,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587562,Bangers FC,1090012,Snohomish United,1077314,,,1778983200,Ended,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587563,Southern California Eagles,253421,Amsg FC,507363,,,1778983200,Ended,3.0,3.0,1.0,2.0,3.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587565,Pittsburgh Riverhounds 2,1173436,Cleveland Force SC,407744,,,1779048000,Ended,5.0,5.0,3.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587538,Lakeland United FC,1173423,Miami AC,407746,,,1779055200,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587566,Port City FC,341745,North Carolina FC U23,253200,,,1779057000,Ended,2.0,2.0,0.0,2.0,2.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587567,San Francisco City,253178,Davis Legacy,407739,,,1779058800,Ended,3.0,3.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587548,Wake FC,316192,Tobacco Road FC,253201,,,1779058800,Ended,2.0,2.0,2.0,0.0,2.0,6.0,6.0,4.0,2.0,6.0
+USA,"USL, League Two",2026,1,15587564,Northern Virginia FC,383424,Virginia Beach United,316282,,,1779060600,Ended,2.0,2.0,2.0,0.0,2.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587568,AHFC Royals,284112,Hill Country Lobos,507367,,,1779062400,Ended,3.0,3.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587570,Charlottesville Blues,507376,Annapolis Blues FC,467566,,,1779062400,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587569,GFI Academy,1173438,Houston FC,253791,,,1779062400,Ended,4.0,4.0,0.0,4.0,4.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587571,FC Boston Bolts,253403,Vermont Green FC,407738,,,1779213600,Ended,1.0,1.0,0.0,1.0,1.0,4.0,4.0,3.0,1.0,4.0
+USA,"USL, League Two",2026,1,15587573,FC Lehigh Valley United,253414,Delaware FC,1088163,,,1779231600,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587575,Charlotte Eagles,23633,Appalachian FC,381170,,,1779233400,Ended,0.0,0.0,0.0,0.0,0.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15587576,Fort Worth Vaqueros,313656,Texoma FC,1044344,,,1779237000,Ended,0.0,0.0,0.0,0.0,0.0,7.0,7.0,3.0,4.0,7.0
+USA,"USL, League Two",2026,1,15587577,Midlakes United,507373,FC Olympia,407749,,,1779240600,Ended,3.0,3.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587609,Southern California Eagles,253421,City SC San Diego,1090015,,,1779242400,Ended,2.0,2.0,0.0,2.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587578,Flint City Bucks,316283,Lansing City Football,407759,,,1779289200,Ended,2.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587579,Midwest United FC,407755,AFC Ann Arbor,313628,,,1779310800,Ended,3.0,3.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587580,New Jersey Copa FC,313608,Long Island Rough Riders,253412,,,1779310800,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587585,Virginia Beach United,316282,Christos FC,253848,,,1779310800,Ended,4.0,4.0,3.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587581,Blackwatch Rush,407743,New England FC,1077315,,,1779314400,Ended,0.0,0.0,0.0,0.0,0.0,4.0,4.0,3.0,1.0,4.0
+USA,"USL, League Two",2026,1,15587582,Louisville City FC USL 2,1173421,West Virginia United,253410,,,1779314400,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587584,Steel City FC,467565,Lorain County Leviathan FC,1173439,,,1779314400,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587587,Fort Lauderdale United FC,1077309,Brevard Fire SC,465618,,,1779316200,Ended,2.0,2.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587589,AC Connecticut,253660,Connecticut Rush,1173429,,,1779318000,Ended,1.0,1.0,1.0,0.0,1.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587590,Akron City FC,414148,Cleveland Force SC,407744,,,1779318000,Ended,1.0,1.0,0.0,1.0,1.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15587591,Lakeland United FC,1173423,FC Miami City Champions,253231,,,1779318000,Ended,2.0,2.0,1.0,1.0,2.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587592,Lionsbridge FC,284085,Virginia Marauders FC,465621,,,1779318000,Ended,2.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587593,Nona FC,407750,Shark Coast FC,1173431,,,1779318000,Ended,5.0,5.0,3.0,2.0,5.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587583,North Carolina FC U23,253200,Hickory FC,508947,,,1779318000,Ended,1.0,1.0,0.0,1.0,1.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587599,Patuxent Football Athletics,407757,Charlottesville Blues,507376,,,1779318000,Ended,1.0,1.0,1.0,0.0,1.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587594,Real Central New Jersey,380872,Pennsylvania Classics,414154,,,1779318000,Ended,4.0,4.0,3.0,1.0,4.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587595,Seacoast United Phantoms,253404,Western Mass Pioneers,36101,,,1779318000,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587596,Tobacco Road FC,253201,Charlotte Independence II,380880,,,1779318000,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587597,Wake FC,316192,Salem City FC,316193,,,1779318000,Ended,0.0,0.0,0.0,0.0,0.0,4.0,4.0,0.0,4.0,4.0
+USA,"USL, League Two",2026,1,15587600,Cedar Stars FC,420865,Manhattan SC,316281,,,1779319800,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587602,East Atlanta FC,380881,Columbus United FC,510443,,,1779319800,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587605,Louisiana Krewe FC,339309,Mississippi Brilla FC,253788,,,1779319800,Ended,2.0,2.0,1.0,1.0,2.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587601,Morris Elite SC,380874,Ironbound SC,465622,,,1779319800,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587604,AHFC Royals,284112,Twin City Toucans,253789,,,1779321600,Ended,6.0,6.0,1.0,5.0,6.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587603,Project 51O,341750,CA San Juan FC,294927,,,1779321600,Ended,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587606,Springfield FC,1077484,Saint Louis Ambush,1077482,,,1779321600,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587588,St. Croix SC,407751,Sueño FC,507364,,,1779321600,Ended,0.0,0.0,0.0,0.0,0.0,6.0,6.0,3.0,3.0,6.0
+USA,"USL, League Two",2026,1,15587607,San Francisco Glens SC,284088,Marin FC Legends,407740,,,1779323400,Ended,1.0,1.0,1.0,0.0,1.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587608,Bangers FC,1090012,West Seattle Junction FC,507371,,,1779328800,Ended,3.0,3.0,2.0,1.0,3.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587610,Brooke House FC,507378,SC Jacksonville II,1173432,,,1779404400,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587611,Oakland County FC,380876,Kalamazoo FC,313650,,,1779404400,Ended,2.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587612,Pittsburgh Riverhounds 2,1173436,Erie Sports Center,1077308,,,1779404400,Ended,2.0,2.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587613,Southern SA Kings,380882,Apotheos FC,414152,,,1779406200,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587614,FC Motown II,382638,Westchester Flames,253413,,,1779408000,Ended,6.0,6.0,2.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587615,West Chester United,419461,Delaware FC,1088163,,,1779408000,Postponed,,,,,,,,,,
+USA,"USL, League Two",2026,1,15587616,Laredo Heat,153488,San Antonio FC 2,1173424,,,1779411600,Ended,4.0,4.0,1.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587618,Charlotte Eagles,23633,Port City FC,341745,,,1779487200,Ended,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587620,Ocean City Nor'easters,36099,Philadelphia Lone Star,419436,,,1779490800,Ended,3.0,3.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587621,Vermont Green FC,407738,Blackwatch Rush,407743,,,1779490800,Ended,9.0,9.0,3.0,6.0,9.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587622,Colorado Storm,1090019,Utah United,507360,,,1779494400,Ended,3.0,3.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587623,Lubbock Matadors SC,414147,Fort Worth Vaqueros,313656,,,1779494400,Ended,4.0,4.0,1.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587624,Red River FC,1090017,Jackson Boom USL 2,1173440,,,1779494400,Ended,3.0,3.0,3.0,0.0,3.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587617,Northern Virginia FC,383424,Loudoun United FC 2,1173420,,,1779496200,Ended,3.0,3.0,2.0,1.0,3.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587625,Midlakes United,507373,Tacoma Stars,381179,,,1779499800,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587626,FC Olympia,407749,Snohomish United,1077314,,,1779501600,Ended,1.0,1.0,0.0,1.0,1.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587667,Southern California Eagles,253421,Ventura County Fusion,71056,,,1779501600,Ended,0.0,0.0,0.0,0.0,0.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587627,Davis Legacy,407739,Almaden FC,507372,,,1779503400,Ended,2.0,2.0,0.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587634,Chicago Dutch Lions FC,407745,Sueño FC,507364,,,1779555600,Ended,0.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587629,River Light FC,507365,Rochester FC,465630,,,1779559200,Ended,2.0,2.0,1.0,1.0,2.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587640,Asheville City SC,313610,Charlotte Independence II,380880,,,1779562800,Postponed,,,,,,,,,,
+USA,"USL, League Two",2026,1,15587628,Christos FC,253848,Annapolis Blues FC,467566,,,1779562800,Interrupted,0.0,0.0,0.0,,,0.0,0.0,0.0,,
+USA,"USL, League Two",2026,1,15587630,Project 51O,341750,San Francisco Glens SC,284088,,,1779566400,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587631,Edgewater Castle FC,516610,RKC Third Coast,465628,,,1779570000,Ended,1.0,1.0,1.0,0.0,1.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587632,Springfield FC,1077484,Sunflower State FC,414143,,,1779570000,Ended,1.0,1.0,1.0,0.0,1.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587633,Brooke House FC,507378,Brave SC,222130,,,1779571800,Ended,2.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587636,Brevard Fire SC,465618,Miami AC,407746,,,1779573600,Ended,1.0,1.0,0.0,1.0,1.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587637,Northern Indiana FC,516600,West Virginia United,253410,,,1779573600,Ended,1.0,1.0,1.0,0.0,1.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587638,Morris Elite SC,380874,Hudson Valley Hammers,382154,,,1779575400,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587639,AFC Ann Arbor,313628,Lansing City Football,407759,,,1779577200,Ended,2.0,2.0,0.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587641,Boston City FC,253850,FC Boston Bolts,253403,,,1779577200,Ended,0.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587642,Connecticut Rush,1173429,Black Rock FC,284122,,,1779577200,Ended,0.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587646,FC Lehigh Valley United,253414,Reading United AC,100015,,,1779577200,Ended,3.0,3.0,0.0,3.0,3.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587643,Fort Lauderdale United FC,1077309,FC Miami City Champions,253231,,,1779577200,Ended,3.0,3.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587644,Hickory FC,508947,South Carolina United FC,224816,,,1779577200,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587645,Hill City FC,1173430,Patuxent Football Athletics,407757,,,1779577200,Ended,6.0,6.0,4.0,2.0,6.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587647,Pennsylvania Classics,414154,Delaware FC,1088163,,,1779577200,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587648,Salem City FC,316193,Appalachian FC,381170,,,1779577200,Ended,1.0,1.0,0.0,1.0,1.0,5.0,5.0,3.0,2.0,5.0
+USA,"USL, League Two",2026,1,15587649,Shark Coast FC,1173431,Inter Gainesville KF,507377,,,1779577200,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587650,Union FC Macomb,507374,Flint City Bucks,316283,,,1779577200,Ended,2.0,2.0,1.0,1.0,2.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587651,West Chester United,419461,Eagle FC,1173428,,,1779577200,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587653,Apotheos FC,414152,Montgomery United FC,1077307,,,1779579000,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587655,Columbus United FC,510443,Southern SA Kings,380882,,,1779579000,Ended,2.0,2.0,2.0,0.0,2.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587656,East Atlanta FC,380881,Dothan United SC,507366,,,1779579000,Ended,1.0,1.0,0.0,1.0,1.0,4.0,4.0,2.0,2.0,4.0
+USA,"USL, League Two",2026,1,15587654,Western Mass Pioneers,36101,New England FC,1077315,,,1779579000,Ended,2.0,2.0,0.0,2.0,2.0,4.0,4.0,2.0,2.0,4.0
+USA,"USL, League Two",2026,1,15587657,AC Houston SUR,407754,Lonestar SC,1090014,,,1779580800,Ended,1.0,1.0,0.0,1.0,1.0,4.0,4.0,2.0,2.0,4.0
+USA,"USL, League Two",2026,1,15587635,Atletico Union,1173435,Boulder County United,465631,,,1779580800,Ended,2.0,2.0,0.0,2.0,2.0,3.0,3.0,3.0,0.0,3.0
+USA,"USL, League Two",2026,1,15587661,Charlottesville Blues,507376,Virginia Beach United,316282,,,1779580800,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587658,Mississippi Brilla FC,253788,Little Rock Rangers,313618,,,1779580800,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587659,Santafe Wanderers FC,1077483,Saint Louis Ambush,1077482,,,1779580800,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587660,Twin City Toucans,253789,GFI Academy,1173438,,,1779580800,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587663,Denton Diablos,313622,West Texas FC,467398,,,1779582600,Ended,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587664,Peoria City,380878,Des Moines Menace,100011,,,1779582600,Ended,3.0,3.0,1.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587665,Amsg FC,507363,Capo FC 2,517933,,,1779588000,Postponed,,,,,,,,,,
+USA,"USL, League Two",2026,1,15587666,FC Tucson,100013,Redlands FC,465627,,,1779588000,Ended,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587662,Bigfoot FC,1090013,West Seattle Junction FC,507371,,,1779591000,Ended,2.0,2.0,2.0,0.0,2.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587668,San Antonio FC 2,1173424,Hill Country Lobos,507367,,,1779634800,Ended,4.0,4.0,2.0,2.0,4.0,3.0,3.0,3.0,0.0,3.0
+USA,"USL, League Two",2026,1,15587669,Marin FC Legends,407740,Davis Legacy,407739,,,1779651000,Ended,2.0,2.0,1.0,1.0,2.0,4.0,4.0,2.0,2.0,4.0
+USA,"USL, League Two",2026,1,15587670,Louisville City FC USL 2,1173421,Toledo Villa FC,313642,,,1779660000,Ended,6.0,6.0,4.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587671,Staten Island Asc,507375,FC Motown II,382638,,,1779660000,Ended,1.0,1.0,0.0,1.0,1.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587672,Louisiana Krewe FC,339309,Jackson Boom USL 2,1173440,,,1779663600,Ended,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587673,Tobacco Road FC,253201,North Carolina FC U23,253200,,,1779663600,Ended,2.0,2.0,1.0,1.0,2.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15587674,Colorado International SA,417129,Utah United,507360,,,1779670800,Ended,1.0,1.0,1.0,0.0,1.0,7.0,7.0,4.0,3.0,7.0
+USA,"USL, League Two",2026,1,15587675,Bangers FC,1090012,Tacoma Stars,381179,,,1779674400,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587676,Stars FC,1090011,Redlands FC,465627,,,1779676200,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587677,Lorain County Leviathan FC,1173439,FC Buffalo,313627,,,1779735600,Ended,1.0,1.0,1.0,0.0,1.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587678,FC Olympia,407749,West Seattle Junction FC,507371,,,1779737100,Ended,2.0,2.0,0.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587679,Colorado International SA,417129,Real Colorado,1173441,,,1779832800,Ended,0.0,0.0,0.0,0.0,0.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587681,Delaware FC,1088163,Philadelphia Lone Star,419436,,,1779836400,Ended,4.0,4.0,2.0,2.0,4.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587682,FC Lehigh Valley United,253414,Eagle FC,1173428,,,1779836400,Ended,3.0,3.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587683,Nona FC,407750,SC Jacksonville II,1173432,,,1779836400,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587684,Seacoast United Phantoms,253404,Connecticut Rush,1173429,,,1779836400,Ended,1.0,1.0,0.0,1.0,1.0,3.0,3.0,3.0,0.0,3.0
+USA,"USL, League Two",2026,1,15587685,Tobacco Road FC,253201,Salem City FC,316193,,,1779836400,Ended,1.0,1.0,0.0,1.0,1.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587686,Texoma FC,1044344,McKinney Chupacabras FC,1090016,,,1779840000,Ended,1.0,1.0,1.0,0.0,1.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587687,Midlakes United,507373,Bigfoot FC,1090013,,,1779845400,Ended,6.0,6.0,5.0,1.0,6.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587689,San Francisco Glens SC,284088,Davis Legacy,407739,,,1779912000,Ended,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587723,FC Buffalo,313627,Erie Sports Center,1077308,,,1779915600,Ended,4.0,4.0,3.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587690,Black Rock FC,284122,Vermont Green FC,407738,,,1779919200,Ended,1.0,1.0,0.0,1.0,1.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587691,Dayton Dutch Lions FC,71058,Louisville City FC USL 2,1173421,,,1779919200,Ended,2.0,2.0,0.0,2.0,2.0,3.0,3.0,3.0,0.0,3.0
+USA,"USL, League Two",2026,1,15587692,Inter Gainesville KF,507377,Brave SC,222130,,,1779919200,Ended,0.0,0.0,0.0,0.0,0.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15587694,Bethesda SC,1173442,Lionsbridge FC,284085,,,1779921000,Ended,1.0,1.0,0.0,1.0,1.0,6.0,6.0,2.0,4.0,6.0
+USA,"USL, League Two",2026,1,15587693,Port City FC,341745,Wake FC,316192,,,1779921000,Ended,2.0,2.0,0.0,2.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587695,AC Connecticut,253660,Blackwatch Rush,407743,,,1779922800,Ended,1.0,1.0,1.0,0.0,1.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587696,Appalachian FC,381170,Charlotte Independence II,380880,,,1779922800,Ended,1.0,1.0,1.0,0.0,1.0,4.0,4.0,3.0,1.0,4.0
+USA,"USL, League Two",2026,1,15587698,FC Boston Bolts,253403,New England FC,1077315,,,1779922800,Ended,1.0,1.0,1.0,0.0,1.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587699,FC Miami City Champions,253231,Brevard Fire SC,465618,,,1779922800,Ended,4.0,4.0,2.0,2.0,4.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15587700,Fort Lauderdale United FC,1077309,Lakeland United FC,1173423,,,1779922800,Ended,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587702,Hickory FC,508947,Charlotte Eagles,23633,,,1779922800,Ended,2.0,2.0,1.0,1.0,2.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587703,Hill City FC,1173430,Charlottesville Blues,507376,,,1779922800,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587705,Long Island Rough Riders,253412,Staten Island Asc,507375,,,1779922800,Ended,3.0,3.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587706,Pittsburgh Riverhounds 2,1173436,Steel City FC,467565,,,1779922800,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587707,Real Central New Jersey,380872,Reading United AC,100015,,,1779922800,Ended,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587708,Hudson Valley Hammers,382154,Ironbound SC,465622,,,1779924600,Ended,2.0,2.0,0.0,2.0,2.0,3.0,3.0,3.0,0.0,3.0
+USA,"USL, League Two",2026,1,15587709,Manhattan SC,316281,Westchester Flames,253413,,,1779924600,Ended,6.0,6.0,1.0,5.0,6.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587714,Dothan United SC,507366,Birmingham Legion FC 2,507370,,,1779926400,Ended,4.0,4.0,3.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587715,Midwest United FC,407755,Kalamazoo FC,313650,,,1779926400,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587710,Mississippi Brilla FC,253788,Hattiesburg FC,507368,,,1779926400,Ended,2.0,2.0,1.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587711,River Light FC,507365,RKC Third Coast,465628,,,1779926400,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587712,Rockford Raptors,1173426,Chicago Dutch Lions FC,407745,,,1779926400,Ended,1.0,1.0,1.0,0.0,1.0,3.0,3.0,3.0,0.0,3.0
+USA,"USL, League Two",2026,1,15587713,St. Croix SC,407751,Minneapolis City,313612,,,1779926400,Ended,1.0,1.0,1.0,0.0,1.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15587717,Springfield FC,1077484,Peoria City,380878,,,1779928200,Ended,3.0,3.0,1.0,2.0,3.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15588001,San Francisco City,253178,Marin FC Legends,407740,,,1779931800,Ended,4.0,4.0,3.0,1.0,4.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15587719,Ventura County Fusion,71056,Capo FC 2,517933,,,1779933600,Ended,2.0,2.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587720,Stars FC,1090011,Amsg FC,507363,,,1779935400,Ended,3.0,3.0,2.0,1.0,3.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587724,Lansing City Football,407759,Oakland County FC,380876,,,1780009200,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587721,Utah United,507360,Real Colorado,1173441,,,1780009200,Ended,4.0,4.0,1.0,3.0,4.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587725,Patuxent Football Athletics,407757,Annapolis Blues FC,467566,,,1780011000,Ended,0.0,0.0,0.0,0.0,0.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15587726,Edgewater Castle FC,516610,Sueño FC,507364,,,1780012800,Ended,1.0,1.0,0.0,1.0,1.0,4.0,4.0,3.0,1.0,4.0
+USA,"USL, League Two",2026,1,15587727,Houston FC,253791,Laredo Heat,153488,,,1780012800,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587728,Memphis FC,1173434,Louisiana Krewe FC,339309,,,1780012800,Ended,2.0,2.0,1.0,1.0,2.0,5.0,5.0,1.0,4.0,5.0
+USA,"USL, League Two",2026,1,15587729,Flatirons SC,417739,Colorado Storm,1090019,,,1780016400,Abandoned,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,
+USA,"USL, League Two",2026,1,15587730,San Antonio FC 2,1173424,Lonestar SC,1090014,,,1780016400,Ended,4.0,4.0,1.0,3.0,4.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587736,Tacoma Stars,381179,FC Olympia,407749,,,1780020000,Ended,4.0,4.0,1.0,3.0,4.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587732,AFC Ann Arbor,313628,Union FC Macomb,507374,,,1780095600,Ended,2.0,2.0,0.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587733,Ocean City Nor'easters,36099,Delaware FC,1088163,,,1780095600,Ended,5.0,5.0,3.0,2.0,5.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587734,Western Mass Pioneers,36101,Connecticut Rush,1173429,,,1780097400,Ended,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587735,Ballard FC,407758,Midlakes United,507373,,,1780106400,Ended,2.0,2.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587737,New Jersey Copa FC,313608,Hudson Valley Hammers,382154,,,1780156800,Ended,2.0,2.0,0.0,2.0,2.0,4.0,4.0,2.0,2.0,4.0
+USA,"USL, League Two",2026,1,15587739,Steel City FC,467565,Akron City FC,414148,,,1780167600,Ended,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587742,Kings Hammer Columbus,1077311,Northern Indiana FC,516600,,,1780174800,Ended,3.0,3.0,2.0,1.0,3.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587743,AC Connecticut,253660,Boston City FC,253850,,,1780178400,Ended,4.0,4.0,2.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587744,Blackwatch Rush,407743,Seacoast United Phantoms,253404,,,1780178400,Ended,2.0,2.0,0.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587747,Inter Gainesville KF,507377,SC Jacksonville II,1173432,,,1780178400,Ended,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587748,Asheville City SC,313610,Port City FC,341745,,,1780180200,Ended,3.0,3.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587749,Morris Elite SC,380874,Manhattan SC,316281,,,1780180200,Ended,0.0,0.0,0.0,0.0,0.0,4.0,4.0,0.0,4.0,4.0
+USA,"USL, League Two",2026,1,15587762,West Virginia United,253410,Toledo Villa FC,313642,,,1780180200,Ended,3.0,3.0,3.0,0.0,3.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587752,Appalachian FC,381170,Wake FC,316192,,,1780182000,Ended,1.0,1.0,1.0,0.0,1.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587750,Bigfoot FC,1090013,Snohomish United,1077314,,,1780182000,Ended,3.0,3.0,3.0,0.0,3.0,5.0,5.0,1.0,4.0,5.0
+USA,"USL, League Two",2026,1,15587746,Cleveland Force SC,407744,Pittsburgh Riverhounds 2,1173436,,,1780182000,Ended,3.0,3.0,0.0,3.0,3.0,4.0,4.0,2.0,2.0,4.0
+USA,"USL, League Two",2026,1,15587753,Eagle FC,1173428,Reading United AC,100015,,,1780182000,Ended,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,3.0
+USA,"USL, League Two",2026,1,15587754,FC Boston Bolts,253403,Black Rock FC,284122,,,1780182000,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587751,FC Lehigh Valley United,253414,Real Central New Jersey,380872,,,1780182000,Ended,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587755,Flint City Bucks,316283,Kalamazoo FC,313650,,,1780182000,Ended,7.0,7.0,2.0,5.0,7.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587756,Fort Lauderdale United FC,1077309,Miami AC,407746,,,1780182000,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587757,Lakeland United FC,1173423,Brevard Fire SC,465618,,,1780182000,Ended,4.0,4.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587758,Lionsbridge FC,284085,Christos FC,253848,,,1780182000,Ended,5.0,5.0,3.0,2.0,5.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587759,Salem City FC,316193,Charlotte Eagles,23633,,,1780182000,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587760,Shark Coast FC,1173431,Brooke House FC,507378,,,1780182000,Ended,2.0,2.0,0.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587761,South Carolina United FC,224816,North Carolina FC U23,253200,,,1780182000,Ended,3.0,3.0,1.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587784,Utah United,507360,Colorado International SA,417129,,,1780182000,Ended,6.0,6.0,1.0,5.0,6.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587763,Loudoun United FC 2,1173420,Charlottesville Blues,507376,,,1780182900,Ended,0.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587764,Annapolis Blues FC,467566,Virginia Beach United,316282,,,1780183800,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587766,Bethesda SC,1173442,Northern Virginia FC,383424,,,1780183800,Ended,4.0,4.0,3.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587765,Ironbound SC,465622,Long Island Rough Riders,253412,,,1780183800,Ended,2.0,2.0,2.0,0.0,2.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587767,AC Houston SUR,407754,Twin City Toucans,253789,,,1780185600,Ended,2.0,2.0,1.0,1.0,2.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15587768,AHFC Royals,284112,Laredo Heat,153488,,,1780185600,Ended,1.0,1.0,1.0,0.0,1.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587745,Atletico Union,1173435,Colorado Storm,1090019,,,1780185600,Ended,1.0,1.0,1.0,0.0,1.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587769,Des Moines Menace,100011,Sunflower State FC,414143,,,1780185600,Ended,3.0,3.0,1.0,2.0,3.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587777,Dothan United SC,507366,Columbus United FC,510443,,,1780185600,Ended,2.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587778,FC Motown II,382638,Cedar Stars FC,420865,,,1780185600,Ended,5.0,5.0,3.0,2.0,5.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587770,Hill Country Lobos,507367,GFI Academy,1173438,,,1780185600,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587771,Jackson Boom USL 2,1173440,Louisiana Krewe FC,339309,,,1780185600,Ended,0.0,0.0,0.0,0.0,0.0,5.0,5.0,1.0,4.0,5.0
+USA,"USL, League Two",2026,1,15587772,Little Rock Rangers,313618,Hattiesburg FC,507368,,,1780185600,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587773,Memphis FC,1173434,Red River FC,1090017,,,1780185600,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587774,Minneapolis City,313612,Rochester FC,465630,,,1780185600,Ended,8.0,8.0,5.0,3.0,8.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587775,Montgomery United FC,1077307,East Atlanta FC,380881,,,1780185600,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587776,Texoma FC,1044344,Denton Diablos,313622,,,1780185600,Ended,2.0,2.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587779,McKinney Chupacabras FC,1090016,Fort Worth Vaqueros,313656,,,1780187400,Ended,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587780,West Texas FC,467398,Lubbock Matadors SC,414147,,,1780187400,Ended,3.0,3.0,1.0,2.0,3.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587781,Almaden FC,507372,CA San Juan FC,294927,,,1780189200,Ended,4.0,4.0,3.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587782,FC Tucson,100013,Southern California Eagles,253421,,,1780192800,Ended,2.0,2.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587783,Redlands FC,465627,City SC San Diego,1090015,,,1780192800,Ended,3.0,3.0,2.0,1.0,3.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587785,Capo FC 2,517933,Amsg FC,507363,,,1780196400,Ended,3.0,3.0,3.0,0.0,3.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587789,Oakland County FC,380876,AFC Ann Arbor,313628,,,1780254000,Ended,4.0,4.0,1.0,3.0,4.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587787,Tacoma Stars,381179,Bangers FC,1090012,,,1780254000,Ended,3.0,3.0,1.0,2.0,3.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15587790,Erie Sports Center,1077308,Lorain County Leviathan FC,1173439,,,1780257600,Ended,1.0,1.0,0.0,1.0,1.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587741,Philadelphia Lone Star,419436,Pennsylvania Classics,414154,,,1780257600,Ended,6.0,6.0,5.0,1.0,6.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587788,St. Croix SC,407751,River Light FC,507365,,,1780257600,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587792,Chicago Dutch Lions FC,407745,Edgewater Castle FC,516610,,,1780264800,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587791,Marin FC Legends,407740,Academica SC,313606,,,1780264800,Ended,5.0,5.0,2.0,3.0,5.0,3.0,3.0,3.0,0.0,3.0
+USA,"USL, League Two",2026,1,15587793,Westchester Flames,253413,Staten Island Asc,507375,,,1780268400,Ended,1.0,1.0,0.0,1.0,1.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587786,Virginia Marauders FC,465621,Hill City FC,1173430,,,1780270200,Ended,1.0,1.0,0.0,1.0,1.0,5.0,5.0,3.0,2.0,5.0
+USA,"USL, League Two",2026,1,15587794,FC Olympia,407749,Ballard FC,407758,,,1780272000,Ended,1.0,1.0,0.0,1.0,1.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587795,RKC Third Coast,465628,Rockford Raptors,1173426,,,1780272000,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587796,Boulder County United,465631,Flatirons SC,417739,,,1780275600,Ended,3.0,3.0,1.0,2.0,3.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587797,Stars FC,1090011,Southern California Eagles,253421,,,1780365600,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587798,New Jersey Copa FC,313608,Cedar Stars FC,420865,,,1780430400,Ended,2.0,2.0,2.0,0.0,2.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587799,Vermont Green FC,407738,FC Boston Bolts,253403,,,1780437600,Ended,5.0,5.0,3.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587800,Eagle FC,1173428,Delaware FC,1088163,,,1780441200,Ended,1.0,1.0,0.0,1.0,1.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587801,Nona FC,407750,Brave SC,222130,,,1780441200,Interrupted,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587802,Texoma FC,1044344,Fort Worth Vaqueros,313656,,,1780444800,Ended,4.0,4.0,2.0,2.0,4.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587803,West Chester United,419461,Reading United AC,100015,,,1780446600,Ended,3.0,3.0,2.0,1.0,3.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587804,Bangers FC,1090012,Midlakes United,507373,,,1780452000,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587806,Union FC Macomb,507374,Midwest United FC,407755,,,1780520400,Ended,0.0,0.0,0.0,0.0,0.0,4.0,4.0,2.0,2.0,4.0
+USA,"USL, League Two",2026,1,15587807,Chicago Dutch Lions FC,407745,Rochester FC,465630,,,1780524000,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587808,Inter Gainesville KF,507377,Shark Coast FC,1173431,,,1780524000,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587809,Miami AC,407746,Weston FC,253665,,,1780524000,Ended,3.0,3.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587810,Northern Indiana FC,516600,Louisville City FC USL 2,1173421,,,1780524000,Ended,2.0,2.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587811,Pittsburgh Riverhounds 2,1173436,FC Buffalo,313627,,,1780524000,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587812,Staten Island Asc,507375,Manhattan SC,316281,,,1780524000,Ended,2.0,2.0,0.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587816,Annapolis Blues FC,467566,Lionsbridge FC,284085,,,1780527600,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587817,Appalachian FC,381170,North Carolina FC U23,253200,,,1780527600,Ended,4.0,4.0,3.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587819,Black Rock FC,284122,Western Mass Pioneers,36101,,,1780527600,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587820,Brevard Fire SC,465618,Fort Lauderdale United FC,1077309,,,1780527600,Ended,1.0,1.0,0.0,1.0,1.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587821,Charlotte Eagles,23633,Tobacco Road FC,253201,,,1780527600,Ended,3.0,3.0,3.0,0.0,3.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587822,Charlotte Independence II,380880,Asheville City SC,313610,,,1780527600,Ended,2.0,2.0,2.0,0.0,2.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587805,Christos FC,253848,Charlottesville Blues,507376,,,1780527600,Ended,2.0,2.0,2.0,0.0,2.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587813,Davis Legacy,407739,San Francisco Glens SC,284088,,,1780527600,Ended,1.0,1.0,0.0,1.0,1.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587823,Dayton Dutch Lions FC,71058,Toledo Villa FC,313642,,,1780527600,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587824,Hill City FC,1173430,Bethesda SC,1173442,,,1780527600,Ended,3.0,3.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587814,Jackson Boom USL 2,1173440,Memphis FC,1173434,,,1780527600,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587825,Lorain County Leviathan FC,1173439,Cleveland Force SC,407744,,,1780527600,Ended,3.0,3.0,1.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587826,New England FC,1077315,Connecticut Rush,1173429,,,1780527600,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587827,Ocean City Nor'easters,36099,Real Central New Jersey,380872,,,1780527600,Ended,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587834,Patuxent Football Athletics,407757,Northern Virginia FC,383424,,,1780527600,Ended,0.0,0.0,0.0,0.0,0.0,5.0,5.0,3.0,2.0,5.0
+USA,"USL, League Two",2026,1,15587829,Pennsylvania Classics,414154,Philadelphia Lone Star,419436,,,1780527600,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587815,Rockford Raptors,1173426,St. Croix SC,407751,,,1780527600,Ended,4.0,4.0,2.0,2.0,4.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587831,SC Jacksonville II,1173432,Brooke House FC,507378,,,1780527600,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587830,Salem City FC,316193,Hickory FC,508947,,,1780527600,Ended,1.0,1.0,1.0,0.0,1.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587832,Wake FC,316192,South Carolina United FC,224816,,,1780527600,Ended,1.0,1.0,0.0,1.0,1.0,4.0,4.0,2.0,2.0,4.0
+USA,"USL, League Two",2026,1,15587835,Capo FC 2,517933,Redlands FC,465627,,,1780529400,Ended,3.0,3.0,3.0,0.0,3.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15587836,Long Island Rough Riders,253412,Hudson Valley Hammers,382154,,,1780529400,Ended,1.0,1.0,1.0,0.0,1.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587837,Morris Elite SC,380874,FC Motown II,382638,,,1780529400,Ended,0.0,0.0,0.0,0.0,0.0,4.0,4.0,2.0,2.0,4.0
+USA,"USL, League Two",2026,1,15587838,AHFC Royals,284112,AC Houston SUR,407754,,,1780531200,Ended,2.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587849,Dothan United SC,507366,Southern SA Kings,380882,,,1780531200,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587840,GFI Academy,1173438,Lonestar SC,1090014,,,1780531200,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587841,Houston FC,253791,Hill Country Lobos,507367,,,1780531200,Canceled,,,,,,,,,,
+USA,"USL, League Two",2026,1,15587842,Lubbock Matadors SC,414147,Denton Diablos,313622,,,1780531200,Ended,1.0,1.0,1.0,0.0,1.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587843,Mississippi Brilla FC,253788,Red River FC,1090017,,,1780531200,Ended,3.0,3.0,2.0,1.0,3.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587844,Montgomery United FC,1077307,Birmingham Legion FC 2,507370,,,1780531200,Ended,2.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587846,RKC Third Coast,465628,Minneapolis City,313612,,,1780531200,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587847,Santafe Wanderers FC,1077483,Peoria City,380878,,,1780531200,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587848,Sunflower State FC,414143,Des Moines Menace,100011,,,1780531200,Ended,2.0,2.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587850,Virginia Marauders FC,465621,Loudoun United FC 2,1173420,,,1780531200,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587851,Marin FC Legends,407740,Project 51O,341750,,,1780533000,Ended,2.0,2.0,0.0,2.0,2.0,5.0,5.0,2.0,3.0,5.0
+USA,"USL, League Two",2026,1,15587845,River Light FC,507365,Sueño FC,507364,,,1780533000,Ended,2.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587818,Atletico Union,1173435,Colorado International SA,417129,,,1780534800,Ended,4.0,4.0,1.0,3.0,4.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15587854,Real Colorado,1173441,Colorado Storm,1090019,,,1780538400,Ended,1.0,1.0,0.0,1.0,1.0,4.0,4.0,2.0,2.0,4.0
+USA,"USL, League Two",2026,1,15587852,San Francisco City,253178,Almaden FC,507372,,,1780538400,Ended,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587853,Tacoma Stars,381179,Ballard FC,407758,,,1780538400,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587855,Boulder County United,465631,Utah United,507360,,,1780610400,Ended,1.0,1.0,1.0,0.0,1.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587856,Southern California Eagles,253421,FC Tucson,100013,,,1780624800,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587857,Snohomish United,1077314,Midlakes United,507373,,,1780707600,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587858,FC Olympia,407749,Bigfoot FC,1090013,,,1780709400,Ended,3.0,3.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587859,Redlands FC,465627,Amsg FC,507363,,,1780711200,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587904,Twin City Toucans,253789,Houston FC,253791,,,1780758000,Ended,2.0,2.0,1.0,1.0,2.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587861,Steel City FC,467565,FC Buffalo,313627,,,1780772400,Ended,3.0,3.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587860,Sunflower State FC,414143,Springfield FC,1077484,,,1780772400,Ended,3.0,3.0,2.0,1.0,3.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587863,Erie Sports Center,1077308,Cleveland Force SC,407744,,,1780776000,Ended,1.0,1.0,0.0,1.0,1.0,4.0,4.0,3.0,1.0,4.0
+USA,"USL, League Two",2026,1,15587864,Philadelphia Lone Star,419436,FC Lehigh Valley United,253414,,,1780776000,Ended,4.0,4.0,1.0,3.0,4.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587865,Edgewater Castle FC,516610,Rochester FC,465630,,,1780779600,Ended,3.0,3.0,2.0,1.0,3.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587867,Miami AC,407746,Brevard Fire SC,465618,,,1780781400,Ended,2.0,2.0,2.0,0.0,2.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587868,Blackwatch Rush,407743,Boston City FC,253850,,,1780783200,Ended,4.0,4.0,3.0,1.0,4.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587870,Northern Indiana FC,516600,Dayton Dutch Lions FC,71058,,,1780783200,Walkover,3.0,3.0,,,,0.0,0.0,,,
+USA,"USL, League Two",2026,1,15587873,Annapolis Blues FC,467566,Patuxent Football Athletics,407757,,,1780786800,Ended,7.0,7.0,4.0,3.0,7.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587874,Appalachian FC,381170,Hickory FC,508947,,,1780786800,Ended,2.0,2.0,0.0,2.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587877,Cedar Stars FC,420865,Staten Island Asc,507375,,,1780786800,Ended,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587869,Connecticut Rush,1173429,Seacoast United Phantoms,253404,,,1780786800,Ended,2.0,2.0,0.0,2.0,2.0,3.0,3.0,0.0,3.0,3.0
+USA,"USL, League Two",2026,1,15587878,FC Boston Bolts,253403,AC Connecticut,253660,,,1780786800,Ended,3.0,3.0,1.0,2.0,3.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587879,FC Miami City Champions,253231,Fort Lauderdale United FC,1077309,,,1780786800,Ended,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,3.0,3.0
+USA,"USL, League Two",2026,1,15587880,Flint City Bucks,316283,Midwest United FC,407755,,,1780786800,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587881,Lorain County Leviathan FC,1173439,Pittsburgh Riverhounds 2,1173436,,,1780786800,Ended,3.0,3.0,2.0,1.0,3.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587882,Manhattan SC,316281,FC Motown II,382638,,,1780786800,Ended,1.0,1.0,1.0,0.0,1.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587883,New England FC,1077315,Black Rock FC,284122,,,1780786800,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587884,Oakland County FC,380876,Lansing City Football,407759,,,1780786800,Ended,6.0,6.0,2.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587885,Ocean City Nor'easters,36099,Pennsylvania Classics,414154,,,1780786800,Ended,5.0,5.0,3.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587887,Shark Coast FC,1173431,Nona FC,407750,,,1780786800,Ended,1.0,1.0,1.0,0.0,1.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587888,South Carolina United FC,224816,Port City FC,341745,,,1780786800,Ended,3.0,3.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587894,Southern SA Kings,380882,Birmingham Legion FC 2,507370,,,1780788300,Ended,3.0,3.0,2.0,1.0,3.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587891,Bethesda SC,1173442,Virginia Beach United,316282,,,1780788600,Ended,1.0,1.0,1.0,0.0,1.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587889,Charlotte Independence II,380880,Charlotte Eagles,23633,,,1780788600,Ended,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587893,East Atlanta FC,380881,Apotheos FC,414152,,,1780788600,Ended,2.0,2.0,0.0,2.0,2.0,4.0,4.0,2.0,2.0,4.0
+USA,"USL, League Two",2026,1,15587886,Salem City FC,316193,North Carolina FC U23,253200,,,1780788600,Ended,2.0,2.0,0.0,2.0,2.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587890,Westchester Flames,253413,New Jersey Copa FC,313608,,,1780788600,Ended,2.0,2.0,2.0,0.0,2.0,4.0,4.0,2.0,2.0,4.0
+USA,"USL, League Two",2026,1,15587892,Columbus United FC,510443,Montgomery United FC,1077307,,,1780789200,Ended,3.0,3.0,0.0,3.0,3.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587905,Charlottesville Blues,507376,Northern Virginia FC,383424,,,1780790400,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587895,City SC San Diego,1090015,FC Tucson,100013,,,1780790400,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587897,Hattiesburg FC,507368,Memphis FC,1173434,,,1780790400,Ended,3.0,3.0,1.0,2.0,3.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587898,Hill Country Lobos,507367,San Antonio FC 2,1173424,,,1780790400,Ended,3.0,3.0,0.0,3.0,3.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587899,Little Rock Rangers,313618,Jackson Boom USL 2,1173440,,,1780790400,Ended,2.0,2.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587900,Louisiana Krewe FC,339309,Red River FC,1090017,,,1780790400,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587901,Minneapolis City,313612,Sueño FC,507364,,,1780790400,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587902,Rockford Raptors,1173426,River Light FC,507365,,,1780790400,Ended,1.0,1.0,0.0,1.0,1.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15587896,Saint Louis Ambush,1077482,Santafe Wanderers FC,1077483,,,1780790400,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587903,Texoma FC,1044344,Lubbock Matadors SC,414147,,,1780790400,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587906,Denton Diablos,313622,McKinney Chupacabras FC,1090016,,,1780792200,Postponed,,,,,,,,,,
+USA,"USL, League Two",2026,1,15587907,Almaden FC,507372,Marin FC Legends,407740,,,1780794000,Ended,3.0,3.0,0.0,3.0,3.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587876,Atletico Union,1173435,Utah United,507360,,,1780794000,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587908,Colorado International SA,417129,Flatirons SC,417739,,,1780794000,Ended,4.0,4.0,2.0,2.0,4.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587909,Laredo Heat,153488,AC Houston SUR,407754,,,1780794000,Ended,3.0,3.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587910,Lonestar SC,1090014,AHFC Royals,284112,,,1780794000,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587911,Ballard FC,407758,Bangers FC,1090012,,,1780797600,Ended,3.0,3.0,1.0,2.0,3.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587913,CA San Juan FC,294927,Academica SC,313606,,,1780797600,Ended,2.0,2.0,0.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587912,Capo FC 2,517933,Ventura County Fusion,71056,,,1780801200,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587862,Eagle FC,1173428,Real Central New Jersey,380872,,,1780858800,Ended,1.0,1.0,0.0,1.0,1.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587915,Lakeland United FC,1173423,Weston FC,253665,,,1780862400,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587917,Toledo Villa FC,313642,Louisville City FC USL 2,1173421,,,1780866000,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587916,West Seattle Junction FC,507371,Midlakes United,507373,,,1780866000,Ended,3.0,3.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587918,Union FC Macomb,507374,Kalamazoo FC,313650,,,1780867800,Ended,2.0,2.0,1.0,1.0,2.0,7.0,7.0,1.0,6.0,7.0
+USA,"USL, League Two",2026,1,15587921,Long Island Rough Riders,253412,Morris Elite SC,380874,,,1780869600,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587919,San Francisco City,253178,San Francisco Glens SC,284088,,,1780869600,Ended,2.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587920,Snohomish United,1077314,FC Olympia,407749,,,1780869600,Ended,5.0,5.0,2.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587922,Asheville City SC,313610,Wake FC,316192,,,1780871400,Ended,2.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587924,RKC Third Coast,465628,St. Croix SC,407751,,,1780873200,Ended,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587923,Tacoma Stars,381179,Bigfoot FC,1090013,,,1780873200,Ended,3.0,3.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587925,Loudoun United FC 2,1173420,Lionsbridge FC,284085,,,1780875000,Ended,1.0,1.0,1.0,0.0,1.0,4.0,4.0,3.0,1.0,4.0
+USA,"USL, League Two",2026,1,15587914,Virginia Marauders FC,465621,Christos FC,253848,,,1780875000,Ended,1.0,1.0,1.0,0.0,1.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587926,Boulder County United,465631,Real Colorado,1173441,,,1780880400,Ended,4.0,4.0,2.0,2.0,4.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587927,Amsg FC,507363,Stars FC,1090011,,,1780887600,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587928,Brave SC,222130,SC Jacksonville II,1173432,,,1780959600,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587929,Cleveland Force SC,407744,Akron City FC,414148,,,1781042400,Ended,1.0,1.0,1.0,0.0,1.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587930,Delaware FC,1088163,West Chester United,419461,,,1781046000,Ended,1.0,1.0,0.0,1.0,1.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587931,FC Lehigh Valley United,253414,Philadelphia Lone Star,419436,,,1781046000,Ended,3.0,3.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587953,Northern Virginia FC,383424,Charlottesville Blues,507376,,,1781046000,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587932,Southern SA Kings,380882,Columbus United FC,510443,,,1781047800,Ended,6.0,6.0,3.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587933,Laredo Heat,153488,Lonestar SC,1090014,,,1781053200,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587957,Charlotte Eagles,23633,Asheville City SC,313610,,,1781125200,Ended,2.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15587956,Erie Sports Center,1077308,FC Buffalo,313627,,,1781125200,Ended,0.0,0.0,0.0,0.0,0.0,5.0,5.0,3.0,2.0,5.0
+USA,"USL, League Two",2026,1,15587958,Chicago Dutch Lions FC,407745,St. Croix SC,407751,,,1781128800,Ended,1.0,1.0,1.0,0.0,1.0,4.0,4.0,3.0,1.0,4.0
+USA,"USL, League Two",2026,1,15587972,Nona FC,407750,Brooke House FC,507378,,,1781128800,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587960,Steel City FC,467565,Pittsburgh Riverhounds 2,1173436,,,1781128800,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587961,Charlotte Independence II,380880,Port City FC,341745,,,1781130600,Ended,4.0,4.0,3.0,1.0,4.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587959,AC Connecticut,253660,Vermont Green FC,407738,,,1781132400,Ended,1.0,1.0,1.0,0.0,1.0,4.0,4.0,3.0,1.0,4.0
+USA,"USL, League Two",2026,1,15587963,Appalachian FC,381170,Salem City FC,316193,,,1781132400,Ended,5.0,5.0,3.0,2.0,5.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587955,Birmingham Legion FC 2,507370,Dothan United SC,507366,,,1781132400,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587964,Black Rock FC,284122,Blackwatch Rush,407743,,,1781132400,Ended,3.0,3.0,2.0,1.0,3.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587965,Brevard Fire SC,465618,Lakeland United FC,1173423,,,1781132400,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587966,Cedar Stars FC,420865,Westchester Flames,253413,,,1781132400,Ended,2.0,2.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587934,Christos FC,253848,Bethesda SC,1173442,,,1781132400,Ended,2.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587967,Connecticut Rush,1173429,FC Boston Bolts,253403,,,1781132400,Ended,3.0,3.0,2.0,1.0,3.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587968,Dayton Dutch Lions FC,71058,Kings Hammer Columbus,1077311,,,1781132400,Ended,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587969,FC Miami City Champions,253231,Weston FC,253665,,,1781132400,Ended,2.0,2.0,2.0,0.0,2.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15587970,Flint City Bucks,316283,AFC Ann Arbor,313628,,,1781132400,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587971,New England FC,1077315,Seacoast United Phantoms,253404,,,1781132400,Ended,2.0,2.0,0.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587974,North Carolina FC U23,253200,Wake FC,316192,,,1781132400,Ended,3.0,3.0,1.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587975,Northern Indiana FC,516600,Toledo Villa FC,313642,,,1781132400,Ended,3.0,3.0,2.0,1.0,3.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587976,Pennsylvania Classics,414154,Eagle FC,1173428,,,1781132400,Ended,3.0,3.0,1.0,2.0,3.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587977,Reading United AC,100015,Ocean City Nor'easters,36099,,,1781132400,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15587979,SC Jacksonville II,1173432,Shark Coast FC,1173431,,,1781132400,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587978,South Carolina United FC,224816,Tobacco Road FC,253201,,,1781132400,Ended,3.0,3.0,0.0,3.0,3.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15587962,Sueño FC,507364,Rockford Raptors,1173426,,,1781132400,Ended,4.0,4.0,1.0,3.0,4.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587980,Virginia Beach United,316282,Hill City FC,1173430,,,1781132400,Ended,5.0,5.0,4.0,1.0,5.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587982,Ironbound SC,465622,New Jersey Copa FC,313608,,,1781134200,Ended,4.0,4.0,2.0,2.0,4.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587981,Loudoun United FC 2,1173420,Annapolis Blues FC,467566,,,1781134200,Ended,2.0,2.0,0.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587954,Virginia Marauders FC,465621,Patuxent Football Athletics,407757,,,1781134200,Ended,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587984,Hattiesburg FC,507368,Red River FC,1090017,,,1781136000,Ended,3.0,3.0,3.0,0.0,3.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15587985,Hill Country Lobos,507367,AHFC Royals,284112,,,1781136000,Ended,2.0,2.0,1.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587986,Houston FC,253791,GFI Academy,1173438,,,1781136000,Ended,3.0,3.0,1.0,2.0,3.0,6.0,6.0,3.0,3.0,6.0
+USA,"USL, League Two",2026,1,15587987,Jackson Boom USL 2,1173440,Little Rock Rangers,313618,,,1781136000,Ended,0.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,1.0,3.0
+USA,"USL, League Two",2026,1,15587992,Manhattan SC,316281,Morris Elite SC,380874,,,1781136000,Ended,5.0,5.0,2.0,3.0,5.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587993,Midwest United FC,407755,Oakland County FC,380876,,,1781136000,Ended,1.0,1.0,0.0,1.0,1.0,3.0,3.0,0.0,3.0,3.0
+USA,"USL, League Two",2026,1,15587988,River Light FC,507365,Edgewater Castle FC,516610,,,1781136000,Postponed,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,,1.0
+USA,"USL, League Two",2026,1,15587983,Saint Louis Ambush,1077482,Springfield FC,1077484,,,1781136000,Ended,2.0,2.0,0.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15587990,Santafe Wanderers FC,1077483,Des Moines Menace,100011,,,1781136000,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587999,Boston City FC,253850,Western Mass Pioneers,36101,,,1781137800,Ended,2.0,2.0,0.0,2.0,2.0,5.0,5.0,3.0,2.0,5.0
+USA,"USL, League Two",2026,1,15587994,McKinney Chupacabras FC,1090016,Lubbock Matadors SC,414147,,,1781137800,Ended,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587995,West Texas FC,467398,Texoma FC,1044344,,,1781137800,Ended,2.0,2.0,0.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587996,City SC San Diego,1090015,Stars FC,1090011,,,1781139600,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587998,Real Colorado,1173441,Colorado International SA,417129,,,1781139600,Ended,4.0,4.0,1.0,3.0,4.0,3.0,3.0,0.0,3.0,3.0
+USA,"USL, League Two",2026,1,15588000,Academica SC,313606,Almaden FC,507372,,,1781143200,Ended,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15588002,Ventura County Fusion,71056,Redlands FC,465627,,,1781143200,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587997,Snohomish United,1077314,Ballard FC,407758,,,1781145000,Ended,2.0,2.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15588004,Lansing City Football,407759,Kalamazoo FC,313650,,,1781218800,Ended,0.0,0.0,0.0,0.0,0.0,7.0,7.0,3.0,4.0,7.0
+USA,"USL, League Two",2026,1,15588003,Utah United,507360,Flatirons SC,417739,,,1781218800,Ended,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15588005,Twin City Toucans,253789,San Antonio FC 2,1173424,,,1781226000,Ended,3.0,3.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15588007,CA San Juan FC,294927,Project 51O,341750,,,1781229600,Ended,1.0,1.0,0.0,1.0,1.0,3.0,3.0,0.0,3.0,3.0
+USA,"USL, League Two",2026,1,15588006,Capo FC 2,517933,FC Tucson,100013,,,1781233200,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15588008,Long Island Rough Riders,253412,FC Motown II,382638,,,1781305200,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15588010,Midlakes United,507373,West Seattle Junction FC,507371,,,1781305200,Ended,2.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,0.0,1.0
+USA,"USL, League Two",2026,1,15588009,Colorado International SA,417129,Colorado Storm,1090019,,,1781312400,Ended,0.0,0.0,0.0,0.0,0.0,4.0,4.0,2.0,2.0,4.0
+USA,"USL, League Two",2026,1,15588011,FC Olympia,407749,Tacoma Stars,381179,,,1781316000,Ended,4.0,4.0,1.0,3.0,4.0,5.0,5.0,1.0,4.0,5.0
+USA,"USL, League Two",2026,1,15588016,AFC Ann Arbor,313628,Midwest United FC,407755,,,1781377200,Ended,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,2.0,2.0
+USA,"USL, League Two",2026,1,15588017,Steel City FC,467565,Erie Sports Center,1077308,,,1781377200,Ended,4.0,4.0,3.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15588014,Birmingham Legion FC 2,507370,Apotheos FC,414152,,,1781380800,Ended,1.0,1.0,1.0,0.0,1.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15588013,Miami AC,407746,Fort Lauderdale United FC,1077309,,,1781380800,Ended,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,3.0,3.0
+USA,"USL, League Two",2026,1,15588018,West Virginia United,253410,Northern Indiana FC,516600,,,1781380800,Ended,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15588019,Brooke House FC,507378,Shark Coast FC,1173431,,,1781384400,Ended,5.0,5.0,0.0,5.0,5.0,3.0,3.0,1.0,2.0,3.0
+USA,"USL, League Two",2026,1,15588020,FC Buffalo,313627,Cleveland Force SC,407744,,,1781384400,Ended,4.0,4.0,2.0,2.0,4.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15588022,AC Connecticut,253660,Seacoast United Phantoms,253404,,,1781388000,Ended,3.0,3.0,2.0,1.0,3.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15588021,Amsg FC,507363,FC Tucson,100013,,,1781388000,Ended,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15588015,Chicago Dutch Lions FC,407745,River Light FC,507365,,,1781388000,Ended,2.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15588023,North Carolina FC U23,253200,Salem City FC,316193,,,1781388000,Ended,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15588024,Port City FC,341745,Tobacco Road FC,253201,,,1781389800,Ended,1.0,1.0,0.0,1.0,1.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15588012,Christos FC,253848,Patuxent Football Athletics,407757,,,1781391600,Ended,2.0,2.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15588025,Kings Hammer Columbus,1077311,Toledo Villa FC,313642,,,1781391600,Ended,1.0,1.0,0.0,1.0,1.0,2.0,2.0,1.0,1.0,2.0
+USA,"USL, League Two",2026,1,15588026,Lansing City Football,407759,Union FC Macomb,507374,,,1781391600,Ended,2.0,2.0,2.0,0.0,2.0,5.0,5.0,2.0,3.0,5.0
+USA,"USL, League Two",2026,1,15588027,Lionsbridge FC,284085,Northern Virginia FC,383424,,,1781391600,Ended,5.0,5.0,2.0,3.0,5.0,4.0,4.0,3.0,1.0,4.0
+USA,"USL, League Two",2026,1,15588028,Lorain County Leviathan FC,1173439,Akron City FC,414148,,,1781391600,Ended,4.0,4.0,1.0,3.0,4.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15588029,Oakland County FC,380876,Flint City Bucks,316283,,,1781391600,Ended,1.0,1.0,0.0,1.0,1.0,2.0,2.0,2.0,0.0,2.0
+USA,"USL, League Two",2026,1,15588030,Pennsylvania Classics,414154,FC Lehigh Valley United,253414,,,1781391600,Ended,2.0,2.0,2.0,0.0,2.0,4.0,4.0,1.0,3.0,4.0
+USA,"USL, League Two",2026,1,15588032,SC Jacksonville II,1173432,Inter Gainesville KF,507377,,,1781391600,Ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15588031,South Carolina United FC,224816,Hickory FC,508947,,,1781391600,Ended,0.0,0.0,0.0,0.0,0.0,5.0,5.0,2.0,3.0,5.0
+USA,"USL, League Two",2026,1,15588033,Vermont Green FC,407738,New England FC,1077315,,,1781391600,Ended,5.0,5.0,3.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15588034,Virginia Beach United,316282,Virginia Marauders FC,465621,,,1781391600,Ended,3.0,3.0,0.0,3.0,3.0,1.0,1.0,0.0,1.0,1.0
+USA,"USL, League Two",2026,1,15587574,Toledo Villa FC,313642,Northern Indiana FC,516600,,,1782514800,Postponed,,,,,,,,,,
+USA,"USL, League Two",2026,1,15587738,Santafe Wanderers FC,1077483,Springfield FC,1077484,,,1782846000,Postponed,,,,,,,,,,
+USA,"USL, League Two",2026,1,15587619,Kings Hammer Columbus,1077311,Dayton Dutch Lions FC,71058,,,1783292400,Postponed,,,,,,,,,,
+USA,"USL, League Two",2026,1,15587506,Northern Virginia FC,383424,Patuxent Football Athletics,407757,,,1783295400,Ended,8.0,8.0,2.0,6.0,8.0,0.0,0.0,0.0,0.0,0.0
+USA,"USL, League Two",2026,1,15587989,Rochester FC,465630,Minneapolis City,313612,,,1783382400,Ended,0.0,0.0,0.0,0.0,0.0,4.0,4.0,0.0,4.0,4.0
