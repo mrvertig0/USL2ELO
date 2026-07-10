@@ -1,0 +1,1138 @@
+country,tournament,season,week,game_id,home_team,home_team_id,away_team,away_team_id,home_score_period1,home_score_period2,home_score_normaltime,home_score_display,home_score_current,away_score_period1,away_score_period2,away_score_normaltime,away_score_display,away_score_current,start_timestamp,status
+USA,"USL, League One",2019,,8174727,Richmond Kickers,23841,Lansing Ignite FC,312634,0,2,2,2,2,2,1,3,3,3,1553979600,Ended
+USA,"USL, League One",2019,1,8181444,Richmond Kickers,23841,South Georgia Tormenta FC,253417,0,0,0,0,0,0,0,0,0,0,1554584400,Ended
+USA,"USL, League One",2019,1,8188116,Lansing Ignite FC,312634,Richmond Kickers,23841,0,3,3,3,3,0,1,1,1,1,1555196400,Ended
+USA,"USL, League One",2019,1,8194006,Greenville Triumph SC,312633,Richmond Kickers,23841,0,0,0,0,0,0,1,1,1,1,1555801200,Ended
+USA,"USL, League One",2019,1,8199789,Richmond Kickers,23841,Chattanooga Red Wolves SC,312631,0,1,1,1,1,0,0,0,0,0,1556406000,Ended
+USA,"USL, League One",2019,1,8205249,Richmond Kickers,23841,Lansing Ignite FC,312634,1,1,2,2,2,0,2,2,2,2,1557010800,Ended
+USA,"USL, League One",2019,1,8210360,Richmond Kickers,23841,FC Tucson,100013,0,2,2,2,2,0,0,0,0,0,1557615600,Ended
+USA,"USL, League One",2019,1,8216563,Greenville Triumph SC,312633,Richmond Kickers,23841,1,0,1,1,1,0,0,0,0,0,1558220400,Ended
+USA,"USL, League One",2019,1,8219837,Orlando City B,220945,Richmond Kickers,23841,2,1,3,3,3,1,1,2,2,2,1558567800,Ended
+USA,"USL, League One",2019,1,8227325,Richmond Kickers,23841,North Texas SC,312635,0,0,0,0,0,1,2,3,3,3,1559430000,Ended
+USA,"USL, League One",2019,1,8232328,FC Tucson,100013,Richmond Kickers,23841,0,0,0,0,0,0,0,0,0,0,1560047400,Ended
+USA,"USL, League One",2019,1,8239779,Richmond Kickers,23841,Chattanooga Red Wolves SC,312631,0,0,0,0,0,0,2,2,2,2,1560639600,Ended
+USA,"USL, League One",2019,1,8248227,South Georgia Tormenta FC,253417,Richmond Kickers,23841,0,1,1,1,1,0,0,0,0,0,1561248000,Ended
+USA,"USL, League One",2019,1,8262120,Chattanooga Red Wolves SC,312631,Richmond Kickers,23841,1,0,1,1,1,0,0,0,0,0,1561849200,Ended
+USA,"USL, League One",2019,1,8288208,Richmond Kickers,23841,North Texas SC,312635,0,0,0,0,0,2,0,2,2,2,1563058800,Ended
+USA,"USL, League One",2019,1,8302938,Richmond Kickers,23841,Orlando City B,220945,0,1,1,1,1,0,0,0,0,0,1563663600,Ended
+USA,"USL, League One",2019,1,8318026,Toronto FC II,217784,Richmond Kickers,23841,1,0,1,1,1,1,1,2,2,2,1564171200,Ended
+USA,"USL, League One",2019,1,8344265,Forward Madison FC,312632,Richmond Kickers,23841,0,0,0,0,0,0,1,1,1,1,1565481600,Ended
+USA,"USL, League One",2019,1,8355155,Richmond Kickers,23841,Toronto FC II,217784,2,0,2,2,2,0,2,2,2,2,1566082800,Ended
+USA,"USL, League One",2019,1,8364818,Forward Madison FC,312632,Richmond Kickers,23841,0,1,1,1,1,0,0,0,0,0,1566691200,Ended
+USA,"USL, League One",2019,1,8381803,South Georgia Tormenta FC,253417,Richmond Kickers,23841,1,0,1,1,1,3,1,4,4,4,1567296000,Ended
+USA,"USL, League One",2019,1,8393529,Richmond Kickers,23841,Greenville Triumph SC,312633,1,,1,1,1,0,,0,0,0,1567897200,Ended
+USA,"USL, League One",2019,1,8397368,North Texas SC,312635,Richmond Kickers,23841,2,,4,4,4,0,,0,0,0,1568160000,Ended
+USA,"USL, League One",2019,1,8401701,Richmond Kickers,23841,Forward Madison FC,312632,0,,0,0,0,1,,1,1,1,1568502000,Ended
+USA,"USL, League One",2019,1,8411083,FC Tucson,100013,Richmond Kickers,23841,0,,0,0,0,0,,0,0,0,1569119400,Ended
+USA,"USL, League One",2019,1,8421743,Chattanooga Red Wolves SC,312631,Richmond Kickers,23841,2,,2,2,2,0,,1,1,1,1569711600,Ended
+USA,"USL, League One",2019,,8428969,Richmond Kickers,23841,Toronto FC II,217784,1,0,1,1,1,1,1,2,2,2,1570057200,Ended
+USA,"USL, League One",2019,1,8433453,Richmond Kickers,23841,Orlando City B,220945,2,,2,2,2,0,,0,0,0,1570316400,Ended
+USA,"USL, League One",2020,1,8749837,South Georgia Tormenta FC,253417,Richmond Kickers,23841,,,,,,,,,,,1595116800,Canceled
+USA,"USL, League One",2020,1,8789653,Greenville Triumph SC,312633,Richmond Kickers,23841,1,2,3,3,3,1,1,2,2,2,1595718000,Ended
+USA,"USL, League One",2020,1,8804064,South Georgia Tormenta FC,253417,Richmond Kickers,23841,0,0,0,0,0,0,0,0,0,0,1595977200,Ended
+USA,"USL, League One",2020,1,8789654,Richmond Kickers,23841,Fort Lauderdale,338004,,,,,,,,,,,1596319200,Canceled
+USA,"USL, League One",2020,1,8809071,Richmond Kickers,23841,Forward Madison FC,312632,1,,1,1,1,0,,0,0,0,1596925800,Ended
+USA,"USL, League One",2020,1,8809087,Richmond Kickers,23841,FC Tucson,100013,2,0,2,2,2,0,1,1,1,1,1597530600,Ended
+USA,"USL, League One",2020,1,8809117,New England Revolution II,338005,Richmond Kickers,23841,0,,1,1,1,0,,2,2,2,1598050800,Ended
+USA,"USL, League One",2020,1,8809135,Richmond Kickers,23841,Greenville Triumph SC,312633,2,,2,2,2,1,,1,1,1,1598740200,Ended
+USA,"USL, League One",2020,1,8814090,FC Tucson,100013,Richmond Kickers,23841,2,,2,2,2,1,,2,2,2,1599359400,Ended
+USA,"USL, League One",2020,1,8814100,Chattanooga Red Wolves SC,312631,Richmond Kickers,23841,0,2,2,2,2,1,0,1,1,1,1599930000,Ended
+USA,"USL, League One",2020,1,8814117,Richmond Kickers,23841,Orlando City B,220945,,,,,,,,,,,1600554600,Canceled
+USA,"USL, League One",2020,1,9004415,Richmond Kickers,23841,Fort Lauderdale,338004,1,,2,2,2,1,,1,1,1,1600900200,Ended
+USA,"USL, League One",2020,1,8814113,Union Omaha SC,338006,Richmond Kickers,23841,0,,0,0,0,0,,1,1,1,1601164800,Ended
+USA,"USL, League One",2020,1,8814126,Richmond Kickers,23841,New England Revolution II,338005,0,,0,0,0,2,,4,4,4,1601764200,Ended
+USA,"USL, League One",2020,1,9040273,Richmond Kickers,23841,Orlando City B,220945,2,,2,2,2,0,,1,1,1,1602109800,Ended
+USA,"USL, League One",2020,1,8814125,North Texas SC,312635,Richmond Kickers,23841,2,,2,2,2,0,,1,1,1,1602376200,Ended
+USA,"USL, League One",2020,1,8814141,Richmond Kickers,23841,South Georgia Tormenta FC,253417,0,,0,0,0,1,,1,1,1,1602973800,Ended
+USA,"USL, League One",2020,1,8814144,Orlando City B,220945,Richmond Kickers,23841,1,0,1,1,1,1,2,3,3,3,1603292400,Ended
+USA,"USL, League One",2020,1,8814145,Richmond Kickers,23841,Chattanooga Red Wolves SC,312631,0,,1,1,1,0,,2,2,2,1603578600,Ended
+USA,"USL, League One",2021,1,9410319,New England Revolution II,338005,Richmond Kickers,23841,0,,0,0,0,2,,3,3,3,1618693200,Ended
+USA,"USL, League One",2021,1,9410316,Richmond Kickers,23841,Greenville Triumph SC,312633,0,,0,0,0,0,,1,1,1,1619303400,Ended
+USA,"USL, League One",2021,1,9435424,Fort Lauderdale,338004,Richmond Kickers,23841,1,,2,2,2,0,,1,1,1,1619998200,Ended
+USA,"USL, League One",2021,1,9435502,Richmond Kickers,23841,South Georgia Tormenta FC,253417,0,,2,2,2,0,,0,0,0,1620513000,Ended
+USA,"USL, League One",2021,1,9435439,Richmond Kickers,23841,North Carolina FC,22003,0,,0,0,0,0,,0,0,0,1621722600,Ended
+USA,"USL, League One",2021,1,9435469,Chattanooga Red Wolves SC,312631,Richmond Kickers,23841,0,,2,2,2,0,,1,1,1,1622329200,Ended
+USA,"USL, League One",2021,1,9435536,Richmond Kickers,23841,New England Revolution II,338005,2,,3,3,3,1,,2,2,2,1622932200,Ended
+USA,"USL, League One",2021,1,9435474,Forward Madison FC,312632,Richmond Kickers,23841,0,,0,0,0,0,,0,0,0,1623542400,Ended
+USA,"USL, League One",2021,1,9435523,Richmond Kickers,23841,Union Omaha SC,338006,0,,1,1,1,1,,1,1,1,1624141800,Ended
+USA,"USL, League One",2021,1,9435453,North Carolina FC,22003,Richmond Kickers,23841,0,,2,2,2,1,,1,1,1,1624662000,Ended
+USA,"USL, League One",2021,1,9435473,Richmond Kickers,23841,North Texas SC,312635,1,,3,3,3,2,,2,2,2,1625351400,Ended
+USA,"USL, League One",2021,1,9435447,Richmond Kickers,23841,Fort Lauderdale,338004,0,1,1,1,1,1,0,1,1,1,1626563100,Ended
+USA,"USL, League One",2021,1,9435550,North Carolina FC,22003,Richmond Kickers,23841,2,,4,4,4,0,,0,0,0,1626908400,Ended
+USA,"USL, League One",2021,1,9435432,South Georgia Tormenta FC,253417,Richmond Kickers,23841,1,,2,2,2,0,,2,2,2,1627171200,Ended
+USA,"USL, League One",2021,1,9435553,Richmond Kickers,23841,FC Tucson,100013,1,,1,1,1,0,,0,0,0,1627770600,Ended
+USA,"USL, League One",2021,1,9435544,Toronto FC II,217784,Richmond Kickers,23841,1,,2,2,2,1,,1,1,1,1628280000,Ended
+USA,"USL, League One",2021,1,9435548,Richmond Kickers,23841,New England Revolution II,338005,1,,2,2,2,0,,2,2,2,1628980200,Ended
+USA,"USL, League One",2021,1,9435481,Greenville Triumph SC,312633,Richmond Kickers,23841,0,,0,0,0,0,,2,2,2,1629673200,Ended
+USA,"USL, League One",2021,1,9435487,Richmond Kickers,23841,North Carolina FC,22003,0,,0,0,0,0,,0,0,0,1630189800,Ended
+USA,"USL, League One",2021,1,9435454,Richmond Kickers,23841,Forward Madison FC,312632,,,,,,,,,,,1630535400,Postponed
+USA,"USL, League One",2021,1,9435574,Forward Madison FC,312632,Richmond Kickers,23841,0,,1,1,1,0,,0,0,0,1631404800,Ended
+USA,"USL, League One",2021,1,9435434,New England Revolution II,338005,Richmond Kickers,23841,1,,3,3,3,1,,1,1,1,1631919600,Ended
+USA,"USL, League One",2021,1,9435577,Richmond Kickers,23841,Toronto FC II,217784,0,,1,1,1,0,,0,0,0,1632609000,Ended
+USA,"USL, League One",2021,1,9435570,Richmond Kickers,23841,Chattanooga Red Wolves SC,312631,0,,1,1,1,0,,0,0,0,1633213800,Ended
+USA,"USL, League One",2021,1,9767940,Richmond Kickers,23841,Forward Madison FC,312632,1,,1,1,1,0,,0,0,0,1633559400,Ended
+USA,"USL, League One",2021,1,9435579,North Texas SC,312635,Richmond Kickers,23841,1,,1,1,1,0,,2,2,2,1633906800,Ended
+USA,"USL, League One",2021,1,9435482,Richmond Kickers,23841,Forward Madison FC,312632,2,,3,3,3,1,,2,2,2,1634423400,Ended
+USA,"USL, League One",2021,1,9435491,Union Omaha SC,338006,Richmond Kickers,23841,0,,2,2,2,0,,0,0,0,1635030000,Ended
+USA,"USL, League One",2021,1,9435593,FC Tucson,100013,Richmond Kickers,23841,2,,4,4,4,1,,2,2,2,1635645600,Ended
+USA,"USL, League One, Playoffs",2021,3,9928081,FC Tucson,100013,Richmond Kickers,23841,0,,1,1,1,0,,0,0,0,1636250400,Ended
+USA,"USL, League One",2022,1,10050044,Richmond Kickers,23841,FC Tucson,100013,2,2,4,4,4,0,0,0,0,0,1648938600,Ended
+USA,"USL, League One",2022,1,10050049,Richmond Kickers,23841,Northern Colorado Hailstorm FC,405295,0,1,1,1,1,1,0,1,1,1,1649543400,Ended
+USA,"USL, League One",2022,1,10050051,Chattanooga Red Wolves SC,312631,Richmond Kickers,23841,0,1,1,1,1,0,0,0,0,0,1650151800,Ended
+USA,"USL, League One",2022,1,10050092,Charlotte Independence,197072,Richmond Kickers,23841,1,0,1,1,1,1,1,2,2,2,1650927600,Ended
+USA,"USL, League One",2022,1,10050067,Richmond Kickers,23841,Forward Madison FC,312632,0,0,0,0,0,0,1,1,1,1,1651960800,Ended
+USA,"USL, League One",2022,1,10050072,Richmond Kickers,23841,Union Omaha SC,338006,1,0,1,1,1,1,0,1,1,1,1652567400,Ended
+USA,"USL, League One",2022,1,10050075,FC Tucson,100013,Richmond Kickers,23841,,,,,,,,,,,1653098400,Postponed
+USA,"USL, League One",2022,1,10050082,North Carolina FC,22003,Richmond Kickers,23841,2,0,2,2,2,1,0,1,1,1,1653778800,Ended
+USA,"USL, League One",2022,1,10050085,Richmond Kickers,23841,Chattanooga Red Wolves SC,312631,3,0,3,3,3,0,0,0,0,0,1654122600,Ended
+USA,"USL, League One",2022,1,10050089,Richmond Kickers,23841,South Georgia Tormenta FC,253417,2,0,2,2,2,1,1,2,2,2,1654381800,Ended
+USA,"USL, League One",2022,1,10050057,Richmond Kickers,23841,Charlotte Independence,197072,3,1,4,4,4,0,0,0,0,0,1654986600,Ended
+USA,"USL, League One",2022,1,10050098,Richmond Kickers,23841,Northern Colorado Hailstorm FC,405295,2,1,3,3,3,0,2,2,2,2,1655591400,Ended
+USA,"USL, League One",2022,1,10050103,Forward Madison FC,312632,Richmond Kickers,23841,0,2,2,2,2,1,0,1,1,1,1656028800,Ended
+USA,"USL, League One",2022,1,10379514,FC Tucson,100013,Richmond Kickers,23841,0,0,0,0,0,0,1,1,1,1,1656554400,Ended
+USA,"USL, League One",2022,1,10050113,Richmond Kickers,23841,North Carolina FC,22003,0,4,4,4,4,1,0,1,1,1,1656802800,Ended
+USA,"USL, League One",2022,1,10050116,Charlotte Independence,197072,Richmond Kickers,23841,0,1,1,1,1,0,1,1,1,1,1657321200,Ended
+USA,"USL, League One",2022,1,10050126,Richmond Kickers,23841,Greenville Triumph SC,312633,0,1,1,1,1,2,1,3,3,3,1658010600,Ended
+USA,"USL, League One",2022,1,10050128,Central Valley Fuego,405294,Richmond Kickers,23841,2,1,3,3,3,1,0,1,1,1,1658629800,Ended
+USA,"USL, League One",2022,1,10050134,North Carolina FC,22003,Richmond Kickers,23841,1,1,2,2,2,0,3,3,3,3,1658962800,Ended
+USA,"USL, League One",2022,1,10050140,Northern Colorado Hailstorm FC,405295,Richmond Kickers,23841,0,0,0,0,0,1,0,1,1,1,1659488400,Ended
+USA,"USL, League One",2022,1,10050146,Richmond Kickers,23841,FC Tucson,100013,1,2,3,3,3,1,0,1,1,1,1659825000,Ended
+USA,"USL, League One",2022,1,10050149,Greenville Triumph SC,312633,Richmond Kickers,23841,0,1,1,1,1,0,0,0,0,0,1660431600,Ended
+USA,"USL, League One",2022,1,10050154,Central Valley Fuego,405294,Richmond Kickers,23841,1,1,2,2,2,0,2,2,2,2,1661049000,Ended
+USA,"USL, League One",2022,1,10050164,Richmond Kickers,23841,Union Omaha SC,338006,1,2,3,3,3,0,0,0,0,0,1661639400,Ended
+USA,"USL, League One",2022,1,10050172,Richmond Kickers,23841,South Georgia Tormenta FC,253417,0,3,3,3,3,1,0,1,1,1,1662589800,Ended
+USA,"USL, League One",2022,1,10050178,Union Omaha SC,338006,Richmond Kickers,23841,0,2,2,2,2,0,3,3,3,3,1663200000,Ended
+USA,"USL, League One",2022,1,10050180,Chattanooga Red Wolves SC,312631,Richmond Kickers,23841,0,2,2,2,2,1,1,2,2,2,1663457400,Ended
+USA,"USL, League One",2022,1,10050190,Richmond Kickers,23841,Central Valley Fuego,405294,1,0,1,1,1,0,1,1,1,1,1664058600,Ended
+USA,"USL, League One",2022,1,10050195,South Georgia Tormenta FC,253417,Richmond Kickers,23841,1,0,1,1,1,0,1,1,1,1,1664753400,Ended
+USA,"USL, League One",2022,1,10050197,Forward Madison FC,312632,Richmond Kickers,23841,0,0,0,0,0,1,0,1,1,1,1665273600,Ended
+USA,"USL, League One",2022,1,10050204,Richmond Kickers,23841,Greenville Triumph SC,312633,1,0,1,1,1,0,1,1,1,1,1665873000,Ended
+USA,"USL, League One, Playoffs",2022,2,10834978,Richmond Kickers,23841,Chattanooga Red Wolves SC,312631,0,0,0,0,0,0,1,1,1,1,1667080800,Ended
+USA,"USL, League One",2023,1,10987624,Charlotte Independence,197072,Richmond Kickers,23841,0,0,0,0,0,0,0,0,0,0,1679173200,Ended
+USA,"USL, League One",2023,1,10987628,Greenville Triumph SC,312633,Richmond Kickers,23841,0,0,0,0,0,1,0,1,1,1,1679785200,Ended
+USA,"USL, League One",2023,1,10987634,Richmond Kickers,23841,Charlotte Independence,197072,1,0,1,1,1,1,1,2,2,2,1680386400,Ended
+USA,"USL, League One",2023,1,10987644,Richmond Kickers,23841,Northern Colorado Hailstorm FC,405295,0,0,0,0,0,0,0,0,0,0,1681596000,Ended
+USA,"USL, League One",2023,1,10987655,South Georgia Tormenta FC,253417,Richmond Kickers,23841,0,1,1,1,1,3,0,3,3,3,1682811000,Ended
+USA,"USL, League One",2023,1,10987662,Richmond Kickers,23841,Union Omaha SC,338006,0,0,0,0,0,0,0,0,0,0,1683327600,Ended
+USA,"USL, League One",2023,1,10987663,Greenville Triumph SC,312633,Richmond Kickers,23841,2,0,2,2,2,0,2,2,2,2,1684018800,Ended
+USA,"USL, League One",2023,1,10987668,North Carolina FC,22003,Richmond Kickers,23841,0,3,3,3,3,2,0,2,2,2,1684364400,Ended
+USA,"USL, League One",2023,1,10987673,Richmond Kickers,23841,Lexington SC,460707,0,2,2,2,2,0,1,1,1,1,1684623600,Ended
+USA,"USL, League One",2023,1,10987679,South Georgia Tormenta FC,253417,Richmond Kickers,23841,1,0,1,1,1,0,1,1,1,1,1685230200,Ended
+USA,"USL, League One",2023,1,10987686,Richmond Kickers,23841,Chattanooga Red Wolves SC,312631,1,0,1,1,1,0,0,0,0,0,1685833200,Ended
+USA,"USL, League One",2023,1,10987688,Northern Colorado Hailstorm FC,405295,Richmond Kickers,23841,1,1,2,2,2,0,0,0,0,0,1686186000,Ended
+USA,"USL, League One",2023,1,10987689,Central Valley Fuego,405294,Richmond Kickers,23841,1,0,1,1,1,0,2,2,2,2,1686448800,Ended
+USA,"USL, League One",2023,1,10987697,Richmond Kickers,23841,Forward Madison FC,312632,0,0,0,0,0,0,1,1,1,1,1687042800,Ended
+USA,"USL, League One",2023,1,10987705,Richmond Kickers,23841,One Knoxville SC,407748,1,1,2,2,2,0,2,2,2,2,1687647600,Ended
+USA,"USL, League One",2023,1,10987711,Richmond Kickers,23841,Chattanooga Red Wolves SC,312631,0,2,2,2,2,0,0,0,0,0,1688252400,Ended
+USA,"USL, League One",2023,1,10987717,Union Omaha SC,338006,Richmond Kickers,23841,1,3,4,4,4,1,0,1,1,1,1688860800,Ended
+USA,"USL, League One",2023,1,10987724,Richmond Kickers,23841,Charlotte Independence,197072,1,1,2,2,2,1,1,2,2,2,1689462000,Ended
+USA,"USL, League One",2023,1,10987730,Northern Colorado Hailstorm FC,405295,Richmond Kickers,23841,0,3,3,3,3,1,0,1,1,1,1690074000,Ended
+USA,"USL, League One",2023,1,10987739,Lexington SC,460707,Richmond Kickers,23841,1,1,2,2,2,2,0,2,2,2,1690671600,Ended
+USA,"USL, League One",2023,1,10987745,Richmond Kickers,23841,Forward Madison FC,312632,0,1,1,1,1,1,1,2,2,2,1691276400,Ended
+USA,"USL, League One",2023,1,10987749,Richmond Kickers,23841,North Carolina FC,22003,1,1,2,2,2,1,1,2,2,2,1691622000,Ended
+USA,"USL, League One",2023,1,10987752,Chattanooga Red Wolves SC,312631,Richmond Kickers,23841,0,3,3,3,3,1,1,2,2,2,1691883000,Ended
+USA,"USL, League One",2023,1,10987760,Richmond Kickers,23841,North Carolina FC,22003,0,1,1,1,1,1,2,3,3,3,1692486000,Ended
+USA,"USL, League One",2023,1,10987767,Lexington SC,460707,Richmond Kickers,23841,0,1,1,1,1,0,0,0,0,0,1693094100,Ended
+USA,"USL, League One",2023,1,10987770,Richmond Kickers,23841,Central Valley Fuego,405294,1,2,3,3,3,0,3,3,3,3,1693436400,Ended
+USA,"USL, League One",2023,1,10987781,Union Omaha SC,338006,Richmond Kickers,23841,0,2,2,2,2,0,1,1,1,1,1694304000,Ended
+USA,"USL, League One",2023,1,10987784,Forward Madison FC,312632,Richmond Kickers,23841,1,1,2,2,2,0,0,0,0,0,1694736000,Ended
+USA,"USL, League One",2023,1,10987794,Richmond Kickers,23841,Greenville Triumph SC,312633,1,0,1,1,1,1,1,2,2,2,1695585600,Ended
+USA,"USL, League One",2023,1,10987802,Richmond Kickers,23841,South Georgia Tormenta FC,253417,0,0,0,0,0,0,1,1,1,1,1696111200,Ended
+USA,"USL, League One",2023,1,10987805,One Knoxville SC,407748,Richmond Kickers,23841,2,0,2,2,2,1,1,2,2,2,1696635000,Ended
+USA,"USL, League One",2023,1,10987815,Richmond Kickers,23841,Central Valley Fuego,405294,3,1,4,4,4,2,3,5,5,5,1697320800,Ended
+USA,"USL, League One",2024,1,11912044,Spokane Velocity FC,502354,Richmond Kickers,23841,2,0,2,2,2,1,0,1,1,1,1710622800,Ended
+USA,"USL, League One",2024,1,11912047,Richmond Kickers,23841,South Georgia Tormenta FC,253417,0,1,1,1,1,1,2,3,3,3,1711231200,Ended
+USA,"USL, League One",2024,1,12091481,Richmond Kickers,23841,Central Valley Fuego,405294,1,2,3,3,3,1,1,2,2,2,1712440800,Ended
+USA,"USL, League One",2024,1,12091472,Forward Madison FC,312632,Richmond Kickers,23841,1,1,2,2,2,1,1,2,2,2,1713049200,Ended
+USA,"USL, League One",2024,1,12091465,Richmond Kickers,23841,Spokane Velocity FC,502354,0,0,0,0,0,1,1,2,2,2,1713650400,Ended
+USA,USL League One Cup,2024,,12295063,Greenville Triumph SC,312633,Richmond Kickers,23841,0,1,1,1,4,0,1,1,1,6,1714258800,AP
+USA,"USL, League One",2024,1,12091460,Richmond Kickers,23841,One Knoxville SC,407748,0,1,1,1,1,1,0,1,1,1,1714777200,Ended
+USA,USL League One Cup,2024,,12295201,Chattanooga Red Wolves SC,312631,Richmond Kickers,23841,0,1,1,1,1,0,0,0,0,0,1715470200,Ended
+USA,"USL, League One",2024,1,12091446,Richmond Kickers,23841,Greenville Triumph SC,312633,0,0,0,0,0,0,1,1,1,1,1716073200,Ended
+USA,USL League One Cup,2024,,12330935,South Georgia Tormenta FC,253417,Richmond Kickers,23841,1,0,1,1,1,1,1,2,2,2,1716679800,Ended
+USA,"USL, League One",2024,1,12091444,One Knoxville SC,407748,Richmond Kickers,23841,0,1,1,1,1,2,0,2,2,2,1717282800,Ended
+USA,USL League One Cup,2024,,12330964,Richmond Kickers,23841,Charlotte Independence,197072,0,0,0,0,0,1,0,1,1,1,1717887600,Ended
+USA,"USL, League One",2024,1,12091425,Central Valley Fuego,405294,Richmond Kickers,23841,0,1,1,1,1,1,0,1,1,1,1718505000,Ended
+USA,"USL, League One",2024,1,12091415,Richmond Kickers,23841,Northern Colorado Hailstorm FC,405295,0,0,0,0,0,1,1,2,2,2,1719097200,Ended
+USA,USL League One Cup,2024,,12331129,Charlotte Independence,197072,Richmond Kickers,23841,2,0,2,2,6,2,0,2,2,7,1719702000,AP
+USA,"USL, League One",2024,1,12091410,Richmond Kickers,23841,Forward Madison FC,312632,1,1,2,2,2,0,1,1,1,1,1720051200,Ended
+USA,"USL, League One",2024,1,12091409,Chattanooga Red Wolves SC,312631,Richmond Kickers,23841,2,1,3,3,3,1,0,1,1,1,1720913400,Ended
+USA,USL League One Cup,2024,,12331157,Richmond Kickers,23841,Greenville Triumph SC,312633,0,0,0,0,0,0,2,2,2,2,1721516400,Ended
+USA,"USL, League One",2024,1,12091397,Lexington SC,460707,Richmond Kickers,23841,1,1,2,2,2,0,1,1,1,1,1722121200,Ended
+USA,"USL, League One",2024,1,12091384,Northern Colorado Hailstorm FC,405295,Richmond Kickers,23841,1,2,3,3,3,1,0,1,1,1,1722733200,Ended
+USA,USL League One Cup,2024,,12331176,Richmond Kickers,23841,South Georgia Tormenta FC,253417,1,0,1,1,7,1,0,1,1,6,1723330800,AP
+USA,"USL, League One",2024,1,12091370,Greenville Triumph SC,312633,Richmond Kickers,23841,1,0,1,1,1,1,0,1,1,1,1723849200,Ended
+USA,"USL, League One",2024,1,12091382,Union Omaha SC,338006,Richmond Kickers,23841,2,1,3,3,3,0,0,0,0,0,1724544000,Ended
+USA,USL League One Cup,2024,,12331202,Richmond Kickers,23841,Spokane Velocity FC,502354,2,1,3,3,3,0,2,2,2,2,1724972400,Ended
+USA,"USL, League One",2024,1,12091351,Charlotte Independence,197072,Richmond Kickers,23841,0,0,0,0,0,0,1,1,1,1,1726354800,Ended
+USA,"USL, League One",2024,1,12091352,Richmond Kickers,23841,Lexington SC,460707,0,3,3,3,3,0,0,0,0,0,1726956000,Ended
+USA,"USL, League One",2024,1,12091345,Richmond Kickers,23841,Union Omaha SC,338006,0,0,0,0,0,0,0,0,0,0,1728165600,Ended
+USA,"USL, League One",2024,1,12091334,South Georgia Tormenta FC,253417,Richmond Kickers,23841,2,0,2,2,2,0,2,2,2,2,1728689400,Ended
+USA,"USL, League One",2024,1,12091319,Richmond Kickers,23841,Chattanooga Red Wolves SC,312631,1,1,2,2,2,1,0,1,1,1,1729375200,Ended
+USA,"USL, League One",2024,1,12091328,Richmond Kickers,23841,Charlotte Independence,197072,0,0,0,0,0,0,1,1,1,1,1729980000,Ended
+USA,"USL, League One, Playoffs",2024,27,13038993,Union Omaha SC,338006,Richmond Kickers,23841,0,1,1,1,1,0,0,0,0,0,1730665800,Ended
+USA,"USL, League One",2025,,13278901,South Georgia Tormenta FC,253417,Richmond Kickers,23841,2,0,2,2,2,3,1,4,4,4,1741392000,Ended
+USA,"USL, League One",2025,,13278904,Charlotte Independence,197072,Richmond Kickers,23841,0,1,1,1,1,0,0,0,0,0,1742079600,Ended
+USA,"USL, League One",2025,,13278908,Richmond Kickers,23841,AV Alta FC,1044343,1,2,3,3,3,1,0,1,1,1,1742680800,Ended
+USA,"USL, League One",2025,,13278914,Richmond Kickers,23841,Forward Madison FC,312632,0,1,1,1,1,1,1,2,2,2,1743285600,Ended
+USA,"USL, League One",2025,,13278924,Richmond Kickers,23841,Union Omaha SC,338006,0,1,1,1,1,0,0,0,0,0,1744239600,Ended
+USA,"USL, League One",2025,,13278927,FC Naples,1044341,Richmond Kickers,23841,2,0,2,2,2,1,0,1,1,1,1744498800,Ended
+USA,"USL, League One",2025,,13278934,Richmond Kickers,23841,Westchester SC,1044342,2,2,4,4,4,1,3,4,4,4,1745100000,Ended
+USA,"USL, League One",2025,,13278936,Richmond Kickers,23841,Greenville Triumph SC,312633,2,1,3,3,3,2,1,3,3,3,1746226800,Ended
+USA,"USL, League One",2025,,13278944,Chattanooga Red Wolves SC,312631,Richmond Kickers,23841,0,0,0,0,0,0,0,0,0,0,1746918000,Ended
+USA,"USL, League One",2025,,13278954,Spokane Velocity FC,502354,Richmond Kickers,23841,1,0,1,1,1,0,0,0,0,0,1747609200,Ended
+USA,"USL, League One",2025,,13278960,Westchester SC,1044342,Richmond Kickers,23841,2,0,2,2,2,1,1,2,2,2,1748196000,Ended
+USA,"USL, League One",2025,,13278965,Richmond Kickers,23841,Texoma FC,1044344,1,0,1,1,1,1,1,2,2,2,1749337200,Ended
+USA,"USL, League One",2025,,13278970,One Knoxville SC,407748,Richmond Kickers,23841,1,,1,1,1,1,,1,1,1,1749855900,Abandoned
+USA,"USL, League One",2025,,13278981,Richmond Kickers,23841,Spokane Velocity FC,502354,0,0,0,0,0,0,1,1,1,1,1750546800,Ended
+USA,"USL, League One",2025,,13278984,Union Omaha SC,338006,Richmond Kickers,23841,1,2,3,3,3,3,1,4,4,4,1750896000,Ended
+USA,"USL, League One",2025,,13278995,Richmond Kickers,23841,Chattanooga Red Wolves SC,312631,0,0,0,0,0,0,2,2,2,2,1752361200,Ended
+USA,"USL, League One",2025,,13279008,Greenville Triumph SC,312633,Richmond Kickers,23841,1,1,2,2,2,0,0,0,0,0,1753052400,Ended
+USA,"USL, League One",2025,,13279015,Richmond Kickers,23841,FC Naples,1044341,1,0,1,1,1,0,2,2,2,2,1754175600,Ended
+USA,"USL, League One",2025,,13279024,Portland Hearts of Pine,1044345,Richmond Kickers,23841,0,0,0,0,0,0,0,0,0,0,1754773200,Ended
+USA,"USL, League One",2025,,14412905,One Knoxville SC,407748,Richmond Kickers,23841,,,,,,,,,,,1755126000,Postponed
+USA,"USL, League One",2025,,13279031,Richmond Kickers,23841,South Georgia Tormenta FC,253417,1,1,2,2,2,2,1,3,3,3,1755385200,Ended
+USA,"USL, League One",2025,,14466263,One Knoxville SC,407748,Richmond Kickers,23841,1,1,2,2,2,0,0,0,0,0,1755730800,Ended
+USA,"USL, League One",2025,,13279040,Richmond Kickers,23841,One Knoxville SC,407748,1,0,1,1,1,0,0,0,0,0,1755990000,Ended
+USA,"USL, League One",2025,,13279051,Westchester SC,1044342,Richmond Kickers,23841,0,0,0,0,0,2,0,2,2,2,1756940400,Ended
+USA,"USL, League One",2025,,13279060,Forward Madison FC,312632,Richmond Kickers,23841,0,1,1,1,1,0,0,0,0,0,1757804400,Ended
+USA,"USL, League One",2025,,13279065,Richmond Kickers,23841,Portland Hearts of Pine,1044345,1,1,2,2,2,2,3,5,5,5,1758148200,Ended
+USA,"USL, League One",2025,,13279069,Richmond Kickers,23841,Charlotte Independence,197072,1,1,2,2,2,2,1,3,3,3,1758409200,Ended
+USA,"USL, League One",2025,,13279080,South Georgia Tormenta FC,253417,Richmond Kickers,23841,2,2,4,4,4,0,2,2,2,2,1759014000,Ended
+USA,"USL, League One",2025,,13279089,Richmond Kickers,23841,One Knoxville SC,407748,2,0,2,2,2,1,0,1,1,1,1759615200,Ended
+USA,"USL, League One",2025,,13279098,Texoma FC,1044344,Richmond Kickers,23841,0,1,1,1,1,0,0,0,0,0,1760227200,Ended
+USA,"USL, League One",2025,,13279101,AV Alta FC,1044343,Richmond Kickers,23841,1,1,2,2,2,0,0,0,0,0,1760754600,Ended
+USA,"USL, League One",2025,,13279112,Richmond Kickers,23841,Forward Madison FC,312632,3,2,5,5,5,1,0,1,1,1,1761429600,Ended
+USA,"USL, League One",2026,,15227344,AV Alta FC,1044343,Richmond Kickers,23841,1,0,1,1,1,1,0,1,1,1,1772940600,Ended
+USA,"USL, League One",2026,,15227334,Richmond Kickers,23841,FC Naples,1044341,0,0,0,0,0,1,0,1,1,1,1774130400,Ended
+USA,"USL, League One",2026,,15285391,One Knoxville SC,407748,Richmond Kickers,23841,0,1,1,1,1,0,0,0,0,0,1774652400,Ended
+USA,"USL, League One",2026,,15285392,Richmond Kickers,23841,South Georgia Tormenta FC,253417,,,,,,,,,,,1775340000,Canceled
+USA,"USL, League One",2026,,15285383,Spokane Velocity FC,502354,Richmond Kickers,23841,2,1,3,3,3,1,0,1,1,1,1775955600,Ended
+USA,"USL, League One",2026,,15285403,Richmond Kickers,23841,Union Omaha SC,338006,1,1,2,2,2,1,0,1,1,1,1776549600,Ended
+USA,"USL, League One",2026,,15285407,Richmond Kickers,23841,Westchester SC,1044342,1,0,1,1,1,0,0,0,0,0,1777676400,Ended
+USA,"USL, League One",2026,,15285423,Greenville Triumph SC,312633,Richmond Kickers,23841,0,0,0,0,0,1,2,3,3,3,1778367600,Ended
+USA,"USL, League One",2026,,15285435,South Georgia Tormenta FC,253417,Richmond Kickers,23841,,,,,,,,,,,1779579000,Canceled
+USA,"USL, League One",2026,,15285431,Chattanooga Red Wolves SC,312631,Richmond Kickers,23841,2,3,5,5,5,0,0,0,0,0,1779922800,Ended
+USA,"USL, League One",2026,,15285446,Richmond Kickers,23841,AC Boise,1158834,1,1,2,2,2,0,2,2,2,2,1780182000,Ended
+USA,"USL, League One",2026,,15285457,AC Boise,1158834,Richmond Kickers,23841,2,0,2,2,2,0,1,1,1,1,1781141400,Ended
+USA,"USL, League One",2026,,15285460,Corpus Christi FC,284113,Richmond Kickers,23841,0,1,1,1,1,0,0,0,0,0,1781397000,Ended
+USA,"USL, League One",2026,,15285472,Richmond Kickers,23841,Fort Wayne FC,341749,0,0,0,0,0,2,0,2,2,2,1781996400,Ended
+USA,"USL, League One",2026,,15285479,Portland Hearts of Pine,1044345,Richmond Kickers,23841,1,4,5,5,5,1,0,1,1,1,1782342000,Ended
+USA,"USL, League One",2026,,15285486,Richmond Kickers,23841,Sarasota Paradise,465623,0,0,0,0,0,0,0,0,0,0,1783123200,Ended
+USA,"USL, League One",2026,,15227372,New York Cosmos,53903,Portland Hearts of Pine,1044345,0,1,1,1,1,0,3,3,3,3,1773511200,Ended
+USA,"USL, League One",2026,,15285373,Spokane Velocity FC,502354,New York Cosmos,53903,3,0,3,3,3,0,1,1,1,1,1774119600,Ended
+USA,"USL, League One",2026,,15285390,Greenville Triumph SC,312633,New York Cosmos,53903,1,2,3,3,3,1,1,2,2,2,1774479600,Ended
+USA,"USL, League One",2026,,15285387,New York Cosmos,53903,Fort Wayne FC,341749,1,1,2,2,2,0,0,0,0,0,1774720800,Ended
+USA,"USL, League One",2026,,15285381,New York Cosmos,53903,Charlotte Independence,197072,2,1,3,3,3,2,0,2,2,2,1775257200,Ended
+USA,"USL, League One",2026,,15285405,New York Cosmos,53903,Forward Madison FC,312632,0,2,2,2,2,2,0,2,2,2,1776621600,Ended
+USA,"USL, League One",2026,,15285410,Portland Hearts of Pine,1044345,New York Cosmos,53903,2,1,3,3,3,0,1,1,1,1,1777755600,Ended
+USA,"USL, League One",2026,,15285434,AV Alta FC,1044343,New York Cosmos,53903,2,2,4,4,4,0,0,0,0,0,1779589800,Ended
+USA,"USL, League One",2026,,15285436,New York Cosmos,53903,Union Omaha SC,338006,0,1,1,1,1,0,2,2,2,2,1779922800,Ended
+USA,"USL, League One",2026,,15285450,Sarasota Paradise,465623,New York Cosmos,53903,0,2,2,2,2,0,1,1,1,1,1780183800,Ended
+USA,"USL, League One",2026,,15285461,One Knoxville SC,407748,New York Cosmos,53903,2,1,3,3,3,0,1,1,1,1,1781391600,Ended
+USA,"USL, League One",2026,,15285475,Forward Madison FC,312632,New York Cosmos,53903,2,1,3,3,3,0,1,1,1,1,1782000000,Ended
+USA,"USL, League One",2026,,15285481,New York Cosmos,53903,South Georgia Tormenta FC,253417,,,,,,,,,,,1782342000,Canceled
+USA,"USL, League One",2026,,15285496,New York Cosmos,53903,Greenville Triumph SC,312633,0,0,0,0,0,1,2,3,3,3,1783206000,Ended
+USA,"USL, League One",2026,,15285491,New York Cosmos,53903,FC Naples,1044341,0,1,1,1,1,0,0,0,0,0,1783551600,Ended
+USA,"USL, League One",2022,1,10050046,Charlotte Independence,197072,Central Valley Fuego,405294,2,1,3,3,3,1,2,3,3,3,1649458800,Ended
+USA,"USL, League One",2022,1,10050050,Charlotte Independence,197072,Northern Colorado Hailstorm FC,405295,1,1,2,2,2,1,0,1,1,1,1650150000,Ended
+USA,"USL, League One",2022,1,10050060,Charlotte Independence,197072,Union Omaha SC,338006,0,2,2,2,2,0,1,1,1,1,1651359600,Ended
+USA,"USL, League One",2022,1,10050068,South Georgia Tormenta FC,253417,Charlotte Independence,197072,0,0,0,0,0,0,0,0,0,0,1651966200,Ended
+USA,"USL, League One",2022,1,10050073,Charlotte Independence,197072,FC Tucson,100013,2,0,2,2,2,1,0,1,1,1,1652652000,Ended
+USA,"USL, League One",2022,1,10050074,Charlotte Independence,197072,Northern Colorado Hailstorm FC,405295,1,0,1,1,1,1,1,2,2,2,1652916600,Ended
+USA,"USL, League One",2022,1,10050076,Forward Madison FC,312632,Charlotte Independence,197072,0,1,1,1,1,1,1,2,2,2,1653177600,Ended
+USA,"USL, League One",2022,1,10050088,Greenville Triumph SC,312633,Charlotte Independence,197072,0,2,2,2,2,0,0,0,0,0,1654383600,Ended
+USA,"USL, League One",2022,1,10050097,North Carolina FC,22003,Charlotte Independence,197072,0,2,2,2,2,0,0,0,0,0,1655593200,Ended
+USA,"USL, League One",2022,1,10050101,Chattanooga Red Wolves SC,312631,Charlotte Independence,197072,3,4,7,7,7,1,0,1,1,1,1655940600,Ended
+USA,"USL, League One",2022,1,10050108,Charlotte Independence,197072,Forward Madison FC,312632,3,3,6,6,6,1,1,2,2,2,1656280800,Ended
+USA,"USL, League One",2022,1,10050111,Union Omaha SC,338006,Charlotte Independence,197072,0,0,0,0,0,0,0,0,0,0,1656720000,Ended
+USA,"USL, League One",2022,1,10050125,Northern Colorado Hailstorm FC,405295,Charlotte Independence,197072,3,0,3,3,3,0,1,1,1,1,1658095200,Ended
+USA,"USL, League One",2022,1,10050130,FC Tucson,100013,Charlotte Independence,197072,2,0,2,2,2,2,1,3,3,3,1658628000,Ended
+USA,"USL, League One",2022,1,10050135,Charlotte Independence,197072,Central Valley Fuego,405294,2,2,4,4,4,0,0,0,0,0,1659135600,Ended
+USA,"USL, League One",2022,1,10050142,Charlotte Independence,197072,Forward Madison FC,312632,0,0,0,0,0,0,0,0,0,0,1659740400,Ended
+USA,"USL, League One",2022,1,10050151,South Georgia Tormenta FC,253417,Charlotte Independence,197072,0,0,0,0,0,2,1,3,3,3,1660433400,Ended
+USA,"USL, League One",2022,1,10050079,Union Omaha SC,338006,Charlotte Independence,197072,0,2,2,2,2,0,1,1,1,1,1660780800,Ended
+USA,"USL, League One",2022,1,10050161,Charlotte Independence,197072,Chattanooga Red Wolves SC,312631,1,1,2,2,2,1,1,2,2,2,1661641200,Ended
+USA,"USL, League One",2022,1,10050166,Charlotte Independence,197072,South Georgia Tormenta FC,253417,0,0,0,0,0,1,1,2,2,2,1661986800,Ended
+USA,"USL, League One",2022,1,10050168,FC Tucson,100013,Charlotte Independence,197072,1,0,1,1,1,0,0,0,0,0,1662256800,Ended
+USA,"USL, League One",2022,1,10050173,Charlotte Independence,197072,Greenville Triumph SC,312633,1,1,2,2,2,0,1,1,1,1,1662764400,Ended
+USA,"USL, League One",2022,1,10050179,Central Valley Fuego,405294,Charlotte Independence,197072,0,0,0,0,0,2,1,3,3,3,1663468200,Ended
+USA,"USL, League One",2022,1,10050186,Charlotte Independence,197072,North Carolina FC,22003,2,0,2,2,2,0,1,1,1,1,1664060400,Ended
+USA,"USL, League One",2022,1,10050192,Chattanooga Red Wolves SC,312631,Charlotte Independence,197072,1,2,3,3,3,1,0,1,1,1,1664667000,Ended
+USA,"USL, League One",2022,1,10050198,Greenville Triumph SC,312633,Charlotte Independence,197072,0,1,1,1,1,0,0,0,0,0,1665270000,Ended
+USA,"USL, League One",2022,1,10050202,Charlotte Independence,197072,North Carolina FC,22003,2,3,5,5,5,0,1,1,1,1,1665874800,Ended
+USA,"USL, League One, Playoffs",2022,4,10824390,South Georgia Tormenta FC,253417,Charlotte Independence,197072,0,2,2,2,2,1,0,1,1,1,1666479600,Ended
+USA,"USL, League One",2023,1,10987629,South Georgia Tormenta FC,253417,Charlotte Independence,197072,1,0,1,1,1,1,2,3,3,3,1679787000,Ended
+USA,"USL, League One",2023,1,10987639,North Carolina FC,22003,Charlotte Independence,197072,1,0,1,1,1,0,1,1,1,1,1680994800,Ended
+USA,"USL, League One",2023,1,10987646,Charlotte Independence,197072,Union Omaha SC,338006,0,0,0,0,0,0,0,0,0,0,1681945200,Ended
+USA,"USL, League One",2023,1,10987650,Charlotte Independence,197072,Central Valley Fuego,405294,1,0,1,1,1,0,0,0,0,0,1682186400,Ended
+USA,"USL, League One",2023,1,10987653,Forward Madison FC,312632,Charlotte Independence,197072,0,0,0,0,0,0,0,0,0,0,1682805600,Ended
+USA,"USL, League One",2023,1,10987658,Charlotte Independence,197072,Greenville Triumph SC,312633,0,1,1,1,1,2,1,3,3,3,1683154800,Ended
+USA,"USL, League One",2023,1,10987664,Lexington SC,460707,Charlotte Independence,197072,0,1,1,1,1,0,0,0,0,0,1684018800,Ended
+USA,"USL, League One",2023,1,10987674,Charlotte Independence,197072,North Carolina FC,22003,0,2,2,2,2,0,1,1,1,1,1684692000,Ended
+USA,"USL, League One",2023,1,10987676,Charlotte Independence,197072,Chattanooga Red Wolves SC,312631,2,1,3,3,3,0,0,0,0,0,1685228400,Ended
+USA,"USL, League One",2023,1,10987681,Charlotte Independence,197072,Union Omaha SC,338006,1,2,3,3,3,0,0,0,0,0,1685826000,Ended
+USA,"USL, League One",2023,1,10987696,One Knoxville SC,407748,Charlotte Independence,197072,1,1,2,2,2,0,0,0,0,0,1687044600,Ended
+USA,"USL, League One",2023,1,10987703,Chattanooga Red Wolves SC,312631,Charlotte Independence,197072,0,2,2,2,2,2,0,2,2,2,1687649400,Ended
+USA,"USL, League One",2023,1,10987708,North Carolina FC,22003,Charlotte Independence,197072,1,1,2,2,2,0,0,0,0,0,1688166000,Ended
+USA,"USL, League One",2023,1,10987713,Northern Colorado Hailstorm FC,405295,Charlotte Independence,197072,2,1,3,3,3,2,0,2,2,2,1688518800,Ended
+USA,"USL, League One",2023,1,10987718,Charlotte Independence,197072,Lexington SC,460707,1,1,2,2,2,1,0,1,1,1,1688943600,Ended
+USA,"USL, League One",2023,1,10987726,Charlotte Independence,197072,Greenville Triumph SC,312633,0,1,1,1,1,0,0,0,0,0,1689807600,Ended
+USA,"USL, League One",2023,1,10987727,Charlotte Independence,197072,Central Valley Fuego,405294,1,0,1,1,1,2,0,2,2,2,1690066800,Ended
+USA,"USL, League One",2023,1,10987736,Charlotte Independence,197072,Northern Colorado Hailstorm FC,405295,2,2,4,4,4,0,1,1,1,1,1690671600,Ended
+USA,"USL, League One",2023,1,10987743,Greenville Triumph SC,312633,Charlotte Independence,197072,2,1,3,3,3,1,1,2,2,2,1691276400,Ended
+USA,"USL, League One",2023,1,10987751,Charlotte Independence,197072,South Georgia Tormenta FC,253417,3,0,3,3,3,1,1,2,2,2,1691881200,Ended
+USA,"USL, League One",2023,1,10987758,Central Valley Fuego,405294,Charlotte Independence,197072,0,1,1,1,1,1,1,2,2,2,1692498600,Ended
+USA,"USL, League One",2023,1,10987769,One Knoxville SC,407748,Charlotte Independence,197072,0,1,1,1,1,0,1,1,1,1,1693092600,Ended
+USA,"USL, League One",2023,1,10987775,Northern Colorado Hailstorm FC,405295,Charlotte Independence,197072,1,3,4,4,4,0,2,2,2,2,1693778400,Ended
+USA,"USL, League One",2023,1,10987778,Charlotte Independence,197072,Chattanooga Red Wolves SC,312631,0,3,3,3,3,0,0,0,0,0,1694300400,Ended
+USA,"USL, League One",2023,1,10987787,Lexington SC,460707,Charlotte Independence,197072,0,2,2,2,2,1,1,2,2,2,1694997000,Ended
+USA,"USL, League One",2023,1,10987791,Charlotte Independence,197072,Forward Madison FC,312632,1,1,2,2,2,0,0,0,0,0,1695502800,Ended
+USA,"USL, League One",2023,1,10987799,Charlotte Independence,197072,One Knoxville SC,407748,0,1,1,1,1,1,0,1,1,1,1696107600,Ended
+USA,"USL, League One",2023,1,10987804,Union Omaha SC,338006,Charlotte Independence,197072,1,3,4,4,4,1,0,1,1,1,1696462200,Ended
+USA,"USL, League One",2023,1,10987810,Charlotte Independence,197072,South Georgia Tormenta FC,253417,0,1,1,1,1,0,1,1,1,1,1697324400,Ended
+USA,"USL, League One, Playoffs",2023,27,11748850,Charlotte Independence,197072,Greenville Triumph SC,312633,0,3,3,3,3,1,1,2,2,2,1697844600,Ended
+USA,"USL, League One, Playoffs",2023,28,11767555,Union Omaha SC,338006,Charlotte Independence,197072,0,0,0,0,4,0,0,0,0,5,1698528600,AP
+USA,"USL, League One, Playoffs",2023,29,11784756,North Carolina FC,22003,Charlotte Independence,197072,0,0,0,1,6,0,0,0,1,5,1699221600,AP
+USA,"USL, League One",2024,1,11912042,Charlotte Independence,197072,One Knoxville SC,407748,0,1,1,1,1,0,2,2,2,2,1710630000,Ended
+USA,"USL, League One",2024,1,11912051,Charlotte Independence,197072,Spokane Velocity FC,502354,0,2,2,2,2,0,1,1,1,1,1711668600,Ended
+USA,"USL, League One",2024,1,12091477,Chattanooga Red Wolves SC,312631,Charlotte Independence,197072,0,0,0,0,0,,,2,,,1712446200,Postponed
+USA,"USL, League One",2024,1,12091474,Charlotte Independence,197072,Greenville Triumph SC,312633,0,1,1,1,1,0,0,0,0,0,1712964600,Ended
+USA,"USL, League One",2024,1,12091467,Union Omaha SC,338006,Charlotte Independence,197072,0,0,0,0,0,0,0,0,0,0,1713639600,Ended
+USA,USL League One Cup,2024,,12295071,South Georgia Tormenta FC,253417,Charlotte Independence,197072,0,1,1,1,5,1,0,1,1,6,1714258800,AP
+USA,"USL, League One",2024,1,12091454,Central Valley Fuego,405294,Charlotte Independence,197072,1,0,1,1,1,1,2,3,3,3,1714789800,Ended
+USA,USL League One Cup,2024,,12295183,Charlotte Independence,197072,Forward Madison FC,312632,0,1,1,1,1,1,1,2,2,2,1715446800,Ended
+USA,"USL, League One",2024,1,12091456,Charlotte Independence,197072,Union Omaha SC,338006,1,0,1,1,1,0,4,4,4,4,1715988600,Ended
+USA,USL League One Cup,2024,,12330938,Northern Colorado Hailstorm FC,405295,Charlotte Independence,197072,1,1,2,2,6,1,1,2,2,4,1716685200,AP
+USA,"USL, League One",2024,1,12091435,Charlotte Independence,197072,South Georgia Tormenta FC,253417,1,0,1,1,1,0,1,1,1,1,1717282800,Ended
+USA,"USL, League One",2024,1,12091426,Charlotte Independence,197072,Chattanooga Red Wolves SC,312631,1,3,4,4,4,2,0,2,2,2,1718407800,Ended
+USA,"USL, League One",2024,1,12091422,Greenville Triumph SC,312633,Charlotte Independence,197072,1,1,2,2,2,0,0,0,0,0,1718838000,Ended
+USA,"USL, League One",2024,1,12091414,Northern Colorado Hailstorm FC,405295,Charlotte Independence,197072,0,0,0,0,0,0,1,1,1,1,1720314000,Ended
+USA,"USL, League One",2024,1,12238633,Chattanooga Red Wolves SC,312631,Charlotte Independence,197072,0,0,0,0,0,1,1,2,2,2,1721172600,Ended
+USA,USL League One Cup,2024,,12331150,Charlotte Independence,197072,South Georgia Tormenta FC,253417,1,0,1,1,3,0,1,1,1,4,1721516400,AP
+USA,"USL, League One",2024,1,12091391,Spokane Velocity FC,502354,Charlotte Independence,197072,1,1,2,2,2,2,2,4,4,4,1722132000,Ended
+USA,"USL, League One",2024,1,12091387,Charlotte Independence,197072,Lexington SC,460707,1,2,3,3,3,3,0,3,3,3,1722726000,Ended
+USA,USL League One Cup,2024,,12331170,Charlotte Independence,197072,Greenville Triumph SC,312633,1,1,2,2,2,1,0,1,1,1,1723330800,Ended
+USA,"USL, League One",2024,1,12091373,Forward Madison FC,312632,Charlotte Independence,197072,0,0,0,0,0,0,0,0,0,0,1723680000,Ended
+USA,"USL, League One",2024,1,12091362,Charlotte Independence,197072,Central Valley Fuego,405294,2,2,4,4,4,0,0,0,0,0,1724536800,Ended
+USA,USL League One Cup,2024,,12331208,Greenville Triumph SC,312633,Charlotte Independence,197072,0,0,0,0,0,0,1,1,1,1,1725058800,Ended
+USA,"USL, League One",2024,1,12091359,One Knoxville SC,407748,Charlotte Independence,197072,0,1,1,1,1,1,0,1,1,1,1725741000,Ended
+USA,USL League One Cup,2024,,12776589,Forward Madison FC,312632,Charlotte Independence,197072,1,1,2,2,2,1,0,1,1,1,1726095600,Ended
+USA,"USL, League One",2024,1,12091326,South Georgia Tormenta FC,253417,Charlotte Independence,197072,1,2,3,3,3,1,2,3,3,3,1726961400,Ended
+USA,"USL, League One",2024,1,12091338,Charlotte Independence,197072,Forward Madison FC,312632,1,1,2,2,2,2,2,4,4,4,1728084600,Ended
+USA,"USL, League One",2024,1,12091342,Charlotte Independence,197072,Northern Colorado Hailstorm FC,405295,1,0,1,1,1,1,1,2,2,2,1728774000,Ended
+USA,"USL, League One",2024,1,12091340,Lexington SC,460707,Charlotte Independence,197072,1,1,2,2,2,2,0,2,2,2,1729378800,Ended
+USA,"USL, League One, Playoffs",2024,27,13038989,Forward Madison FC,312632,Charlotte Independence,197072,1,1,2,2,2,0,0,0,0,0,1730588400,Ended
+USA,"USL, League One",2025,,13278911,Charlotte Independence,197072,Chattanooga Red Wolves SC,312631,0,0,0,0,0,0,0,0,0,0,1743202800,Ended
+USA,"USL, League One",2025,,13278920,Greenville Triumph SC,312633,Charlotte Independence,197072,0,1,1,1,1,0,0,0,0,0,1743894000,Ended
+USA,"USL, League One",2025,,13278925,Charlotte Independence,197072,Forward Madison FC,312632,0,1,1,1,1,0,1,1,1,1,1744412400,Ended
+USA,"USL, League One",2025,,13278935,Charlotte Independence,197072,South Georgia Tormenta FC,253417,1,2,3,3,3,0,2,2,2,2,1745179200,Ended
+USA,"USL, League One",2025,,13278937,Texoma FC,1044344,Charlotte Independence,197072,2,1,3,3,3,1,3,4,4,4,1746316800,Ended
+USA,"USL, League One",2025,,13278947,Westchester SC,1044342,Charlotte Independence,197072,2,0,2,2,2,0,3,3,3,3,1746907200,Ended
+USA,"USL, League One",2025,,13278949,Charlotte Independence,197072,One Knoxville SC,407748,1,2,3,3,3,1,0,1,1,1,1747436400,Ended
+USA,"USL, League One",2025,,13278955,AV Alta FC,1044343,Charlotte Independence,197072,1,1,2,2,2,1,0,1,1,1,1748140200,Ended
+USA,"USL, League One",2025,,13278966,South Georgia Tormenta FC,253417,Charlotte Independence,197072,0,0,0,0,0,1,1,2,2,2,1749339000,Ended
+USA,"USL, League One",2025,,13278968,Spokane Velocity FC,502354,Charlotte Independence,197072,0,1,1,1,1,1,0,1,1,1,1749693600,Ended
+USA,"USL, League One",2025,,13278974,Charlotte Independence,197072,Greenville Triumph SC,312633,1,0,1,1,1,0,0,0,0,0,1750028400,Ended
+USA,"USL, League One",2025,,13278982,Texoma FC,1044344,Charlotte Independence,197072,1,2,3,3,3,0,2,2,2,2,1750552200,Ended
+USA,"USL, League One",2025,,13278992,Charlotte Independence,197072,Union Omaha SC,338006,0,1,1,1,1,1,1,2,2,2,1752361200,Ended
+USA,"USL, League One",2025,,13278999,Forward Madison FC,312632,Charlotte Independence,197072,1,0,1,1,1,0,1,1,1,1,1752710400,Ended
+USA,"USL, League One",2025,,13279005,Charlotte Independence,197072,Portland Hearts of Pine,1044345,1,0,1,1,1,0,1,1,1,1,1752966000,Ended
+USA,"USL, League One",2025,,13279010,One Knoxville SC,407748,Charlotte Independence,197072,1,1,2,2,2,1,1,2,2,2,1753919100,Ended
+USA,"USL, League One",2025,,13279012,Charlotte Independence,197072,Texoma FC,1044344,2,1,3,3,3,1,2,3,3,3,1754175600,Ended
+USA,"USL, League One",2025,,13279021,Charlotte Independence,197072,Greenville Triumph SC,312633,2,2,4,4,4,2,3,5,5,5,1754780400,Ended
+USA,"USL, League One",2025,,13279028,Charlotte Independence,197072,Westchester SC,1044342,1,0,1,1,1,0,0,0,0,0,1755298800,Ended
+USA,"USL, League One",2025,,13279036,Union Omaha SC,338006,Charlotte Independence,197072,2,2,4,4,4,0,1,1,1,1,1755734400,Ended
+USA,"USL, League One",2025,,13279047,Portland Hearts of Pine,1044345,Charlotte Independence,197072,1,3,4,4,4,1,1,2,2,2,1756587600,Ended
+USA,"USL, League One",2025,,13279053,Chattanooga Red Wolves SC,312631,Charlotte Independence,197072,0,1,1,1,1,0,0,0,0,0,1757199600,Ended
+USA,"USL, League One",2025,,13279058,Charlotte Independence,197072,FC Naples,1044341,0,0,0,0,0,0,1,1,1,1,1757718000,Ended
+USA,"USL, League One",2025,,13279075,One Knoxville SC,407748,Charlotte Independence,197072,0,1,1,1,1,0,0,0,0,0,1758925800,Ended
+USA,"USL, League One",2025,,13279084,Charlotte Independence,197072,Spokane Velocity FC,502354,0,0,0,0,0,0,1,1,1,1,1759532400,Ended
+USA,"USL, League One",2025,,13279092,Charlotte Independence,197072,AV Alta FC,1044343,2,1,3,3,3,1,1,2,2,2,1760137200,Ended
+USA,"USL, League One",2025,,13279100,Charlotte Independence,197072,Chattanooga Red Wolves SC,312631,1,0,1,1,1,2,0,2,2,2,1760742000,Ended
+USA,"USL, League One",2025,,13279108,FC Naples,1044341,Charlotte Independence,197072,0,2,2,2,2,0,0,0,0,0,1761433200,Ended
+USA,"USL, League One, Playoffs",2025,27,14950936,One Knoxville SC,407748,Charlotte Independence,197072,1,1,2,2,2,0,1,1,1,1,1762117200,Ended
+USA,"USL, League One",2026,,15285376,Westchester SC,1044342,Charlotte Independence,197072,1,0,1,1,1,0,1,1,1,1,1773529200,Ended
+USA,"USL, League One",2026,,15227327,Charlotte Independence,197072,Spokane Velocity FC,502354,3,1,4,4,4,0,0,0,0,0,1774654200,Ended
+USA,"USL, League One",2026,,15285399,Charlotte Independence,197072,South Georgia Tormenta FC,253417,,,,,,,,,,,1776036600,Canceled
+USA,"USL, League One",2026,,15285401,One Knoxville SC,407748,Charlotte Independence,197072,1,1,2,2,2,1,0,1,1,1,1776553200,Ended
+USA,"USL, League One",2026,,15227336,Fort Wayne FC,341749,Charlotte Independence,197072,2,0,2,2,2,2,0,2,2,2,1777764600,Ended
+USA,"USL, League One",2026,,15285418,Charlotte Independence,197072,AC Boise,1158834,0,1,1,1,1,0,0,0,0,0,1778110200,Ended
+USA,"USL, League One",2026,,15285424,Corpus Christi FC,284113,Charlotte Independence,197072,1,0,1,1,1,2,1,3,3,3,1778373000,Ended
+USA,"USL, League One",2026,,15285442,Charlotte Independence,197072,Forward Madison FC,312632,2,1,3,3,3,1,0,1,1,1,1779577200,Ended
+USA,"USL, League One",2026,,15285444,Chattanooga Red Wolves SC,312631,Charlotte Independence,197072,2,0,2,2,2,2,1,3,3,3,1780182000,Ended
+USA,"USL, League One",2026,,15285454,FC Naples,1044341,Charlotte Independence,197072,0,1,1,1,1,3,2,5,5,5,1780529400,Ended
+USA,"USL, League One",2026,,15285456,Charlotte Independence,197072,Union Omaha SC,338006,1,1,2,2,2,0,0,0,0,0,1781134200,Ended
+USA,"USL, League One",2026,,15285455,Charlotte Independence,197072,FC Naples,1044341,1,3,4,4,4,1,2,3,3,3,1781391600,Ended
+USA,"USL, League One",2026,,15285474,South Georgia Tormenta FC,253417,Charlotte Independence,197072,,,,,,,,,,,1781998200,Canceled
+USA,"USL, League One",2026,,15285484,Charlotte Independence,197072,Corpus Christi FC,284113,2,0,2,2,2,1,0,1,1,1,1782941400,Ended
+USA,"USL, League One",2026,,15285490,AV Alta FC,1044343,Charlotte Independence,197072,0,1,1,1,1,1,0,1,1,1,1783306800,Ended
+USA,"USL, League One",2026,,15285371,FC Naples,1044341,Corpus Christi FC,284113,1,1,2,2,2,1,1,2,2,2,1773529200,Ended
+USA,"USL, League One",2026,,15779806,One Knoxville SC,407748,Corpus Christi FC,284113,0,0,0,0,0,0,0,0,0,0,1774393200,Ended
+USA,"USL, League One",2026,,15285378,Union Omaha SC,338006,Corpus Christi FC,284113,1,1,2,2,2,0,1,1,1,1,1774731600,Ended
+USA,"USL, League One",2026,,15285384,Westchester SC,1044342,Corpus Christi FC,284113,2,3,5,5,5,1,0,1,1,1,1775343600,Ended
+USA,"USL, League One",2026,,15285409,Sarasota Paradise,465623,Corpus Christi FC,284113,1,1,2,2,2,0,1,1,1,1,1776897000,Ended
+USA,"USL, League One",2026,,15227324,Corpus Christi FC,284113,Spokane Velocity FC,502354,0,0,0,0,0,0,0,0,0,0,1777768200,Ended
+USA,"USL, League One",2026,,15285440,Fort Wayne FC,341749,Corpus Christi FC,284113,0,1,1,1,1,0,1,1,1,1,1779319800,Ended
+USA,"USL, League One",2026,,15285428,Corpus Christi FC,284113,One Knoxville SC,407748,1,1,2,2,2,0,2,2,2,2,1779582600,Ended
+USA,"USL, League One",2026,,15227323,Forward Madison FC,312632,Corpus Christi FC,284113,2,1,3,3,3,0,0,0,0,0,1780095600,Ended
+USA,"USL, League One",2026,,15285451,Corpus Christi FC,284113,Portland Hearts of Pine,1044345,0,3,3,3,3,1,1,2,2,2,1780533000,Ended
+USA,"USL, League One",2026,,15285470,Corpus Christi FC,284113,Sarasota Paradise,465623,2,2,4,4,4,0,1,1,1,1,1782001800,Ended
+USA,"USL, League One",2026,,15285476,Corpus Christi FC,284113,AV Alta FC,1044343,0,0,0,0,0,0,0,0,0,0,1782347400,Ended
+USA,"USL, League One",2026,,15285488,Corpus Christi FC,284113,Chattanooga Red Wolves SC,312631,1,1,2,2,2,1,0,1,1,1,1783207800,Ended
+USA,"USL, League One",2019,,8174728,North Texas SC,312635,Chattanooga Red Wolves SC,312631,1,2,3,3,3,0,2,2,2,2,1553986800,Ended
+USA,"USL, League One",2019,1,8181445,Chattanooga Red Wolves SC,312631,Forward Madison FC,312632,0,1,1,1,1,0,0,0,0,0,1554591600,Ended
+USA,"USL, League One",2019,1,8188115,Greenville Triumph SC,312633,Chattanooga Red Wolves SC,312631,0,1,1,1,1,0,0,0,0,0,1555196400,Ended
+USA,"USL, League One",2019,1,8194005,Chattanooga Red Wolves SC,312631,South Georgia Tormenta FC,253417,3,0,3,3,3,0,2,2,2,2,1555801200,Ended
+USA,"USL, League One",2019,1,8204594,Orlando City B,220945,Chattanooga Red Wolves SC,312631,0,0,0,0,0,0,0,0,0,0,1556926200,Ended
+USA,"USL, League One",2019,1,8210358,Chattanooga Red Wolves SC,312631,Forward Madison FC,312632,1,1,2,2,2,0,2,2,2,2,1557615600,Ended
+USA,"USL, League One",2019,1,8216566,FC Tucson,100013,Chattanooga Red Wolves SC,312631,2,2,4,4,4,0,0,0,0,0,1558233000,Ended
+USA,"USL, League One",2019,1,8221920,Chattanooga Red Wolves SC,312631,Greenville Triumph SC,312633,0,1,1,1,1,0,0,0,0,0,1558825200,Ended
+USA,"USL, League One",2019,1,8227323,Chattanooga Red Wolves SC,312631,Toronto FC II,217784,1,1,2,2,2,0,2,2,2,2,1559430000,Ended
+USA,"USL, League One",2019,1,8232327,South Georgia Tormenta FC,253417,Chattanooga Red Wolves SC,312631,,,,,,,,,,,1560038400,Canceled
+USA,"USL, League One",2019,1,8248224,Chattanooga Red Wolves SC,312631,Greenville Triumph SC,312633,2,1,3,3,3,0,2,2,2,2,1561244400,Ended
+USA,"USL, League One",2019,1,8274295,Chattanooga Red Wolves SC,312631,Lansing Ignite FC,312634,0,1,1,1,1,1,0,1,1,1,1562454000,Ended
+USA,"USL, League One",2019,1,8280293,Orlando City B,220945,Chattanooga Red Wolves SC,312631,0,1,1,1,1,1,0,1,1,1,1562801400,Ended
+USA,"USL, League One",2019,1,8288209,Forward Madison FC,312632,Chattanooga Red Wolves SC,312631,1,0,1,1,1,0,1,1,1,1,1563062400,Ended
+USA,"USL, League One",2019,1,8319313,Chattanooga Red Wolves SC,312631,FC Tucson,100013,0,1,1,1,1,1,0,1,1,1,1564268400,Ended
+USA,"USL, League One",2019,1,8329298,Lansing Ignite FC,312634,Chattanooga Red Wolves SC,312631,1,1,2,2,2,0,0,0,0,0,1564614000,Ended
+USA,"USL, League One",2019,1,8293459,Chattanooga Red Wolves SC,312631,North Texas SC,312635,0,1,1,1,1,0,0,0,0,0,1564873200,Ended
+USA,"USL, League One",2019,1,8344266,South Georgia Tormenta FC,253417,Chattanooga Red Wolves SC,312631,0,1,1,1,1,0,2,2,2,2,1565481600,Ended
+USA,"USL, League One",2019,1,8355153,Chattanooga Red Wolves SC,312631,North Texas SC,312635,0,0,0,0,0,1,1,2,2,2,1566082800,Ended
+USA,"USL, League One",2019,1,8282626,South Georgia Tormenta FC,253417,Chattanooga Red Wolves SC,312631,1,0,1,1,1,0,1,1,1,1,1566432000,Ended
+USA,"USL, League One",2019,1,8380665,FC Tucson,100013,Chattanooga Red Wolves SC,312631,1,0,1,1,1,0,0,0,0,0,1567218600,Ended
+USA,"USL, League One",2019,1,8392056,Toronto FC II,217784,Chattanooga Red Wolves SC,312631,1,,2,2,2,0,,2,2,2,1567800000,Ended
+USA,"USL, League One",2019,1,8401700,Lansing Ignite FC,312634,Chattanooga Red Wolves SC,312631,3,,4,4,4,2,,3,3,3,1568502000,Ended
+USA,"USL, League One",2019,1,8411081,Chattanooga Red Wolves SC,312631,Orlando City B,220945,1,,2,2,2,1,,1,1,1,1569106800,Ended
+USA,"USL, League One",2019,1,8433451,Chattanooga Red Wolves SC,312631,Toronto FC II,217784,1,,1,1,1,0,,1,1,1,1570316400,Ended
+USA,"USL, League One",2020,1,8804062,South Georgia Tormenta FC,253417,Chattanooga Red Wolves SC,312631,1,1,2,2,2,0,2,2,2,2,1595721600,Ended
+USA,"USL, League One",2020,1,8789660,Chattanooga Red Wolves SC,312631,FC Tucson,100013,0,,1,1,1,0,,0,0,0,1596315600,Ended
+USA,"USL, League One",2020,1,8809069,North Texas SC,312635,Chattanooga Red Wolves SC,312631,0,2,2,2,2,1,1,2,2,2,1596934800,Ended
+USA,"USL, League One",2020,1,8809090,Chattanooga Red Wolves SC,312631,Union Omaha SC,338006,,,,,,,,,,,1597266000,Canceled
+USA,"USL, League One",2020,1,8809089,Greenville Triumph SC,312633,Chattanooga Red Wolves SC,312631,0,1,1,1,1,0,0,0,0,0,1597532400,Ended
+USA,"USL, League One",2020,1,8809118,Chattanooga Red Wolves SC,312631,South Georgia Tormenta FC,253417,1,0,1,1,1,0,2,2,2,2,1598115600,Ended
+USA,"USL, League One",2020,1,8809133,Chattanooga Red Wolves SC,312631,New England Revolution II,338005,3,1,4,4,4,0,0,0,0,0,1598720400,Ended
+USA,"USL, League One",2020,1,8814101,Fort Lauderdale,338004,Chattanooga Red Wolves SC,312631,1,,1,1,1,1,,1,1,1,1599350400,Ended
+USA,"USL, League One",2020,1,8814099,New England Revolution II,338005,Chattanooga Red Wolves SC,312631,1,,1,1,1,1,,2,2,2,1599692400,Ended
+USA,"USL, League One",2020,1,9005105,Chattanooga Red Wolves SC,312631,Union Omaha SC,338006,1,1,2,2,2,0,0,0,0,0,1600185600,Ended
+USA,"USL, League One",2020,1,8814119,Chattanooga Red Wolves SC,312631,Greenville Triumph SC,312633,0,0,0,0,0,0,1,1,1,1,1600534800,Ended
+USA,"USL, League One",2020,1,8814116,Forward Madison FC,312632,Chattanooga Red Wolves SC,312631,0,,1,1,1,0,,0,0,0,1601143200,Ended
+USA,"USL, League One",2020,1,8814128,Chattanooga Red Wolves SC,312631,North Texas SC,312635,1,0,1,1,1,1,2,3,3,3,1602086400,Ended
+USA,"USL, League One",2020,1,8814124,Orlando City B,220945,Chattanooga Red Wolves SC,312631,,,,,,,,,,,1602356400,Canceled
+USA,"USL, League One",2020,1,8814138,Chattanooga Red Wolves SC,312631,Forward Madison FC,312632,1,,1,1,1,0,,1,1,1,1602954000,Ended
+USA,"USL, League One",2021,1,9435501,North Texas SC,312635,Chattanooga Red Wolves SC,312631,0,,0,0,0,1,,1,1,1,1620520200,Ended
+USA,"USL, League One",2021,1,9435496,New England Revolution II,338005,Chattanooga Red Wolves SC,312631,1,,2,2,2,0,,2,2,2,1621211400,Ended
+USA,"USL, League One",2021,1,9410327,Chattanooga Red Wolves SC,312631,Fort Lauderdale,338004,1,,2,2,2,0,,1,1,1,1621724400,Ended
+USA,"USL, League One",2021,1,9435450,South Georgia Tormenta FC,253417,Chattanooga Red Wolves SC,312631,0,,1,1,1,0,,0,0,0,1622937600,Ended
+USA,"USL, League One",2021,1,9435426,FC Tucson,100013,Chattanooga Red Wolves SC,312631,0,,2,2,2,2,,3,3,3,1623549600,Ended
+USA,"USL, League One",2021,1,9435532,Chattanooga Red Wolves SC,312631,North Carolina FC,22003,0,,3,3,3,1,,2,2,2,1624230000,Ended
+USA,"USL, League One",2021,1,9435547,Chattanooga Red Wolves SC,312631,Greenville Triumph SC,312633,1,,1,1,1,1,,1,1,1,1624748400,Ended
+USA,"USL, League One",2021,1,9435428,Union Omaha SC,338006,Chattanooga Red Wolves SC,312631,1,,1,1,1,0,,1,1,1,1625360400,Ended
+USA,"USL, League One",2021,1,9435540,Chattanooga Red Wolves SC,312631,FC Tucson,100013,1,,2,2,2,0,,2,2,2,1625958000,Ended
+USA,"USL, League One",2021,1,9435542,Chattanooga Red Wolves SC,312631,South Georgia Tormenta FC,253417,1,,2,2,2,0,,1,1,1,1626303600,Ended
+USA,"USL, League One",2021,1,9435476,North Texas SC,312635,Chattanooga Red Wolves SC,312631,0,,1,1,1,0,,1,1,1,1626570000,Ended
+USA,"USL, League One",2021,1,9435545,Chattanooga Red Wolves SC,312631,Greenville Triumph SC,312633,1,,1,1,1,0,,1,1,1,1627167600,Ended
+USA,"USL, League One",2021,1,9435552,Chattanooga Red Wolves SC,312631,Forward Madison FC,312632,1,,1,1,1,1,,1,1,1,1627772400,Ended
+USA,"USL, League One",2021,1,9435451,North Carolina FC,22003,Chattanooga Red Wolves SC,312631,0,,1,1,1,2,,4,4,4,1628636400,Ended
+USA,"USL, League One",2021,1,9435485,Chattanooga Red Wolves SC,312631,North Texas SC,312635,0,,1,1,1,1,,1,1,1,1629241200,Ended
+USA,"USL, League One",2021,1,9435488,Chattanooga Red Wolves SC,312631,Union Omaha SC,338006,0,1,1,1,1,0,0,0,0,0,1629586800,Ended
+USA,"USL, League One",2021,1,9435440,Toronto FC II,217784,Chattanooga Red Wolves SC,312631,0,,0,0,0,0,,0,0,0,1630094400,Ended
+USA,"USL, League One",2021,1,9435559,Fort Lauderdale,338004,Chattanooga Red Wolves SC,312631,0,,0,0,0,0,,0,0,0,1630798200,Ended
+USA,"USL, League One",2021,1,9435524,Chattanooga Red Wolves SC,312631,North Texas SC,312635,0,,1,1,1,0,,0,0,0,1631142000,Ended
+USA,"USL, League One",2021,1,9435464,Greenville Triumph SC,312633,Chattanooga Red Wolves SC,312631,1,,1,1,1,0,,0,0,0,1631401200,Ended
+USA,"USL, League One",2021,1,9435566,Chattanooga Red Wolves SC,312631,North Carolina FC,22003,0,,3,3,3,0,,1,1,1,1632006000,Ended
+USA,"USL, League One",2021,1,9435571,Chattanooga Red Wolves SC,312631,New England Revolution II,338005,0,,0,0,0,0,,1,1,1,1632610800,Ended
+USA,"USL, League One",2021,1,9435575,North Carolina FC,22003,Chattanooga Red Wolves SC,312631,1,,2,2,2,1,,3,3,3,1633806000,Ended
+USA,"USL, League One",2021,1,9435598,Chattanooga Red Wolves SC,312631,Toronto FC II,217784,0,,1,1,1,1,,2,2,2,1634425200,Ended
+USA,"USL, League One",2021,1,9435595,Greenville Triumph SC,312633,Chattanooga Red Wolves SC,312631,0,,0,0,0,0,,0,0,0,1635030000,Ended
+USA,"USL, League One",2021,1,9435604,Forward Madison FC,312632,Chattanooga Red Wolves SC,312631,1,,2,2,2,0,,1,1,1,1635638400,Ended
+USA,"USL, League One, Playoffs",2021,3,9928078,Chattanooga Red Wolves SC,312631,North Texas SC,312635,1,,1,2,2,0,,1,1,1,1636239600,AET
+USA,"USL, League One, Playoffs",2021,2,9939890,Union Omaha SC,338006,Chattanooga Red Wolves SC,312631,,,,,,,,,,,1636840800,Canceled
+USA,"USL, League One, Playoffs",2021,2,9942572,Greenville Triumph SC,312633,Chattanooga Red Wolves SC,312631,0,,0,2,2,0,,0,0,0,1636848000,AET
+USA,"USL, League One",2022,1,10050042,Chattanooga Red Wolves SC,312631,Forward Madison FC,312632,1,0,1,1,1,0,1,1,1,1,1648942200,Ended
+USA,"USL, League One",2022,1,10050048,North Carolina FC,22003,Chattanooga Red Wolves SC,312631,1,0,1,1,1,0,3,3,3,3,1649545200,Ended
+USA,"USL, League One",2022,1,10050055,Chattanooga Red Wolves SC,312631,FC Tucson,100013,1,1,2,2,2,0,3,3,3,3,1650756600,Ended
+USA,"USL, League One",2022,1,10050059,Greenville Triumph SC,312633,Chattanooga Red Wolves SC,312631,0,1,1,1,1,0,0,0,0,0,1651273200,Ended
+USA,"USL, League One",2022,1,10050065,Chattanooga Red Wolves SC,312631,Northern Colorado Hailstorm FC,405295,2,2,4,4,4,1,0,1,1,1,1651966200,Ended
+USA,"USL, League One",2022,1,10050070,Chattanooga Red Wolves SC,312631,Central Valley Fuego,405294,2,0,2,2,2,2,0,2,2,2,1652571000,Ended
+USA,"USL, League One",2022,1,10050081,Chattanooga Red Wolves SC,312631,Greenville Triumph SC,312633,0,0,0,0,0,0,1,1,1,1,1653780600,Ended
+USA,"USL, League One",2022,1,10050086,Chattanooga Red Wolves SC,312631,Union Omaha SC,338006,0,0,0,0,0,1,0,1,1,1,1654385400,Ended
+USA,"USL, League One",2022,1,10050091,Central Valley Fuego,405294,Chattanooga Red Wolves SC,312631,0,0,0,0,0,0,2,2,2,2,1655001000,Ended
+USA,"USL, League One",2022,1,10050105,Chattanooga Red Wolves SC,312631,FC Tucson,100013,0,1,1,1,1,1,1,2,2,2,1656199800,Ended
+USA,"USL, League One",2022,1,10050110,Northern Colorado Hailstorm FC,405295,Chattanooga Red Wolves SC,312631,2,0,2,2,2,0,1,1,1,1,1656637200,Ended
+USA,"USL, League One",2022,1,10050120,South Georgia Tormenta FC,253417,Chattanooga Red Wolves SC,312631,1,1,2,2,2,1,0,1,1,1,1657409400,Ended
+USA,"USL, League One",2022,1,10050123,Chattanooga Red Wolves SC,312631,North Carolina FC,22003,2,0,2,2,2,0,1,1,1,1,1658014200,Ended
+USA,"USL, League One",2022,1,10050129,Chattanooga Red Wolves SC,312631,Northern Colorado Hailstorm FC,405295,0,0,0,0,0,0,0,0,0,0,1658619000,Ended
+USA,"USL, League One",2022,1,10050139,Union Omaha SC,338006,Chattanooga Red Wolves SC,312631,0,1,1,1,1,1,0,1,1,1,1659225600,Ended
+USA,"USL, League One",2022,1,10050141,Central Valley Fuego,405294,Chattanooga Red Wolves SC,312631,0,0,0,0,0,0,1,1,1,1,1659580200,Ended
+USA,"USL, League One",2022,1,10050144,Chattanooga Red Wolves SC,312631,Greenville Triumph SC,312633,2,3,5,5,5,1,0,1,1,1,1659828600,Ended
+USA,"USL, League One",2022,1,10050148,Forward Madison FC,312632,Chattanooga Red Wolves SC,312631,0,1,1,1,1,1,0,1,1,1,1660435200,Ended
+USA,"USL, League One",2022,1,10050155,Chattanooga Red Wolves SC,312631,South Georgia Tormenta FC,253417,1,1,2,2,2,1,0,1,1,1,1661038200,Ended
+USA,"USL, League One",2022,1,10050171,Union Omaha SC,338006,Chattanooga Red Wolves SC,312631,0,2,2,2,2,1,0,1,1,1,1662249600,Ended
+USA,"USL, League One",2022,1,10050174,Forward Madison FC,312632,Chattanooga Red Wolves SC,312631,1,1,2,2,2,4,1,5,5,5,1662854400,Ended
+USA,"USL, League One",2022,1,10050187,FC Tucson,100013,Chattanooga Red Wolves SC,312631,1,1,2,2,2,1,0,1,1,1,1664071200,Ended
+USA,"USL, League One",2022,1,10050199,North Carolina FC,22003,Chattanooga Red Wolves SC,312631,0,0,0,0,0,0,1,1,1,1,1665270000,Ended
+USA,"USL, League One",2022,1,10050205,South Georgia Tormenta FC,253417,Chattanooga Red Wolves SC,312631,2,0,2,2,2,0,0,0,0,0,1665876600,Ended
+USA,"USL, League One, Playoffs",2022,4,10824388,Chattanooga Red Wolves SC,312631,Union Omaha SC,338006,0,0,0,1,1,0,0,0,0,0,1666481400,AET
+USA,"USL, League One, Playoffs",2022,1,10860451,South Georgia Tormenta FC,253417,Chattanooga Red Wolves SC,312631,1,1,2,2,2,1,0,1,1,1,1667781000,Ended
+USA,"USL, League One",2023,1,10987627,Chattanooga Red Wolves SC,312631,Northern Colorado Hailstorm FC,405295,0,0,0,0,0,0,0,0,0,0,1679787000,Ended
+USA,"USL, League One",2023,1,10987631,Chattanooga Red Wolves SC,312631,Central Valley Fuego,405294,0,0,0,0,0,0,1,1,1,1,1680391800,Ended
+USA,"USL, League One",2023,1,10987637,Chattanooga Red Wolves SC,312631,One Knoxville SC,407748,0,2,2,2,2,0,1,1,1,1,1680996600,Ended
+USA,"USL, League One",2023,1,10987648,North Carolina FC,22003,Chattanooga Red Wolves SC,312631,1,2,3,3,3,0,0,0,0,0,1682118000,Ended
+USA,"USL, League One",2023,1,10987652,Chattanooga Red Wolves SC,312631,Lexington SC,460707,0,3,3,3,3,0,1,1,1,1,1682811000,Ended
+USA,"USL, League One",2023,1,10987661,Chattanooga Red Wolves SC,312631,South Georgia Tormenta FC,253417,0,0,0,0,0,1,1,2,2,2,1683329400,Ended
+USA,"USL, League One",2023,1,10987667,One Knoxville SC,407748,Chattanooga Red Wolves SC,312631,2,0,2,2,2,0,0,0,0,0,1684285200,Ended
+USA,"USL, League One",2023,1,10987671,Chattanooga Red Wolves SC,312631,Union Omaha SC,338006,0,3,3,3,3,1,2,3,3,3,1684625400,Ended
+USA,"USL, League One",2023,1,10987687,Chattanooga Red Wolves SC,312631,Forward Madison FC,312632,2,0,2,2,2,0,0,0,0,0,1686180600,Ended
+USA,"USL, League One",2023,1,10987694,Lexington SC,460707,Chattanooga Red Wolves SC,312631,1,1,2,2,2,0,0,0,0,0,1686783600,Ended
+USA,"USL, League One",2023,1,10987700,Greenville Triumph SC,312633,Chattanooga Red Wolves SC,312631,3,2,5,5,5,1,0,1,1,1,1687390200,Ended
+USA,"USL, League One",2023,1,10987714,Chattanooga Red Wolves SC,312631,Northern Colorado Hailstorm FC,405295,0,1,1,1,1,1,0,1,1,1,1688859000,Ended
+USA,"USL, League One",2023,1,10987725,South Georgia Tormenta FC,253417,Chattanooga Red Wolves SC,312631,2,2,4,4,4,1,1,2,2,2,1689463800,Ended
+USA,"USL, League One",2023,1,10987731,One Knoxville SC,407748,Chattanooga Red Wolves SC,312631,1,1,2,2,2,0,3,3,3,3,1690068600,Ended
+USA,"USL, League One",2023,1,10987737,Chattanooga Red Wolves SC,312631,North Carolina FC,22003,0,1,1,1,1,2,0,2,2,2,1690673400,Ended
+USA,"USL, League One",2023,1,10987742,Central Valley Fuego,405294,Chattanooga Red Wolves SC,312631,1,0,1,1,1,0,1,1,1,1,1691289000,Ended
+USA,"USL, League One",2023,1,10987748,Forward Madison FC,312632,Chattanooga Red Wolves SC,312631,0,1,1,1,1,0,0,0,0,0,1691625600,Ended
+USA,"USL, League One",2023,1,10987762,Union Omaha SC,338006,Chattanooga Red Wolves SC,312631,1,1,2,2,2,0,1,1,1,1,1692489600,Ended
+USA,"USL, League One",2023,1,10987763,Greenville Triumph SC,312633,Chattanooga Red Wolves SC,312631,2,0,2,2,2,1,0,1,1,1,1692833400,Ended
+USA,"USL, League One",2023,1,10987765,Chattanooga Red Wolves SC,312631,South Georgia Tormenta FC,253417,2,2,4,4,4,2,2,4,4,4,1693092600,Ended
+USA,"USL, League One",2023,1,10987772,Chattanooga Red Wolves SC,312631,Forward Madison FC,312632,1,2,3,3,3,1,0,1,1,1,1693697400,Ended
+USA,"USL, League One",2023,1,10987786,Chattanooga Red Wolves SC,312631,Union Omaha SC,338006,1,1,2,2,2,3,0,3,3,3,1694907000,Ended
+USA,"USL, League One",2023,1,10987792,Lexington SC,460707,Chattanooga Red Wolves SC,312631,1,2,3,3,3,3,2,5,5,5,1695510000,Ended
+USA,"USL, League One",2023,1,10987800,Chattanooga Red Wolves SC,312631,Central Valley Fuego,405294,0,3,3,3,3,1,0,1,1,1,1696116600,Ended
+USA,"USL, League One",2023,1,10987806,Chattanooga Red Wolves SC,312631,Greenville Triumph SC,312633,2,0,2,2,2,0,2,2,2,2,1696721400,Ended
+USA,"USL, League One",2023,1,10987814,Northern Colorado Hailstorm FC,405295,Chattanooga Red Wolves SC,312631,2,1,3,3,3,0,1,1,1,1,1697331600,Ended
+USA,"USL, League One",2024,1,11912040,Lexington SC,460707,Chattanooga Red Wolves SC,312631,0,1,1,1,1,0,0,0,0,0,1710543600,Ended
+USA,"USL, League One",2024,1,11912052,Chattanooga Red Wolves SC,312631,Union Omaha SC,338006,,,,,,,,,,,1711841400,Postponed
+USA,"USL, League One",2024,1,12091475,Central Valley Fuego,405294,Chattanooga Red Wolves SC,312631,1,1,2,2,2,2,2,4,4,4,1713061800,Ended
+USA,"USL, League One",2024,1,12091470,Chattanooga Red Wolves SC,312631,Northern Colorado Hailstorm FC,405295,1,0,1,1,1,0,1,1,1,1,1713655800,Ended
+USA,USL League One Cup,2024,,12295078,Chattanooga Red Wolves SC,312631,One Knoxville SC,407748,0,0,0,0,0,0,1,1,1,1,1714260600,Ended
+USA,"USL, League One",2024,1,12091445,South Georgia Tormenta FC,253417,Chattanooga Red Wolves SC,312631,1,3,4,4,4,0,0,0,0,0,1716075000,Ended
+USA,USL League One Cup,2024,,12330932,Chattanooga Red Wolves SC,312631,Lexington SC,460707,2,1,3,3,3,1,3,4,4,4,1716679800,Ended
+USA,"USL, League One",2024,1,12091434,Greenville Triumph SC,312633,Chattanooga Red Wolves SC,312631,1,0,1,1,1,1,2,3,3,3,1717358400,Ended
+USA,"USL, League One",2024,1,12238658,Chattanooga Red Wolves SC,312631,Union Omaha SC,338006,1,1,2,2,2,3,2,5,5,5,1717630200,Ended
+USA,USL League One Cup,2024,,12330968,Chattanooga Red Wolves SC,312631,Forward Madison FC,312632,0,0,0,0,0,1,0,1,1,1,1717889400,Ended
+USA,"USL, League One",2024,1,12091413,Chattanooga Red Wolves SC,312631,South Georgia Tormenta FC,253417,1,2,3,3,3,1,1,2,2,2,1719099000,Ended
+USA,USL League One Cup,2024,,12331125,Union Omaha SC,338006,Chattanooga Red Wolves SC,312631,2,2,4,4,4,2,0,2,2,2,1719532800,Ended
+USA,"USL, League One",2024,1,12091398,Spokane Velocity FC,502354,Chattanooga Red Wolves SC,312631,2,0,2,2,2,1,0,1,1,1,1720314000,Ended
+USA,USL League One Cup,2024,,12331155,One Knoxville SC,407748,Chattanooga Red Wolves SC,312631,0,1,1,1,5,0,1,1,1,4,1721516400,AP
+USA,"USL, League One",2024,1,12091393,Union Omaha SC,338006,Chattanooga Red Wolves SC,312631,0,0,0,0,0,0,1,1,1,1,1722124800,Ended
+USA,"USL, League One",2024,1,12091388,Chattanooga Red Wolves SC,312631,Central Valley Fuego,405294,1,0,1,1,1,1,1,2,2,2,1722727800,Ended
+USA,"USL, League One",2024,1,12091383,Chattanooga Red Wolves SC,312631,Spokane Velocity FC,502354,0,0,0,0,0,0,1,1,1,1,1723073400,Ended
+USA,USL League One Cup,2024,,12331196,Forward Madison FC,312632,Chattanooga Red Wolves SC,312631,1,1,2,2,2,1,0,1,1,1,1723334400,Ended
+USA,"USL, League One",2024,1,12091363,One Knoxville SC,407748,Chattanooga Red Wolves SC,312631,3,1,4,4,4,1,0,1,1,1,1723849200,Ended
+USA,USL League One Cup,2024,,12331214,Lexington SC,460707,Chattanooga Red Wolves SC,312631,2,0,2,2,11,0,2,2,2,12,1725145200,AP
+USA,"USL, League One",2024,1,12091356,Chattanooga Red Wolves SC,312631,Forward Madison FC,312632,1,0,1,1,1,1,2,3,3,3,1725751800,Ended
+USA,"USL, League One",2024,1,12091354,Chattanooga Red Wolves SC,312631,Greenville Triumph SC,312633,1,1,2,2,2,2,3,5,5,5,1726356600,Ended
+USA,"USL, League One",2024,1,12091325,Northern Colorado Hailstorm FC,405295,Chattanooga Red Wolves SC,312631,0,0,0,0,0,0,0,0,0,0,1726966800,Ended
+USA,"USL, League One",2024,1,12091344,Chattanooga Red Wolves SC,312631,One Knoxville SC,407748,1,0,1,1,1,0,1,1,1,1,1728171000,Ended
+USA,"USL, League One",2024,1,12091318,Forward Madison FC,312632,Chattanooga Red Wolves SC,312631,0,2,2,2,2,0,1,1,1,1,1728774000,Ended
+USA,"USL, League One",2024,1,12091339,Chattanooga Red Wolves SC,312631,Lexington SC,460707,0,0,0,0,0,0,3,3,3,3,1729985400,Ended
+USA,"USL, League One",2025,,13278899,FC Naples,1044341,Chattanooga Red Wolves SC,312631,0,1,1,1,1,0,1,1,1,1,1741478400,Ended
+USA,"USL, League One",2025,,13278919,Chattanooga Red Wolves SC,312631,South Georgia Tormenta FC,253417,0,2,2,2,2,0,2,2,2,2,1743894000,Ended
+USA,"USL, League One",2025,,13278926,AV Alta FC,1044343,Chattanooga Red Wolves SC,312631,2,1,3,3,3,1,1,2,2,2,1744511400,Ended
+USA,"USL, League One",2025,,13278931,Chattanooga Red Wolves SC,312631,Greenville Triumph SC,312633,0,1,1,1,1,0,0,0,0,0,1745103600,Ended
+USA,"USL, League One",2025,,13278948,Chattanooga Red Wolves SC,312631,FC Naples,1044341,1,2,3,3,3,1,0,1,1,1,1747238400,Ended
+USA,"USL, League One",2025,,13278957,South Georgia Tormenta FC,253417,Chattanooga Red Wolves SC,312631,0,1,1,1,1,1,1,2,2,2,1748129400,Ended
+USA,"USL, League One",2025,,13278962,Chattanooga Red Wolves SC,312631,Portland Hearts of Pine,1044345,2,0,2,2,2,1,0,1,1,1,1749337200,Ended
+USA,"USL, League One",2025,,13278971,FC Naples,1044341,Chattanooga Red Wolves SC,312631,2,0,2,2,2,2,0,2,2,2,1749943800,Ended
+USA,"USL, League One",2025,,13278979,Greenville Triumph SC,312633,Chattanooga Red Wolves SC,312631,1,2,3,3,3,1,0,1,1,1,1750546800,Ended
+USA,"USL, League One",2025,,13278989,Chattanooga Red Wolves SC,312631,One Knoxville SC,407748,1,0,1,1,1,0,0,0,0,0,1751756400,Ended
+USA,"USL, League One",2025,,13278998,Chattanooga Red Wolves SC,312631,Texoma FC,1044344,1,0,1,1,1,0,1,1,1,1,1752706800,Ended
+USA,"USL, League One",2025,,13279006,Chattanooga Red Wolves SC,312631,Spokane Velocity FC,502354,2,1,3,3,3,0,0,0,0,0,1752966000,Ended
+USA,"USL, League One",2025,,13279011,Westchester SC,1044342,Chattanooga Red Wolves SC,312631,0,1,1,1,1,1,2,3,3,3,1754089200,Ended
+USA,"USL, League One",2025,,13279018,Chattanooga Red Wolves SC,312631,Forward Madison FC,312632,0,2,2,2,2,0,1,1,1,1,1754521200,Ended
+USA,"USL, League One",2025,,13279026,Union Omaha SC,338006,Chattanooga Red Wolves SC,312631,1,1,2,2,2,1,1,2,2,2,1754780400,Ended
+USA,"USL, League One",2025,,13279032,Texoma FC,1044344,Chattanooga Red Wolves SC,312631,0,0,0,0,0,1,0,1,1,1,1755390600,Ended
+USA,"USL, League One",2025,,13279038,Chattanooga Red Wolves SC,312631,South Georgia Tormenta FC,253417,1,1,2,2,2,0,0,0,0,0,1755990000,Ended
+USA,"USL, League One",2025,,13279045,Chattanooga Red Wolves SC,312631,AV Alta FC,1044343,0,0,0,0,0,0,0,0,0,0,1756594800,Ended
+USA,"USL, League One",2025,,13279062,Portland Hearts of Pine,1044345,Chattanooga Red Wolves SC,312631,0,1,1,1,1,1,0,1,1,1,1757800800,Ended
+USA,"USL, League One",2025,,13279072,Spokane Velocity FC,502354,Chattanooga Red Wolves SC,312631,0,1,1,1,1,0,2,2,2,2,1758495600,Ended
+USA,"USL, League One",2025,,13279076,Chattanooga Red Wolves SC,312631,Union Omaha SC,338006,0,0,0,0,0,3,0,3,3,3,1759014000,Ended
+USA,"USL, League One",2025,,13279082,One Knoxville SC,407748,Chattanooga Red Wolves SC,312631,2,0,2,2,2,0,0,0,0,0,1759357800,Ended
+USA,"USL, League One",2025,,13279087,Chattanooga Red Wolves SC,312631,Greenville Triumph SC,312633,0,0,0,0,0,0,0,0,0,0,1759618800,Ended
+USA,"USL, League One",2025,,13279095,Forward Madison FC,312632,Chattanooga Red Wolves SC,312631,1,1,2,2,2,0,1,1,1,1,1760220000,Ended
+USA,"USL, League One",2025,,13279107,Chattanooga Red Wolves SC,312631,Westchester SC,1044342,1,1,2,2,2,1,0,1,1,1,1761433200,Ended
+USA,"USL, League One, Playoffs",2025,27,14950937,Chattanooga Red Wolves SC,312631,Portland Hearts of Pine,1044345,0,0,0,0,0,0,1,1,1,1,1762038000,Ended
+USA,"USL, League One",2026,,15227367,Greenville Triumph SC,312633,Chattanooga Red Wolves SC,312631,1,0,1,1,1,1,1,2,2,2,1773529200,Ended
+USA,"USL, League One",2026,,15285385,AV Alta FC,1044343,Chattanooga Red Wolves SC,312631,1,1,2,2,2,2,0,2,2,2,1774751400,Ended
+USA,"USL, League One",2026,,15227321,Chattanooga Red Wolves SC,312631,Fort Wayne FC,341749,0,0,0,0,0,1,0,1,1,1,1775948400,Ended
+USA,"USL, League One",2026,,15285402,South Georgia Tormenta FC,253417,Chattanooga Red Wolves SC,312631,,,,,,,,,,,1776553200,Canceled
+USA,"USL, League One",2026,,15285416,AC Boise,1158834,Chattanooga Red Wolves SC,312631,2,0,2,2,2,0,1,1,1,1,1777770000,Ended
+USA,"USL, League One",2026,,15285420,Chattanooga Red Wolves SC,312631,Sarasota Paradise,465623,2,2,4,4,4,1,0,1,1,1,1778353200,Ended
+USA,"USL, League One",2026,,15285437,Union Omaha SC,338006,Chattanooga Red Wolves SC,312631,0,2,2,2,2,0,0,0,0,0,1779580800,Ended
+USA,"USL, League One",2026,,15285462,Portland Hearts of Pine,1044345,Chattanooga Red Wolves SC,312631,0,1,1,1,1,1,1,2,2,2,1781389800,Ended
+USA,"USL, League One",2026,,15285471,Chattanooga Red Wolves SC,312631,FC Naples,1044341,0,1,1,1,1,0,0,0,0,0,1781996400,Ended
+USA,"USL, League One",2026,,15285480,Chattanooga Red Wolves SC,312631,Westchester SC,1044342,0,2,2,2,2,0,0,0,0,0,1782946800,Ended
+USA,"USL, League One",2019,1,8188117,North Texas SC,312635,Forward Madison FC,312632,0,1,1,1,1,0,0,0,0,0,1555208400,Ended
+USA,"USL, League One",2019,1,8193015,Orlando City B,220945,Forward Madison FC,312632,1,0,1,1,1,0,2,2,2,2,1555716600,Ended
+USA,"USL, League One",2019,1,8199790,Forward Madison FC,312632,Greenville Triumph SC,312633,0,0,0,0,0,0,0,0,0,0,1556409600,Ended
+USA,"USL, League One",2019,1,8205250,Forward Madison FC,312632,Toronto FC II,217784,1,2,3,3,3,1,0,1,1,1,1557014400,Ended
+USA,"USL, League One",2019,1,8216565,Forward Madison FC,312632,South Georgia Tormenta FC,253417,0,0,0,0,0,0,1,1,1,1,1558224000,Ended
+USA,"USL, League One",2019,1,8219906,North Texas SC,312635,Forward Madison FC,312632,2,1,3,3,3,1,0,1,1,1,1558569600,Ended
+USA,"USL, League One",2019,1,8227326,Forward Madison FC,312632,Lansing Ignite FC,312634,0,0,0,0,0,0,1,1,1,1,1559433600,Ended
+USA,"USL, League One",2019,1,8231428,Orlando City B,220945,Forward Madison FC,312632,1,1,2,2,2,0,1,1,1,1,1559950200,Ended
+USA,"USL, League One",2019,1,8239780,Forward Madison FC,312632,FC Tucson,100013,2,0,2,2,2,0,1,1,1,1,1560643200,Ended
+USA,"USL, League One",2019,1,8248226,Forward Madison FC,312632,North Texas SC,312635,1,3,4,4,4,1,0,1,1,1,1561248000,Ended
+USA,"USL, League One",2019,,8258449,Toronto FC II,217784,Forward Madison FC,312632,1,0,1,1,1,0,1,1,1,1,1561752000,Ended
+USA,"USL, League One",2019,1,8274297,South Georgia Tormenta FC,253417,Forward Madison FC,312632,0,1,1,1,1,1,1,2,2,2,1562457600,Ended
+USA,"USL, League One",2019,1,8278681,Lansing Ignite FC,312634,Forward Madison FC,312632,1,2,3,3,3,1,1,2,2,2,1562713200,Ended
+USA,"USL, League One",2019,1,8319314,Forward Madison FC,312632,Orlando City B,220945,0,1,1,1,1,0,0,0,0,0,1564272000,Ended
+USA,"USL, League One",2019,1,8329254,Toronto FC II,217784,Forward Madison FC,312632,0,1,1,1,1,1,3,4,4,4,1564603200,Ended
+USA,"USL, League One",2019,1,8335703,Forward Madison FC,312632,FC Tucson,100013,1,0,1,1,1,0,0,0,0,0,1564876800,Ended
+USA,"USL, League One",2019,1,8355154,Greenville Triumph SC,312633,Forward Madison FC,312632,0,0,0,0,0,0,0,0,0,0,1566082800,Ended
+USA,"USL, League One",2019,,8373119,Forward Madison FC,312632,Greenville Triumph SC,312633,0,0,0,0,0,1,0,1,1,1,1567036800,Ended
+USA,"USL, League One",2019,1,8393530,Forward Madison FC,312632,South Georgia Tormenta FC,253417,1,,1,1,1,0,,1,1,1,1567900800,Ended
+USA,"USL, League One",2019,1,8411703,Forward Madison FC,312632,North Texas SC,312635,1,,1,1,1,0,,0,0,0,1569186000,Ended
+USA,"USL, League One",2019,1,8419599,FC Tucson,100013,Forward Madison FC,312632,1,,1,1,1,1,,1,1,1,1569637800,Ended
+USA,"USL, League One",2019,1,8433452,Lansing Ignite FC,312634,Forward Madison FC,312632,0,0,0,0,0,1,0,1,1,1,1570302000,Ended
+USA,"USL, League One, Playoffs",2019,2,8448970,North Texas SC,312635,Forward Madison FC,312632,0,,2,2,2,0,,0,0,0,1570924800,Ended
+USA,"USL, League One",2020,1,8789652,North Texas SC,312635,Forward Madison FC,312632,1,1,2,2,2,1,0,1,1,1,1595725200,Ended
+USA,"USL, League One",2020,1,8789658,Forward Madison FC,312632,Greenville Triumph SC,312633,0,,0,0,0,0,,0,0,0,1596240000,Ended
+USA,"USL, League One",2020,1,8809086,Forward Madison FC,312632,South Georgia Tormenta FC,253417,2,,4,4,4,0,,0,0,0,1597449600,Ended
+USA,"USL, League One",2020,1,8809116,Union Omaha SC,338006,Forward Madison FC,312632,1,,1,1,1,1,,1,1,1,1597881600,Ended
+USA,"USL, League One",2020,1,8809121,Forward Madison FC,312632,Orlando City B,220945,1,2,3,3,3,1,0,1,1,1,1598216400,Ended
+USA,"USL, League One",2020,1,8809131,Forward Madison FC,312632,North Texas SC,312635,,,,,,,,,,,1598821200,Canceled
+USA,"USL, League One",2020,1,8814104,New England Revolution II,338005,Forward Madison FC,312632,0,,0,0,0,1,,4,4,4,1599260400,Ended
+USA,"USL, League One",2020,1,8814102,Greenville Triumph SC,312633,Forward Madison FC,312632,1,1,2,2,2,0,0,0,0,0,1600023600,Ended
+USA,"USL, League One",2020,1,8814112,FC Tucson,100013,Forward Madison FC,312632,1,,2,2,2,1,,1,1,1,1600914600,Ended
+USA,"USL, League One",2020,1,8814132,Forward Madison FC,312632,FC Tucson,100013,0,,0,0,0,0,,0,0,0,1601769600,Ended
+USA,"USL, League One",2020,1,8814130,Forward Madison FC,312632,Union Omaha SC,338006,0,,0,0,0,0,,0,0,0,1602446400,Ended
+USA,"USL, League One",2020,1,8814137,Fort Lauderdale,338004,Forward Madison FC,312632,1,,2,2,2,0,,2,2,2,1602705600,Ended
+USA,"USL, League One",2020,1,9114796,Forward Madison FC,312632,North Texas SC,312635,0,,0,0,0,0,,1,1,1,1603324800,Ended
+USA,"USL, League One",2020,1,8814142,Forward Madison FC,312632,New England Revolution II,338005,0,,2,2,2,1,,1,1,1,1603584000,Ended
+USA,"USL, League One",2021,1,9410314,FC Tucson,100013,Forward Madison FC,312632,0,,1,1,1,0,,1,1,1,1620525600,Ended
+USA,"USL, League One",2021,1,9410323,Forward Madison FC,312632,North Carolina FC,22003,0,,1,1,1,0,,0,0,0,1621123200,Ended
+USA,"USL, League One",2021,1,9435498,Forward Madison FC,312632,Union Omaha SC,338006,0,,1,1,1,0,,0,0,0,1622073600,Ended
+USA,"USL, League One",2021,1,9435445,South Georgia Tormenta FC,253417,Forward Madison FC,312632,1,,1,1,1,0,,3,3,3,1622329200,Ended
+USA,"USL, League One",2021,1,9435494,Fort Lauderdale,338004,Forward Madison FC,312632,1,,2,2,2,0,,2,2,2,1622590200,Ended
+USA,"USL, League One",2021,1,9435530,Forward Madison FC,312632,Union Omaha SC,338006,1,,1,1,1,1,,2,2,2,1623016800,Ended
+USA,"USL, League One",2021,1,9435525,Forward Madison FC,312632,New England Revolution II,338005,0,,0,0,0,1,,2,2,2,1624147200,Ended
+USA,"USL, League One",2021,1,9435429,Greenville Triumph SC,312633,Forward Madison FC,312632,1,,2,2,2,2,,2,2,2,1624489200,Ended
+USA,"USL, League One",2021,1,9435541,Forward Madison FC,312632,New England Revolution II,338005,1,,1,1,1,0,,0,0,0,1625097600,Ended
+USA,"USL, League One",2021,1,9435551,North Texas SC,312635,Forward Madison FC,312632,2,,4,4,4,0,,1,1,1,1625965200,Ended
+USA,"USL, League One",2021,1,9435448,Union Omaha SC,338006,Forward Madison FC,312632,1,,1,1,1,0,,1,1,1,1626483600,Ended
+USA,"USL, League One",2021,1,9435554,Forward Madison FC,312632,Fort Lauderdale,338004,1,,1,1,1,0,,1,1,1,1627171200,Ended
+USA,"USL, League One",2021,1,9435555,Union Omaha SC,338006,Forward Madison FC,312632,1,,,,,0,,,,,1628380800,Canceled
+USA,"USL, League One",2021,1,9435470,Forward Madison FC,312632,South Georgia Tormenta FC,253417,1,,2,2,2,0,,1,1,1,1628985600,Ended
+USA,"USL, League One",2021,1,9435437,Forward Madison FC,312632,Toronto FC II,217784,1,,2,2,2,1,,2,2,2,1629331200,Ended
+USA,"USL, League One",2021,1,9435486,Forward Madison FC,312632,North Texas SC,312635,1,,1,1,1,0,,1,1,1,1629590400,Ended
+USA,"USL, League One",2021,1,9435477,North Carolina FC,22003,Forward Madison FC,312632,1,,1,1,1,0,,0,0,0,1629932400,Ended
+USA,"USL, League One",2021,1,9435567,Toronto FC II,217784,Forward Madison FC,312632,0,1,1,1,1,1,0,1,1,1,1631908800,Ended
+USA,"USL, League One",2021,1,9435505,Forward Madison FC,312632,Greenville Triumph SC,312633,1,,1,1,1,0,,1,1,1,1632614400,Ended
+USA,"USL, League One",2021,1,9435569,New England Revolution II,338005,Forward Madison FC,312632,0,,1,1,1,0,,0,0,0,1633122000,Ended
+USA,"USL, League One",2021,1,9435460,New England Revolution II,338005,Forward Madison FC,312632,1,,1,1,1,0,,0,0,0,1634072400,Ended
+USA,"USL, League One",2021,1,9787940,Union Omaha SC,338006,Forward Madison FC,312632,0,,1,1,1,0,,2,2,2,1634774400,Ended
+USA,"USL, League One",2021,1,9435588,Forward Madison FC,312632,FC Tucson,100013,0,,2,2,2,2,,2,2,2,1635033600,Ended
+USA,"USL, League One",2022,1,10050047,Forward Madison FC,312632,Union Omaha SC,338006,1,1,2,2,2,2,0,2,2,2,1649548800,Ended
+USA,"USL, League One",2022,1,10050052,FC Tucson,100013,Forward Madison FC,312632,0,1,1,1,1,0,1,1,1,1,1650160800,Ended
+USA,"USL, League One",2022,1,10050062,Forward Madison FC,312632,Central Valley Fuego,405294,0,0,0,0,0,0,1,1,1,1,1651356000,Ended
+USA,"USL, League One",2022,1,10050069,Greenville Triumph SC,312633,Forward Madison FC,312632,2,0,2,2,2,0,0,0,0,0,1652482800,Ended
+USA,"USL, League One",2022,1,10050080,Central Valley Fuego,405294,Forward Madison FC,312632,0,1,1,1,1,0,1,1,1,1,1653791400,Ended
+USA,"USL, League One",2022,1,10050087,Forward Madison FC,312632,FC Tucson,100013,1,1,2,2,2,1,0,1,1,1,1654387200,Ended
+USA,"USL, League One",2022,1,10050094,Forward Madison FC,312632,Greenville Triumph SC,312633,1,2,3,3,3,1,1,2,2,2,1654992000,Ended
+USA,"USL, League One",2022,1,10050100,South Georgia Tormenta FC,253417,Forward Madison FC,312632,1,1,2,2,2,0,2,2,2,2,1655681400,Ended
+USA,"USL, League One",2022,1,10050115,Northern Colorado Hailstorm FC,405295,Forward Madison FC,312632,1,0,1,1,1,2,0,2,2,2,1657069200,Ended
+USA,"USL, League One",2022,1,10050124,Forward Madison FC,312632,South Georgia Tormenta FC,253417,0,2,2,2,2,0,0,0,0,0,1658016000,Ended
+USA,"USL, League One",2022,1,10050133,Forward Madison FC,312632,Union Omaha SC,338006,0,0,0,0,0,0,0,0,0,0,1658880000,Ended
+USA,"USL, League One",2022,1,10050137,Forward Madison FC,312632,Northern Colorado Hailstorm FC,405295,0,1,1,1,1,1,0,1,1,1,1659225600,Ended
+USA,"USL, League One",2022,1,10050147,North Carolina FC,22003,Forward Madison FC,312632,0,2,2,2,2,1,0,1,1,1,1660175100,Ended
+USA,"USL, League One",2022,1,10050157,Northern Colorado Hailstorm FC,405295,Forward Madison FC,312632,1,0,1,1,1,1,2,3,3,3,1661043600,Ended
+USA,"USL, League One",2022,1,10050159,Forward Madison FC,312632,North Carolina FC,22003,0,0,0,0,0,0,0,0,0,0,1661385600,Ended
+USA,"USL, League One",2022,1,10050167,Union Omaha SC,338006,Forward Madison FC,312632,0,1,1,1,1,0,0,0,0,0,1661990400,Ended
+USA,"USL, League One",2022,1,10050169,Greenville Triumph SC,312633,Forward Madison FC,312632,1,1,2,2,2,1,1,2,2,2,1662246000,Ended
+USA,"USL, League One",2022,1,10050181,Forward Madison FC,312632,North Carolina FC,22003,0,1,1,1,1,1,1,2,2,2,1663452000,Ended
+USA,"USL, League One",2022,1,10050184,Central Valley Fuego,405294,Forward Madison FC,312632,1,2,3,3,3,0,0,0,0,0,1663813800,Ended
+USA,"USL, League One",2022,1,10050188,Forward Madison FC,312632,South Georgia Tormenta FC,253417,0,0,0,0,0,0,1,1,1,1,1664064000,Ended
+USA,"USL, League One",2022,1,10050203,FC Tucson,100013,Forward Madison FC,312632,0,1,1,1,1,1,0,1,1,1,1665885600,Ended
+USA,"USL, League One",2023,1,10987630,Union Omaha SC,338006,Forward Madison FC,312632,1,0,1,1,1,0,1,1,1,1,1679857200,Ended
+USA,"USL, League One",2023,1,10987638,Lexington SC,460707,Forward Madison FC,312632,0,0,0,0,0,0,0,0,0,0,1680994800,Ended
+USA,"USL, League One",2023,1,10987642,Forward Madison FC,312632,Greenville Triumph SC,312633,2,2,4,4,4,0,1,1,1,1,1681599600,Ended
+USA,"USL, League One",2023,1,10987659,One Knoxville SC,407748,Forward Madison FC,312632,0,0,0,0,0,0,0,0,0,0,1683154800,Ended
+USA,"USL, League One",2023,1,10987665,North Carolina FC,22003,Forward Madison FC,312632,0,0,0,0,0,1,1,2,2,2,1684018800,Ended
+USA,"USL, League One",2023,1,10987669,Forward Madison FC,312632,Northern Colorado Hailstorm FC,405295,0,0,0,0,0,1,1,2,2,2,1684454400,Ended
+USA,"USL, League One",2023,1,10987680,Union Omaha SC,338006,Forward Madison FC,312632,1,0,1,1,1,1,1,2,2,2,1685232000,Ended
+USA,"USL, League One",2023,1,10987682,Forward Madison FC,312632,Central Valley Fuego,405294,1,0,1,1,1,0,2,2,2,2,1685836800,Ended
+USA,"USL, League One",2023,1,10987690,Forward Madison FC,312632,North Carolina FC,22003,1,2,3,3,3,0,0,0,0,0,1686441600,Ended
+USA,"USL, League One",2023,1,10987702,Forward Madison FC,312632,Lexington SC,460707,3,0,3,3,3,1,1,2,2,2,1687478400,Ended
+USA,"USL, League One",2023,1,10987707,South Georgia Tormenta FC,253417,Forward Madison FC,312632,0,0,0,0,0,1,0,1,1,1,1687995000,Ended
+USA,"USL, League One",2023,1,10987710,Greenville Triumph SC,312633,Forward Madison FC,312632,1,0,1,1,1,0,0,0,0,0,1688252400,Ended
+USA,"USL, League One",2023,1,10987715,Forward Madison FC,312632,Central Valley Fuego,405294,1,0,1,1,1,0,0,0,0,0,1688860800,Ended
+USA,"USL, League One",2023,1,10987722,North Carolina FC,22003,Forward Madison FC,312632,0,2,2,2,2,2,0,2,2,2,1689462000,Ended
+USA,"USL, League One",2023,1,10987733,Forward Madison FC,312632,South Georgia Tormenta FC,253417,1,0,1,1,1,1,3,4,4,4,1690412400,Ended
+USA,"USL, League One",2023,1,10987738,Forward Madison FC,312632,Greenville Triumph SC,312633,1,0,1,1,1,0,1,1,1,1,1690675200,Ended
+USA,"USL, League One",2023,1,10987753,Forward Madison FC,312632,One Knoxville SC,407748,1,0,1,1,1,2,0,2,2,2,1691884800,Ended
+USA,"USL, League One",2023,1,10987761,South Georgia Tormenta FC,253417,Forward Madison FC,312632,1,3,4,4,4,2,0,2,2,2,1692487800,Ended
+USA,"USL, League One",2023,1,10987764,Central Valley Fuego,405294,Forward Madison FC,312632,3,1,4,4,4,2,2,4,4,4,1693103400,Ended
+USA,"USL, League One",2023,1,10987779,Forward Madison FC,312632,One Knoxville SC,407748,0,0,0,0,0,0,0,0,0,0,1694304000,Ended
+USA,"USL, League One",2023,1,10987790,Forward Madison FC,312632,Northern Colorado Hailstorm FC,405295,0,0,0,0,0,0,0,0,0,0,1695254400,Ended
+USA,"USL, League One",2023,1,10987801,Forward Madison FC,312632,Lexington SC,460707,0,2,2,2,2,0,2,2,2,2,1696111200,Ended
+USA,"USL, League One",2023,1,10987808,Northern Colorado Hailstorm FC,405295,Forward Madison FC,312632,0,2,2,2,2,0,0,0,0,0,1696726800,Ended
+USA,"USL, League One",2023,1,10987811,Forward Madison FC,312632,Union Omaha SC,338006,0,0,0,0,0,0,1,1,1,1,1697324400,Ended
+USA,"USL, League One, Playoffs",2023,27,11748853,Northern Colorado Hailstorm FC,405295,Forward Madison FC,312632,1,3,4,4,4,0,1,1,1,1,1697936400,Ended
+USA,"USL, League One",2024,1,11912043,South Georgia Tormenta FC,253417,Forward Madison FC,312632,0,1,1,1,1,0,1,1,1,1,1710631800,Ended
+USA,"USL, League One",2024,1,11912045,Greenville Triumph SC,312633,Forward Madison FC,312632,0,0,0,0,0,0,0,0,0,0,1711234800,Ended
+USA,"USL, League One",2024,1,11912049,Central Valley Fuego,405294,Forward Madison FC,312632,0,0,0,0,0,3,0,3,3,3,1711764000,Ended
+USA,USL League One Cup,2024,,12295081,Lexington SC,460707,Forward Madison FC,312632,0,1,1,1,1,0,0,0,0,0,1714334400,Ended
+USA,"USL, League One",2024,1,12091452,Forward Madison FC,312632,Greenville Triumph SC,312633,1,2,3,3,3,1,1,2,2,2,1714863600,Ended
+USA,"USL, League One",2024,1,12091457,One Knoxville SC,407748,Forward Madison FC,312632,,,,,,,,,,,1715207400,Postponed
+USA,"USL, League One",2024,1,12091443,Spokane Velocity FC,502354,Forward Madison FC,312632,0,0,0,0,0,2,1,3,3,3,1716156000,Ended
+USA,USL League One Cup,2024,,12330930,Forward Madison FC,312632,One Knoxville SC,407748,1,0,1,1,1,0,0,0,0,0,1716678000,Ended
+USA,"USL, League One",2024,1,12091440,Forward Madison FC,312632,Lexington SC,460707,3,1,4,4,4,0,1,1,1,1,1717279200,Ended
+USA,"USL, League One",2024,1,12091428,Forward Madison FC,312632,South Georgia Tormenta FC,253417,0,0,0,0,0,0,0,0,0,0,1718478000,Ended
+USA,"USL, League One",2024,1,12091423,Forward Madison FC,312632,Union Omaha SC,338006,1,1,2,2,2,0,0,0,0,0,1718928000,Ended
+USA,USL League One Cup,2024,,12331135,One Knoxville SC,407748,Forward Madison FC,312632,0,2,2,2,2,0,0,0,0,0,1719703800,Ended
+USA,USL League One Cup,2024,,12331167,Forward Madison FC,312632,Lexington SC,460707,0,1,1,1,1,0,0,0,0,0,1721520000,Ended
+USA,"USL, League One",2024,,12573764,Forward Madison FC,312632,Central Valley Fuego,405294,1,1,2,2,2,0,1,1,1,1,1721865600,Ended
+USA,"USL, League One",2024,1,12091390,Forward Madison FC,312632,Northern Colorado Hailstorm FC,405295,0,0,0,0,0,1,0,1,1,1,1722124800,Ended
+USA,"USL, League One",2024,1,12091386,Union Omaha SC,338006,Forward Madison FC,312632,0,2,2,2,2,0,2,2,2,2,1722729600,Ended
+USA,"USL, League One",2024,1,12091365,Lexington SC,460707,Forward Madison FC,312632,0,0,0,0,0,0,0,0,0,0,1724540400,Ended
+USA,USL League One Cup,2024,,12331204,Forward Madison FC,312632,Union Omaha SC,338006,2,1,3,3,8,1,2,3,3,7,1724976000,AP
+USA,"USL, League One",2024,1,12091350,Forward Madison FC,312632,Spokane Velocity FC,502354,1,1,2,2,2,0,0,0,0,0,1726956000,Ended
+USA,USL League One Cup,2024,29,12828650,Northern Colorado Hailstorm FC,405295,Forward Madison FC,312632,1,0,1,1,6,1,0,1,1,5,1727568000,AP
+USA,"USL, League One",2024,,12393881,One Knoxville SC,407748,Forward Madison FC,312632,0,1,1,1,1,1,0,1,1,1,1727821800,Ended
+USA,"USL, League One",2024,1,12091335,Forward Madison FC,312632,One Knoxville SC,407748,0,0,0,0,0,0,0,0,0,0,1729378800,Ended
+USA,"USL, League One",2024,1,12091331,Northern Colorado Hailstorm FC,405295,Forward Madison FC,312632,0,1,1,1,1,0,0,0,0,0,1729990800,Ended
+USA,"USL, League One, Playoffs",2024,28,13080306,Forward Madison FC,312632,Spokane Velocity FC,502354,0,0,0,0,4,0,0,0,0,5,1731196800,AP
+USA,"USL, League One",2025,,13278905,FC Naples,1044341,Forward Madison FC,312632,2,0,2,2,2,0,0,0,0,0,1742079600,Ended
+USA,"USL, League One",2025,,13278933,Forward Madison FC,312632,Texoma FC,1044344,0,1,1,1,1,0,1,1,1,1,1745103600,Ended
+USA,"USL, League One",2025,,13278939,Forward Madison FC,312632,Union Omaha SC,338006,0,0,0,0,0,0,0,0,0,0,1746309600,Ended
+USA,"USL, League One",2025,,13278942,One Knoxville SC,407748,Forward Madison FC,312632,0,1,1,1,1,0,1,1,1,1,1746829800,Ended
+USA,"USL, League One",2025,,13278953,Westchester SC,1044342,Forward Madison FC,312632,1,0,1,1,1,1,0,1,1,1,1747512000,Ended
+USA,"USL, League One",2025,,13278956,Forward Madison FC,312632,Portland Hearts of Pine,1044345,1,0,1,1,1,1,0,1,1,1,1748127600,Ended
+USA,"USL, League One",2025,,13278963,Forward Madison FC,312632,Union Omaha SC,338006,0,0,0,0,0,1,0,1,1,1,1749340800,Ended
+USA,"USL, League One",2025,,13278972,Spokane Velocity FC,502354,Forward Madison FC,312632,1,1,2,2,2,0,1,1,1,1,1749952800,Ended
+USA,"USL, League One",2025,,13278977,Forward Madison FC,312632,Westchester SC,1044342,1,0,1,1,1,2,0,2,2,2,1750291200,Ended
+USA,"USL, League One",2025,,13278990,Texoma FC,1044344,Forward Madison FC,312632,1,1,2,2,2,0,0,0,0,0,1751761800,Ended
+USA,"USL, League One",2025,,13278994,Forward Madison FC,312632,Greenville Triumph SC,312633,1,2,3,3,3,0,1,1,1,1,1752364800,Ended
+USA,"USL, League One",2025,,13279009,Forward Madison FC,312632,South Georgia Tormenta FC,253417,1,0,1,1,1,0,0,0,0,0,1753315200,Ended
+USA,"USL, League One",2025,,13279013,Forward Madison FC,312632,AV Alta FC,1044343,0,0,0,0,0,0,0,0,0,0,1754172000,Ended
+USA,"USL, League One",2025,,13279023,Forward Madison FC,312632,One Knoxville SC,407748,0,2,2,2,2,1,1,2,2,2,1754784000,Ended
+USA,"USL, League One",2025,,13279030,Forward Madison FC,312632,FC Naples,1044341,0,0,0,0,0,0,0,0,0,0,1755388800,Ended
+USA,"USL, League One",2025,,13279037,Forward Madison FC,312632,Spokane Velocity FC,502354,0,0,0,0,0,1,0,1,1,1,1755820800,Ended
+USA,"USL, League One",2025,,13279043,Forward Madison FC,312632,Texoma FC,1044344,2,1,3,3,3,0,0,0,0,0,1756339200,Ended
+USA,"USL, League One",2025,,13279048,South Georgia Tormenta FC,253417,Forward Madison FC,312632,2,2,4,4,4,0,0,0,0,0,1756596600,Ended
+USA,"USL, League One",2025,,13279052,AV Alta FC,1044343,Forward Madison FC,312632,2,1,3,3,3,2,1,3,3,3,1757212200,Ended
+USA,"USL, League One",2025,,13279068,Greenville Triumph SC,312633,Forward Madison FC,312632,2,1,3,3,3,0,0,0,0,0,1758409200,Ended
+USA,"USL, League One",2025,,13279081,Westchester SC,1044342,Forward Madison FC,312632,0,0,0,0,0,1,0,1,1,1,1759100400,Ended
+USA,"USL, League One",2025,,13279088,Portland Hearts of Pine,1044345,Forward Madison FC,312632,0,1,1,1,1,2,1,3,3,3,1759611600,Ended
+USA,"USL, League One",2025,,13279105,Union Omaha SC,338006,Forward Madison FC,312632,1,3,4,4,4,0,0,0,0,0,1760828400,Ended
+USA,"USL, League One",2026,,15227329,One Knoxville SC,407748,Forward Madison FC,312632,1,0,1,1,1,2,0,2,2,2,1773529200,Ended
+USA,"USL, League One",2026,,15285386,FC Naples,1044341,Forward Madison FC,312632,0,0,0,0,0,1,0,1,1,1,1774738800,Ended
+USA,"USL, League One",2026,,15285393,Union Omaha SC,338006,Forward Madison FC,312632,0,1,1,1,1,0,0,0,0,0,1775941200,Ended
+USA,"USL, League One",2026,,15285415,Sarasota Paradise,465623,Forward Madison FC,312632,1,0,1,1,1,1,2,3,3,3,1777764600,Ended
+USA,"USL, League One",2026,,15285419,AV Alta FC,1044343,Forward Madison FC,312632,2,0,2,2,2,0,0,0,0,0,1778380200,Ended
+USA,"USL, League One",2026,,15285429,South Georgia Tormenta FC,253417,Forward Madison FC,312632,,,,,,,,,,,1779319800,Canceled
+USA,"USL, League One",2026,,15285452,Greenville Triumph SC,312633,Forward Madison FC,312632,1,0,1,1,1,0,0,0,0,0,1780529400,Ended
+USA,"USL, League One",2026,,15285453,Forward Madison FC,312632,AC Boise,1158834,1,4,5,5,5,0,1,1,1,1,1781395200,Ended
+USA,"USL, League One",2026,,15285465,Forward Madison FC,312632,Fort Wayne FC,341749,1,0,1,1,1,0,1,1,1,1,1781744400,Ended
+USA,"USL, League One",2026,,15285482,Spokane Velocity FC,502354,Forward Madison FC,312632,0,0,0,0,0,1,0,1,1,1,1782957600,Ended
+USA,"USL, League One",2026,,15285489,Forward Madison FC,312632,South Georgia Tormenta FC,253417,,,,,,,,,,,1783207800,Canceled
+USA,"USL, League One",2019,1,8173940,South Georgia Tormenta FC,253417,Greenville Triumph SC,312633,0,1,1,1,1,0,0,0,0,0,1553900400,Ended
+USA,"USL, League One",2019,1,8181446,Greenville Triumph SC,312633,Lansing Ignite FC,312634,0,2,2,2,2,1,0,1,1,1,1554591600,Ended
+USA,"USL, League One",2019,1,8205248,Greenville Triumph SC,312633,North Texas SC,312635,0,0,0,0,0,1,0,1,1,1,1557010800,Ended
+USA,"USL, League One",2019,1,8210359,Lansing Ignite FC,312634,Greenville Triumph SC,312633,0,1,1,1,1,0,1,1,1,1,1557615600,Ended
+USA,"USL, League One",2019,1,8227324,Greenville Triumph SC,312633,South Georgia Tormenta FC,253417,0,0,0,0,0,0,0,0,0,0,1559430000,Ended
+USA,"USL, League One",2019,1,8239778,Greenville Triumph SC,312633,Lansing Ignite FC,312634,0,1,1,1,1,1,0,1,1,1,1560639600,Ended
+USA,"USL, League One",2019,1,8258484,Orlando City B,220945,Greenville Triumph SC,312633,0,0,0,0,0,1,1,2,2,2,1561764600,Ended
+USA,"USL, League One",2019,1,8274296,North Texas SC,312635,Greenville Triumph SC,312633,0,0,0,0,0,0,0,0,0,0,1562550300,Ended
+USA,"USL, League One",2019,1,8288206,Greenville Triumph SC,312633,Orlando City B,220945,0,1,1,1,1,0,0,0,0,0,1563058800,Ended
+USA,"USL, League One",2019,1,8302936,Greenville Triumph SC,312633,FC Tucson,100013,1,0,1,1,1,1,2,3,3,3,1563663600,Ended
+USA,"USL, League One",2019,1,8318169,North Texas SC,312635,Greenville Triumph SC,312633,0,0,0,0,0,0,4,4,4,4,1564185600,Ended
+USA,"USL, League One",2019,1,8335701,Greenville Triumph SC,312633,South Georgia Tormenta FC,253417,1,0,1,1,1,0,0,0,0,0,1564873200,Ended
+USA,"USL, League One",2019,1,8343064,Toronto FC II,217784,Greenville Triumph SC,312633,0,1,1,1,1,3,0,3,3,3,1565380800,Ended
+USA,"USL, League One",2019,1,8364084,Toronto FC II,217784,Greenville Triumph SC,312633,0,0,0,0,0,0,0,0,0,0,1566590400,Ended
+USA,"USL, League One",2019,1,8400521,Greenville Triumph SC,312633,FC Tucson,100013,3,,4,4,4,0,,0,0,0,1568415600,Ended
+USA,"USL, League One",2019,1,8409713,Greenville Triumph SC,312633,Toronto FC II,217784,1,,3,3,3,0,,1,1,1,1569020400,Ended
+USA,"USL, League One",2019,1,8414057,FC Tucson,100013,Greenville Triumph SC,312633,0,,2,2,2,2,,3,3,3,1569376800,Ended
+USA,"USL, League One",2019,1,8419569,Greenville Triumph SC,312633,Orlando City B,220945,0,,0,0,0,0,,1,1,1,1569625200,Ended
+USA,"USL, League One",2019,1,8433454,South Georgia Tormenta FC,253417,Greenville Triumph SC,312633,2,,3,3,3,1,,1,1,1,1570320000,Ended
+USA,"USL, League One, Playoffs",2019,2,8448969,Lansing Ignite FC,312634,Greenville Triumph SC,312633,0,,0,0,0,0,,1,1,1,1570921200,Ended
+USA,"USL, League One, Playoffs",2019,1,8455640,North Texas SC,312635,Greenville Triumph SC,312633,0,,1,1,1,0,,0,0,0,1571526000,Ended
+USA,"USL, League One",2020,1,8749838,Fort Lauderdale,338004,Greenville Triumph SC,312633,0,,0,0,0,1,,2,2,2,1595113200,Ended
+USA,"USL, League One",2020,1,8809070,Greenville Triumph SC,312633,South Georgia Tormenta FC,253417,0,,1,1,1,0,,0,0,0,1596668400,Ended
+USA,"USL, League One",2020,1,8809119,Greenville Triumph SC,312633,Fort Lauderdale,338004,0,1,1,1,1,0,0,0,0,0,1598137200,Ended
+USA,"USL, League One",2020,1,8809130,New England Revolution II,338005,Greenville Triumph SC,312633,0,,1,1,1,0,,0,0,0,1598482800,Ended
+USA,"USL, League One",2020,1,8814096,South Georgia Tormenta FC,253417,Greenville Triumph SC,312633,0,1,1,1,1,2,0,2,2,2,1599264000,Ended
+USA,"USL, League One",2020,1,8814111,Greenville Triumph SC,312633,North Texas SC,312635,0,,1,1,1,0,,0,0,0,1601074800,Ended
+USA,"USL, League One",2020,1,8814131,Greenville Triumph SC,312633,Orlando City B,220945,0,,2,2,2,0,,0,0,0,1601679600,Ended
+USA,"USL, League One",2020,1,8814127,FC Tucson,100013,Greenville Triumph SC,312633,1,,2,2,2,1,,2,2,2,1602383400,Ended
+USA,"USL, League One",2020,1,8814140,Greenville Triumph SC,312633,Union Omaha SC,338006,1,,1,1,1,1,,2,2,2,1603047600,Ended
+USA,"USL, League One",2020,1,8814143,Orlando City B,220945,Greenville Triumph SC,312633,0,,1,1,1,2,,4,4,4,1603558800,Ended
+USA,"USL, League One, Playoffs",2020,1,9137625,Greenville Triumph SC,312633,Union Omaha SC,338006,,,,,,,,,,,1604102400,Postponed
+USA,"USL, League One",2021,1,9410317,Greenville Triumph SC,312633,North Texas SC,312635,2,2,4,4,4,0,0,0,0,0,1619910000,Ended
+USA,"USL, League One",2021,1,9410315,North Carolina FC,22003,Greenville Triumph SC,312633,1,,1,1,1,1,,2,2,2,1620514800,Ended
+USA,"USL, League One",2021,1,9435425,Greenville Triumph SC,312633,Union Omaha SC,338006,1,,1,1,1,0,,1,1,1,1621195200,Ended
+USA,"USL, League One",2021,1,9435504,South Georgia Tormenta FC,253417,Greenville Triumph SC,312633,0,,0,0,0,0,,1,1,1,1621724400,Ended
+USA,"USL, League One",2021,1,9435527,North Texas SC,312635,Greenville Triumph SC,312633,2,,3,3,3,0,,0,0,0,1623625200,Ended
+USA,"USL, League One",2021,1,9435528,Greenville Triumph SC,312633,North Carolina FC,22003,1,,2,2,2,1,,1,1,1,1623884400,Ended
+USA,"USL, League One",2021,1,9435531,South Georgia Tormenta FC,253417,Greenville Triumph SC,312633,2,,3,3,3,0,,1,1,1,1624147200,Ended
+USA,"USL, League One",2021,1,9435543,New England Revolution II,338005,Greenville Triumph SC,312633,0,,0,0,0,2,,3,3,3,1625421600,Ended
+USA,"USL, League One",2021,1,9435457,Greenville Triumph SC,312633,North Carolina FC,22003,0,,0,0,0,0,,0,0,0,1625958000,Ended
+USA,"USL, League One",2021,1,9435558,Greenville Triumph SC,312633,South Georgia Tormenta FC,253417,1,,2,2,2,0,,3,3,3,1626562800,Ended
+USA,"USL, League One",2021,1,9435456,Toronto FC II,217784,Greenville Triumph SC,312633,0,,0,0,0,0,,0,0,0,1627675200,Ended
+USA,"USL, League One",2021,1,9435538,Greenville Triumph SC,312633,South Georgia Tormenta FC,253417,1,,1,1,1,1,,3,3,3,1628377200,Ended
+USA,"USL, League One",2021,1,9435493,Fort Lauderdale,338004,Greenville Triumph SC,312633,0,,2,2,2,0,,0,0,0,1629070200,Ended
+USA,"USL, League One",2021,1,9435492,FC Tucson,100013,Greenville Triumph SC,312633,1,,2,2,2,0,,1,1,1,1630206000,Ended
+USA,"USL, League One",2021,1,9435561,Greenville Triumph SC,312633,Toronto FC II,217784,2,,3,3,3,0,,0,0,0,1630710000,Ended
+USA,"USL, League One",2021,1,9435573,Greenville Triumph SC,312633,FC Tucson,100013,2,,3,3,3,2,,3,3,3,1632092400,Ended
+USA,"USL, League One",2021,1,9435564,Greenville Triumph SC,312633,Fort Lauderdale,338004,0,,1,1,1,0,,0,0,0,1633129200,Ended
+USA,"USL, League One",2021,1,9435467,Union Omaha SC,338006,Greenville Triumph SC,312633,0,,0,0,0,1,,1,1,1,1633820400,Ended
+USA,"USL, League One",2021,1,9435584,Greenville Triumph SC,312633,New England Revolution II,338005,0,,1,1,1,0,,0,0,0,1634425200,Ended
+USA,"USL, League One",2021,1,9435605,North Carolina FC,22003,Greenville Triumph SC,312633,0,,0,0,0,2,,2,2,2,1635634800,Ended
+USA,"USL, League One, Playoffs",2021,2,9939891,Greenville Triumph SC,312633,FC Tucson,100013,,,,,,,,,,,1636848000,Canceled
+USA,"USL, League One, Playoffs",2021,1,9955705,Union Omaha SC,338006,Greenville Triumph SC,312633,2,,3,3,3,0,,0,0,0,1637445600,Ended
+USA,"USL, League One",2022,1,10050043,Greenville Triumph SC,312633,Central Valley Fuego,405294,0,0,0,0,0,0,2,2,2,2,1648940400,Ended
+USA,"USL, League One",2022,1,10050053,North Carolina FC,22003,Greenville Triumph SC,312633,1,0,1,1,1,1,0,1,1,1,1650150000,Ended
+USA,"USL, League One",2022,1,10050056,Greenville Triumph SC,312633,South Georgia Tormenta FC,253417,0,0,0,0,0,2,0,2,2,2,1650754800,Ended
+USA,"USL, League One",2022,1,10050064,Central Valley Fuego,405294,Greenville Triumph SC,312633,1,0,1,1,1,0,1,1,1,1,1651977000,Ended
+USA,"USL, League One",2022,1,10050077,North Carolina FC,22003,Greenville Triumph SC,312633,1,0,1,1,1,0,0,0,0,0,1653176400,Ended
+USA,"USL, League One",2022,1,10050099,Union Omaha SC,338006,Greenville Triumph SC,312633,0,0,0,0,0,1,1,2,2,2,1655596800,Ended
+USA,"USL, League One",2022,1,10050106,Greenville Triumph SC,312633,Northern Colorado Hailstorm FC,405295,0,2,2,2,2,0,1,1,1,1,1656198000,Ended
+USA,"USL, League One",2022,1,10050109,Greenville Triumph SC,312633,North Carolina FC,22003,1,2,3,3,3,0,1,1,1,1,1656543600,Ended
+USA,"USL, League One",2022,1,10050114,FC Tucson,100013,Greenville Triumph SC,312633,0,1,1,1,1,1,0,1,1,1,1656900000,Ended
+USA,"USL, League One",2022,1,10050118,Greenville Triumph SC,312633,Central Valley Fuego,405294,0,1,1,1,1,0,0,0,0,0,1657407600,Ended
+USA,"USL, League One",2022,1,10050122,South Georgia Tormenta FC,253417,Greenville Triumph SC,312633,2,3,5,5,5,5,0,5,5,5,1657755000,Ended
+USA,"USL, League One",2022,1,10050131,Greenville Triumph SC,312633,Union Omaha SC,338006,0,0,0,0,0,0,0,0,0,0,1658617200,Ended
+USA,"USL, League One",2022,1,10050138,Greenville Triumph SC,312633,South Georgia Tormenta FC,253417,1,0,1,1,1,2,1,3,3,3,1659228300,Ended
+USA,"USL, League One",2022,1,10050156,FC Tucson,100013,Greenville Triumph SC,312633,0,0,0,0,0,0,1,1,1,1,1661047200,Ended
+USA,"USL, League One",2022,1,10050162,Greenville Triumph SC,312633,Northern Colorado Hailstorm FC,405295,0,0,0,0,0,0,2,2,2,2,1661641200,Ended
+USA,"USL, League One",2022,1,10050183,Union Omaha SC,338006,Greenville Triumph SC,312633,0,1,1,1,1,0,1,1,1,1,1663459200,Ended
+USA,"USL, League One",2022,1,10050189,Northern Colorado Hailstorm FC,405295,Greenville Triumph SC,312633,0,1,1,1,1,0,1,1,1,1,1664067600,Ended
+USA,"USL, League One",2022,1,10050193,Greenville Triumph SC,312633,FC Tucson,100013,1,1,2,2,2,1,1,2,2,2,1664665200,Ended
+USA,"USL, League One, Playoffs",2022,2,10834977,Greenville Triumph SC,312633,South Georgia Tormenta FC,253417,0,0,0,0,0,1,0,1,1,1,1667086200,Ended
+USA,"USL, League One",2023,1,10987640,South Georgia Tormenta FC,253417,Greenville Triumph SC,312633,2,0,2,2,2,0,0,0,0,0,1680996600,Ended
+USA,"USL, League One",2023,1,10987647,Greenville Triumph SC,312633,Central Valley Fuego,405294,2,1,3,3,3,0,0,0,0,0,1681947000,Ended
+USA,"USL, League One",2023,1,10987651,Lexington SC,460707,Greenville Triumph SC,312633,0,0,0,0,0,1,1,2,2,2,1682204400,Ended
+USA,"USL, League One",2023,1,10987654,Greenville Triumph SC,312633,North Carolina FC,22003,0,1,1,1,1,2,0,2,2,2,1682809200,Ended
+USA,"USL, League One",2023,1,10987672,Greenville Triumph SC,312633,One Knoxville SC,407748,1,0,1,1,1,1,1,2,2,2,1684623600,Ended
+USA,"USL, League One",2023,1,10987675,Union Omaha SC,338006,Greenville Triumph SC,312633,1,2,3,3,3,1,2,3,3,3,1684972800,Ended
+USA,"USL, League One",2023,1,10987683,Greenville Triumph SC,312633,South Georgia Tormenta FC,253417,0,1,1,1,1,0,1,1,1,1,1685833200,Ended
+USA,"USL, League One",2023,1,10987691,Greenville Triumph SC,312633,Union Omaha SC,338006,1,0,1,1,1,1,0,1,1,1,1686438000,Ended
+USA,"USL, League One",2023,1,10987695,Central Valley Fuego,405294,Greenville Triumph SC,312633,0,0,0,0,0,0,1,1,1,1,1687053600,Ended
+USA,"USL, League One",2023,1,10987721,Greenville Triumph SC,312633,One Knoxville SC,407748,1,0,1,1,1,0,0,0,0,0,1689464700,Ended
+USA,"USL, League One",2023,1,10987732,South Georgia Tormenta FC,253417,Greenville Triumph SC,312633,0,1,1,1,1,2,0,2,2,2,1690068600,Ended
+USA,"USL, League One",2023,1,10987755,North Carolina FC,22003,Greenville Triumph SC,312633,0,2,2,2,2,1,0,1,1,1,1691881200,Ended
+USA,"USL, League One",2023,1,10987759,Northern Colorado Hailstorm FC,405295,Greenville Triumph SC,312633,0,0,0,0,0,0,0,0,0,0,1692493200,Ended
+USA,"USL, League One",2023,1,10987766,Greenville Triumph SC,312633,Union Omaha SC,338006,0,1,1,1,1,1,1,2,2,2,1693090800,Ended
+USA,"USL, League One",2023,1,10987773,Lexington SC,460707,Greenville Triumph SC,312633,0,1,1,1,1,0,1,1,1,1,1693609200,Ended
+USA,"USL, League One",2023,1,10987780,Greenville Triumph SC,312633,North Carolina FC,22003,0,0,0,0,0,2,0,2,2,2,1694300400,Ended
+USA,"USL, League One",2023,1,10987789,One Knoxville SC,407748,Greenville Triumph SC,312633,0,0,0,0,0,1,0,1,1,1,1694907000,Ended
+USA,"USL, League One",2023,1,10987797,Greenville Triumph SC,312633,Northern Colorado Hailstorm FC,405295,0,0,0,0,0,2,0,2,2,2,1696028400,Ended
+USA,"USL, League One",2023,1,10987803,Central Valley Fuego,405294,Greenville Triumph SC,312633,0,1,1,1,1,0,2,2,2,2,1696473000,Ended
+USA,"USL, League One",2023,1,10987812,Greenville Triumph SC,312633,Lexington SC,460707,0,1,1,1,1,0,1,1,1,1,1697324400,Ended
+USA,"USL, League One",2024,1,11911782,Greenville Triumph SC,312633,Spokane Velocity FC,502354,1,2,3,3,3,1,0,1,1,1,1710028800,Ended
+USA,"USL, League One",2024,1,11912050,Lexington SC,460707,Greenville Triumph SC,312633,1,1,2,2,2,0,3,3,3,3,1711753200,Ended
+USA,"USL, League One",2024,1,12091476,Greenville Triumph SC,312633,Northern Colorado Hailstorm FC,405295,1,2,3,3,3,0,1,1,1,1,1712444400,Ended
+USA,"USL, League One",2024,1,12091466,South Georgia Tormenta FC,253417,Greenville Triumph SC,312633,0,0,0,0,0,1,2,3,3,3,1713742200,Ended
+USA,USL League One Cup,2024,,12295185,Greenville Triumph SC,312633,South Georgia Tormenta FC,253417,1,2,3,3,3,2,0,2,2,2,1715468400,Ended
+USA,USL League One Cup,2024,,12330942,Spokane Velocity FC,502354,Greenville Triumph SC,312633,0,0,0,0,4,0,0,0,0,5,1716685200,AP
+USA,USL League One Cup,2024,,12330987,South Georgia Tormenta FC,253417,Greenville Triumph SC,312633,1,0,1,1,1,1,2,3,3,3,1717975800,Ended
+USA,"USL, League One",2024,1,12091420,One Knoxville SC,407748,Greenville Triumph SC,312633,0,0,0,0,0,0,2,2,2,2,1719097200,Ended
+USA,USL League One Cup,2024,,12331132,Greenville Triumph SC,312633,Lexington SC,460707,0,0,0,0,0,1,0,1,1,1,1719702000,Ended
+USA,"USL, League One",2024,1,12091416,Greenville Triumph SC,312633,Union Omaha SC,338006,0,0,0,0,0,0,1,1,1,1,1720911600,Ended
+USA,"USL, League One",2024,1,12091392,Greenville Triumph SC,312633,One Knoxville SC,407748,0,0,0,0,0,0,0,0,0,0,1722121200,Ended
+USA,"USL, League One",2024,1,12091376,Northern Colorado Hailstorm FC,405295,Greenville Triumph SC,312633,2,1,3,3,3,0,0,0,0,0,1724623200,Ended
+USA,"USL, League One",2024,1,12091348,Union Omaha SC,338006,Greenville Triumph SC,312633,1,2,3,3,3,1,0,1,1,1,1725753600,Ended
+USA,"USL, League One",2024,1,12091336,Greenville Triumph SC,312633,Central Valley Fuego,405294,0,2,2,2,2,1,1,2,2,2,1726959600,Ended
+USA,"USL, League One",2024,1,12091341,Greenville Triumph SC,312633,Lexington SC,460707,0,2,2,2,2,1,0,1,1,1,1728151200,Ended
+USA,"USL, League One",2024,1,12091329,Spokane Velocity FC,502354,Greenville Triumph SC,312633,0,2,2,2,2,2,1,3,3,3,1728781200,Ended
+USA,"USL, League One",2024,1,12091346,Central Valley Fuego,405294,Greenville Triumph SC,312633,0,1,1,1,1,0,0,0,0,0,1729465200,Ended
+USA,"USL, League One",2024,1,12091330,Greenville Triumph SC,312633,South Georgia Tormenta FC,253417,2,3,5,5,5,0,1,1,1,1,1729983600,Ended
+USA,"USL, League One, Playoffs",2024,27,13038992,Greenville Triumph SC,312633,One Knoxville SC,407748,1,1,2,2,2,0,1,1,1,1,1730570400,Ended
+USA,"USL, League One, Playoffs",2024,28,13080307,Union Omaha SC,338006,Greenville Triumph SC,312633,1,1,2,2,2,1,0,1,1,1,1731189600,Ended
+USA,"USL, League One",2025,,13278900,Greenville Triumph SC,312633,Westchester SC,1044342,1,0,1,1,1,1,0,1,1,1,1741467600,Ended
+USA,"USL, League One",2025,,13278902,Greenville Triumph SC,312633,Union Omaha SC,338006,2,1,3,3,3,0,0,0,0,0,1741820400,Ended
+USA,"USL, League One",2025,,13278913,Greenville Triumph SC,312633,Spokane Velocity FC,502354,0,0,0,0,0,2,2,4,4,4,1743289200,Ended
+USA,"USL, League One",2025,,13278923,Greenville Triumph SC,312633,One Knoxville SC,407748,0,0,0,0,0,1,0,1,1,1,1744239600,Ended
+USA,"USL, League One",2025,,13278950,Greenville Triumph SC,312633,AV Alta FC,1044343,0,2,2,2,2,1,1,2,2,2,1747522800,Ended
+USA,"USL, League One",2025,,13278959,Texoma FC,1044344,Greenville Triumph SC,312633,0,1,1,1,1,0,0,0,0,0,1748205000,Ended
+USA,"USL, League One",2025,,13278964,Greenville Triumph SC,312633,FC Naples,1044341,1,0,1,1,1,1,0,1,1,1,1749337200,Ended
+USA,"USL, League One",2025,,13278969,Union Omaha SC,338006,Greenville Triumph SC,312633,1,0,1,1,1,0,0,0,0,0,1749772800,Ended
+USA,"USL, League One",2025,,13278987,Westchester SC,1044342,Greenville Triumph SC,312633,0,0,0,0,0,3,0,3,3,3,1751497200,Ended
+USA,"USL, League One",2025,,13279001,Portland Hearts of Pine,1044345,Greenville Triumph SC,312633,0,3,3,3,3,0,1,1,1,1,1752705000,Ended
+USA,"USL, League One",2025,,13279017,South Georgia Tormenta FC,253417,Greenville Triumph SC,312633,1,1,2,2,2,0,2,2,2,2,1754177400,Ended
+USA,"USL, League One",2025,,13279029,AV Alta FC,1044343,Greenville Triumph SC,312633,1,0,1,1,1,0,1,1,1,1,1755399600,Ended
+USA,"USL, League One",2025,,13279039,Greenville Triumph SC,312633,Texoma FC,1044344,0,0,0,0,0,1,0,1,1,1,1755990000,Ended
+USA,"USL, League One",2025,,13279050,Greenville Triumph SC,312633,Portland Hearts of Pine,1044345,1,1,2,2,2,1,2,3,3,3,1756940400,Ended
+USA,"USL, League One",2025,,13279054,FC Naples,1044341,Greenville Triumph SC,312633,2,0,2,2,2,0,1,1,1,1,1757199600,Ended
+USA,"USL, League One",2025,,13279061,Greenville Triumph SC,312633,South Georgia Tormenta FC,253417,0,1,1,1,1,1,1,2,2,2,1757804400,Ended
+USA,"USL, League One",2025,,13279079,Spokane Velocity FC,502354,Greenville Triumph SC,312633,0,0,0,0,0,1,0,1,1,1,1759021200,Ended
+USA,"USL, League One",2025,,13279096,Greenville Triumph SC,312633,Union Omaha SC,338006,0,0,0,0,0,0,0,0,0,0,1760205600,Ended
+USA,"USL, League One",2025,,13279103,Greenville Triumph SC,312633,South Georgia Tormenta FC,253417,0,1,1,1,1,1,3,4,4,4,1760828400,Ended
+USA,"USL, League One",2025,,13279109,One Knoxville SC,407748,Greenville Triumph SC,312633,0,1,1,1,1,0,0,0,0,0,1761433200,Ended
+USA,"USL, League One",2026,,15285388,Greenville Triumph SC,312633,Westchester SC,1044342,3,1,4,4,4,0,2,2,2,2,1774825200,Ended
+USA,"USL, League One",2026,,15285379,FC Naples,1044341,Greenville Triumph SC,312633,1,0,1,1,1,0,0,0,0,0,1775343600,Ended
+USA,"USL, League One",2026,,15285397,South Georgia Tormenta FC,253417,Greenville Triumph SC,312633,,,,,,,,,,,1775687400,Canceled
+USA,"USL, League One",2026,,15285408,Greenville Triumph SC,312633,Spokane Velocity FC,502354,,,,,,,,,,,1776621600,Postponed
+USA,"USL, League One",2026,,15285413,Union Omaha SC,338006,Greenville Triumph SC,312633,0,2,2,2,2,0,0,0,0,0,1777766400,Ended
+USA,"USL, League One",2026,,15285438,Portland Hearts of Pine,1044345,Greenville Triumph SC,312633,0,1,1,1,1,0,1,1,1,1,1779575400,Ended
+USA,"USL, League One",2026,,15285443,One Knoxville SC,407748,Greenville Triumph SC,312633,0,2,2,2,2,0,0,0,0,0,1780093800,Ended
+USA,"USL, League One",2026,,15285466,Westchester SC,1044342,Greenville Triumph SC,312633,3,1,4,4,4,0,0,0,0,0,1781478000,Ended
+USA,"USL, League One",2026,,15285469,Greenville Triumph SC,312633,AV Alta FC,1044343,1,0,1,1,1,0,2,2,2,2,1781996400,Ended
+USA,"USL, League One",2026,,15285492,Greenville Triumph SC,312633,Sarasota Paradise,465623,0,0,0,0,0,0,0,0,0,0,1783551600,Ended
+USA,"USL, League One",2020,1,8789656,New England Revolution II,338005,Union Omaha SC,338006,0,,0,0,0,0,,0,0,0,1595710800,Ended
+USA,"USL, League One",2020,1,8789655,Union Omaha SC,338006,North Texas SC,312635,0,,1,1,1,0,,0,0,0,1596326400,Ended
+USA,"USL, League One",2020,1,8789659,FC Tucson,100013,Union Omaha SC,338006,0,1,1,1,1,0,2,2,2,2,1596940200,Ended
+USA,"USL, League One",2020,1,8809123,North Texas SC,312635,Union Omaha SC,338006,1,,2,2,2,0,,2,2,2,1598230800,Ended
+USA,"USL, League One",2020,1,8809134,Union Omaha SC,338006,FC Tucson,100013,1,,2,2,2,1,,1,1,1,1598745600,Ended
+USA,"USL, League One",2020,1,8814095,Union Omaha SC,338006,Orlando City B,220945,1,,1,1,1,0,,0,0,0,1599436800,Ended
+USA,"USL, League One",2020,1,8814091,South Georgia Tormenta FC,253417,Union Omaha SC,338006,2,,2,2,2,0,,2,2,2,1599868800,Ended
+USA,"USL, League One",2020,1,8814120,Union Omaha SC,338006,New England Revolution II,338005,0,,0,0,0,1,,2,2,2,1600560000,Ended
+USA,"USL, League One",2020,1,8814123,Fort Lauderdale,338004,Union Omaha SC,338006,1,,2,2,2,1,,3,3,3,1601510400,Ended
+USA,"USL, League One",2020,1,8814121,Union Omaha SC,338006,South Georgia Tormenta FC,253417,1,,3,3,3,0,,0,0,0,1601769600,Ended
+USA,"USL, League One",2020,1,8814147,Union Omaha SC,338006,Fort Lauderdale,338004,0,,1,1,1,0,,0,0,0,1603584000,Ended
+USA,"USL, League One",2021,1,9410324,Union Omaha SC,338006,South Georgia Tormenta FC,253417,1,,2,2,2,0,,0,0,0,1619305200,Ended
+USA,"USL, League One",2021,1,9435442,Fort Lauderdale,338004,Union Omaha SC,338006,0,,0,0,0,1,,2,2,2,1620430200,Ended
+USA,"USL, League One",2021,1,9435472,New England Revolution II,338005,Union Omaha SC,338006,0,,0,0,0,0,,1,1,1,1620853200,Ended
+USA,"USL, League One",2021,1,9435522,Toronto FC II,217784,Union Omaha SC,338006,0,,1,1,1,0,,1,1,1,1622685600,Ended
+USA,"USL, League One",2021,1,9435471,Union Omaha SC,338006,New England Revolution II,338005,2,,4,4,4,1,,2,2,2,1623542400,Ended
+USA,"USL, League One",2021,1,9435535,Union Omaha SC,338006,FC Tucson,100013,1,,1,1,1,0,,0,0,0,1624752000,Ended
+USA,"USL, League One",2021,1,9435562,FC Tucson,100013,Union Omaha SC,338006,0,,1,1,1,1,,2,2,2,1627178400,Ended
+USA,"USL, League One",2021,1,9435484,Union Omaha SC,338006,North Texas SC,312635,1,,1,1,1,0,,1,1,1,1627776000,Ended
+USA,"USL, League One",2021,1,9435423,FC Tucson,100013,Union Omaha SC,338006,0,,0,0,0,1,,1,1,1,1628992800,Ended
+USA,"USL, League One",2021,1,9435436,Union Omaha SC,338006,North Texas SC,312635,0,,0,0,0,0,,0,0,0,1630195200,Ended
+USA,"USL, League One",2021,1,9435462,North Carolina FC,22003,Union Omaha SC,338006,0,,0,0,0,1,,3,3,3,1630796400,Ended
+USA,"USL, League One",2021,1,9435580,Union Omaha SC,338006,Toronto FC II,217784,1,,2,2,2,0,,1,1,1,1631404800,Ended
+USA,"USL, League One",2021,1,9435461,North Texas SC,312635,Union Omaha SC,338006,1,,2,2,2,1,,2,2,2,1632092400,Ended
+USA,"USL, League One",2021,1,9435499,Union Omaha SC,338006,FC Tucson,100013,0,,0,0,0,1,,1,1,1,1632614400,Ended
+USA,"USL, League One",2021,1,9435458,South Georgia Tormenta FC,253417,Union Omaha SC,338006,0,,0,0,0,2,,4,4,4,1633132800,Ended
+USA,"USL, League One",2021,1,9435435,Union Omaha SC,338006,Fort Lauderdale,338004,2,,4,4,4,1,,1,1,1,1633564800,Ended
+USA,"USL, League One",2021,1,9435597,Union Omaha SC,338006,North Carolina FC,22003,3,,4,4,4,1,,1,1,1,1634425200,Ended
+USA,"USL, League One",2021,1,9435590,North Texas SC,312635,Union Omaha SC,338006,1,,1,1,1,0,,1,1,1,1635640200,Ended
+USA,"USL, League One, Playoffs",2021,2,9942576,Union Omaha SC,338006,FC Tucson,100013,2,,6,6,6,0,,1,1,1,1636840800,Ended
+USA,"USL, League One",2022,1,10050054,South Georgia Tormenta FC,253417,Union Omaha SC,338006,0,0,0,0,0,0,0,0,0,0,1650151800,Ended
+USA,"USL, League One",2022,1,10050058,Union Omaha SC,338006,Central Valley Fuego,405294,0,3,3,3,3,0,0,0,0,0,1650754800,Ended
+USA,"USL, League One",2022,1,10050084,Union Omaha SC,338006,Northern Colorado Hailstorm FC,405295,0,0,0,0,0,0,0,0,0,0,1653782400,Ended
+USA,"USL, League One",2022,1,10050093,FC Tucson,100013,Union Omaha SC,338006,0,1,1,1,1,1,1,2,2,2,1654999200,Ended
+USA,"USL, League One",2022,1,10050107,South Georgia Tormenta FC,253417,Union Omaha SC,338006,1,1,2,2,2,1,2,3,3,3,1656199800,Ended
+USA,"USL, League One",2022,1,10050119,North Carolina FC,22003,Union Omaha SC,338006,1,0,1,1,1,0,1,1,1,1,1657407600,Ended
+USA,"USL, League One",2022,1,10050127,Union Omaha SC,338006,FC Tucson,100013,1,1,2,2,2,0,1,1,1,1,1658016000,Ended
+USA,"USL, League One",2022,1,10050143,Central Valley Fuego,405294,Union Omaha SC,338006,0,0,0,0,0,1,0,1,1,1,1659839400,Ended
+USA,"USL, League One",2022,1,10050152,Union Omaha SC,338006,Northern Colorado Hailstorm FC,405295,1,0,1,1,1,0,1,1,1,1,1660435200,Ended
+USA,"USL, League One",2022,1,10050158,Union Omaha SC,338006,North Carolina FC,22003,3,1,4,4,4,0,1,1,1,1,1661040000,Ended
+USA,"USL, League One",2022,1,10050177,FC Tucson,100013,Union Omaha SC,338006,1,2,3,3,3,0,0,0,0,0,1662957000,Ended
+USA,"USL, League One",2022,1,10050185,Northern Colorado Hailstorm FC,405295,Union Omaha SC,338006,1,1,2,2,2,0,1,1,1,1,1663812000,Ended
+USA,"USL, League One",2022,1,10050194,North Carolina FC,22003,Union Omaha SC,338006,0,1,1,1,1,1,0,1,1,1,1664665200,Ended
+USA,"USL, League One",2022,1,10050201,Union Omaha SC,338006,South Georgia Tormenta FC,253417,1,0,1,1,1,0,1,1,1,1,1665273600,Ended
+USA,"USL, League One",2022,1,10050206,Union Omaha SC,338006,Central Valley Fuego,405294,0,0,0,0,0,0,2,2,2,2,1665867600,Ended
+USA,"USL, League One",2023,1,10987636,Central Valley Fuego,405294,Union Omaha SC,338006,0,0,0,0,0,1,1,2,2,2,1681005600,Ended
+USA,"USL, League One",2023,1,10987645,Union Omaha SC,338006,North Carolina FC,22003,0,1,1,1,1,2,0,2,2,2,1681585200,Ended
+USA,"USL, League One",2023,1,10987656,Union Omaha SC,338006,Northern Colorado Hailstorm FC,405295,2,1,3,3,3,0,2,2,2,2,1682812800,Ended
+USA,"USL, League One",2023,1,10987701,Union Omaha SC,338006,One Knoxville SC,407748,0,1,1,1,1,0,1,1,1,1,1687392000,Ended
+USA,"USL, League One",2023,1,10987706,Union Omaha SC,338006,South Georgia Tormenta FC,253417,2,0,2,2,2,0,0,0,0,0,1687651200,Ended
+USA,"USL, League One",2023,1,10987709,Central Valley Fuego,405294,Union Omaha SC,338006,0,0,0,0,0,1,0,1,1,1,1688263200,Ended
+USA,"USL, League One",2023,1,10987723,Northern Colorado Hailstorm FC,405295,Union Omaha SC,338006,1,1,2,2,2,0,0,0,0,0,1689469200,Ended
+USA,"USL, League One",2023,1,10987633,One Knoxville SC,407748,Union Omaha SC,338006,1,0,1,1,1,1,1,2,2,2,1689723000,Ended
+USA,"USL, League One",2023,1,10987729,Lexington SC,460707,Union Omaha SC,338006,2,1,3,3,3,0,0,0,0,0,1690066800,Ended
+USA,"USL, League One",2023,1,10987740,Union Omaha SC,338006,South Georgia Tormenta FC,253417,1,2,3,3,3,0,2,2,2,2,1690675200,Ended
+USA,"USL, League One",2023,1,10987741,Union Omaha SC,338006,Lexington SC,460707,1,1,2,2,2,0,0,0,0,0,1691020800,Ended
+USA,"USL, League One",2023,1,10987747,Union Omaha SC,338006,One Knoxville SC,407748,1,2,3,3,3,0,1,1,1,1,1691280000,Ended
+USA,"USL, League One",2023,1,10987756,Northern Colorado Hailstorm FC,405295,Union Omaha SC,338006,1,1,2,2,2,2,1,3,3,3,1691888400,Ended
+USA,"USL, League One",2023,1,10987777,Union Omaha SC,338006,North Carolina FC,22003,2,2,4,4,4,1,2,3,3,3,1694044800,Ended
+USA,"USL, League One",2023,1,10987796,Union Omaha SC,338006,Central Valley Fuego,405294,0,2,2,2,2,0,1,1,1,1,1695513600,Ended
+USA,"USL, League One",2023,1,10987798,North Carolina FC,22003,Union Omaha SC,338006,1,0,1,1,1,1,0,1,1,1,1696028400,Ended
+USA,"USL, League One",2023,1,10987809,South Georgia Tormenta FC,253417,Union Omaha SC,338006,0,0,0,0,0,1,3,4,4,4,1696721400,Ended
+USA,"USL, League One",2024,1,11912041,Central Valley Fuego,405294,Union Omaha SC,338006,0,1,1,1,1,1,1,2,2,2,1710640800,Ended
+USA,"USL, League One",2024,1,12091469,One Knoxville SC,407748,Union Omaha SC,338006,0,0,0,0,0,0,1,1,1,1,1712961000,Ended
+USA,USL League One Cup,2024,,12295182,Union Omaha SC,338006,Northern Colorado Hailstorm FC,405295,2,0,2,2,5,1,1,2,2,4,1714606200,AP
+USA,"USL, League One",2024,1,12091458,Union Omaha SC,338006,South Georgia Tormenta FC,253417,2,2,4,4,4,1,1,2,2,2,1714867200,Ended
+USA,USL League One Cup,2024,,12295202,Spokane Velocity FC,502354,Union Omaha SC,338006,1,2,3,3,3,1,1,2,2,2,1715475600,Ended
+USA,USL League One Cup,2024,,12330957,Union Omaha SC,338006,Central Valley Fuego,405294,0,0,0,0,4,0,0,0,0,1,1717025400,AP
+USA,"USL, League One",2024,1,12091441,Union Omaha SC,338006,Northern Colorado Hailstorm FC,405295,1,0,1,1,1,0,2,2,2,2,1717286400,Ended
+USA,USL League One Cup,2024,,12330990,Union Omaha SC,338006,Spokane Velocity FC,502354,1,3,4,4,4,1,0,1,1,1,1718323200,Ended
+USA,"USL, League One",2024,1,12091404,Lexington SC,460707,Union Omaha SC,338006,0,2,2,2,2,4,0,4,4,4,1720306800,Ended
+USA,USL League One Cup,2024,,12331142,Northern Colorado Hailstorm FC,405295,Union Omaha SC,338006,1,1,2,2,2,0,0,0,0,0,1721437200,Ended
+USA,USL League One Cup,2024,,12331168,Central Valley Fuego,405294,Union Omaha SC,338006,0,0,0,0,0,0,1,1,1,1,1723257000,Ended
+USA,"USL, League One",2024,1,12091360,Spokane Velocity FC,502354,Union Omaha SC,338006,0,2,2,2,2,0,1,1,1,1,1725498000,Ended
+USA,USL League One Cup,2024,,12776590,Northern Colorado Hailstorm FC,405295,Union Omaha SC,338006,0,2,2,2,2,0,0,0,0,0,1726102800,Ended
+USA,"USL, League One",2024,1,12091353,Northern Colorado Hailstorm FC,405295,Union Omaha SC,338006,0,2,2,2,2,1,2,3,3,3,1726362000,Ended
+USA,"USL, League One",2024,1,12091332,Union Omaha SC,338006,One Knoxville SC,407748,1,0,1,1,1,0,0,0,0,0,1726963200,Ended
+USA,"USL, League One",2024,1,12091333,Union Omaha SC,338006,Spokane Velocity FC,502354,1,3,4,4,4,0,0,0,0,0,1727888400,Ended
+USA,"USL, League One",2024,1,12091327,Union Omaha SC,338006,Lexington SC,460707,0,2,2,2,2,0,1,1,1,1,1728766800,Ended
+USA,"USL, League One",2024,1,12091322,South Georgia Tormenta FC,253417,Union Omaha SC,338006,2,0,2,2,2,0,3,3,3,3,1729380600,Ended
+USA,"USL, League One",2024,1,12091321,Union Omaha SC,338006,Central Valley Fuego,405294,1,2,3,3,3,0,1,1,1,1,1729976400,Ended
+USA,"USL, League One, Playoffs",2024,29,13111652,Union Omaha SC,338006,Spokane Velocity FC,502354,2,1,3,3,3,0,0,0,0,0,1731873600,Ended
+USA,"USL, League One",2025,,13278916,South Georgia Tormenta FC,253417,Union Omaha SC,338006,1,0,1,1,1,1,2,3,3,3,1743289200,Ended
+USA,"USL, League One",2025,,13278946,Union Omaha SC,338006,Portland Hearts of Pine,1044345,0,2,2,2,2,1,1,2,2,2,1746921600,Ended
+USA,"USL, League One",2025,,13278952,Texoma FC,1044344,Union Omaha SC,338006,1,1,2,2,2,0,1,1,1,1,1747526400,Ended
+USA,"USL, League One",2025,,13278958,FC Naples,1044341,Union Omaha SC,338006,2,1,3,3,3,1,0,1,1,1,1748215800,Ended
+USA,"USL, League One",2025,,13278975,Portland Hearts of Pine,1044345,Union Omaha SC,338006,0,3,3,3,3,1,0,1,1,1,1750024800,Ended
+USA,"USL, League One",2025,,13278988,AV Alta FC,1044343,Union Omaha SC,338006,1,1,2,2,2,1,0,1,1,1,1751770800,Ended
+USA,"USL, League One",2025,,13279003,Union Omaha SC,338006,South Georgia Tormenta FC,253417,1,0,1,1,1,2,0,2,2,2,1752879600,Ended
+USA,"USL, League One",2025,,13279016,Spokane Velocity FC,502354,Union Omaha SC,338006,2,0,2,2,2,0,1,1,1,1,1754186400,Ended
+USA,"USL, League One",2025,,13279020,Union Omaha SC,338006,Westchester SC,1044342,0,2,2,2,2,0,1,1,1,1,1754524800,Ended
+USA,"USL, League One",2025,,13279033,One Knoxville SC,407748,Union Omaha SC,338006,0,1,1,1,1,0,0,0,0,0,1755385200,Ended
+USA,"USL, League One",2025,,13279041,Union Omaha SC,338006,AV Alta FC,1044343,1,1,2,2,2,0,0,0,0,0,1755993600,Ended
+USA,"USL, League One",2025,,13279056,Union Omaha SC,338006,Texoma FC,1044344,2,3,5,5,5,0,0,0,0,0,1757185200,Ended
+USA,"USL, League One",2025,,13279064,Westchester SC,1044342,Union Omaha SC,338006,1,0,1,1,1,2,0,2,2,2,1757804400,Ended
+USA,"USL, League One",2025,,13279066,Union Omaha SC,338006,Spokane Velocity FC,502354,0,2,2,2,2,1,1,2,2,2,1758153600,Ended
+USA,"USL, League One",2025,,13279073,Union Omaha SC,338006,One Knoxville SC,407748,2,0,2,2,2,1,1,2,2,2,1758488400,Ended
+USA,"USL, League One",2025,,13279083,Union Omaha SC,338006,Portland Hearts of Pine,1044345,0,1,1,1,1,0,0,0,0,0,1759338000,Ended
+USA,"USL, League One",2025,,13279091,Union Omaha SC,338006,FC Naples,1044341,0,2,2,2,2,0,1,1,1,1,1759698000,Ended
+USA,"USL, League One",2025,,13279114,Union Omaha SC,338006,Spokane Velocity FC,502354,2,0,2,2,2,1,1,2,2,2,1761433200,Ended
+USA,"USL, League One, Playoffs",2025,27,14954363,FC Naples,1044341,Union Omaha SC,338006,0,0,0,0,4,0,0,0,0,3,1762039800,AP
+USA,"USL, League One",2026,,15227333,Spokane Velocity FC,502354,Union Omaha SC,338006,0,1,1,1,1,0,0,0,0,0,1773612000,Ended
+USA,"USL, League One",2026,,15227335,Union Omaha SC,338006,AC Boise,1158834,1,2,3,3,3,1,1,2,2,2,1774213200,Ended
+USA,"USL, League One",2026,,15285398,AV Alta FC,1044343,Union Omaha SC,338006,0,1,1,1,1,2,1,3,3,3,1775356200,Ended
+USA,"USL, League One",2026,,15285421,Union Omaha SC,338006,Portland Hearts of Pine,1044345,0,2,2,2,2,2,0,2,2,2,1778371200,Ended
+USA,"USL, League One",2026,,15285426,One Knoxville SC,407748,Union Omaha SC,338006,1,0,1,1,1,1,1,2,2,2,1778713200,Ended
+USA,"USL, League One",2026,,15285448,Union Omaha SC,338006,FC Naples,1044341,0,2,2,2,2,1,0,1,1,1,1780185600,Ended
+USA,"USL, League One",2026,,15285468,Sarasota Paradise,465623,Union Omaha SC,338006,0,2,2,2,2,0,0,0,0,0,1781393400,Ended
+USA,"USL, League One",2026,,15285477,AC Boise,1158834,Union Omaha SC,338006,0,1,1,1,1,0,0,0,0,0,1782005400,Ended
+USA,"USL, League One",2026,,15285483,Union Omaha SC,338006,AV Alta FC,1044343,0,3,3,3,3,1,0,1,1,1,1782959400,Ended
+USA,"USL, League One",2026,,15227325,FC Naples,1044341,Fort Wayne FC,341749,1,1,2,2,2,0,0,0,0,0,1772928000,Ended
+USA,"USL, League One",2026,,15285380,Sarasota Paradise,465623,Fort Wayne FC,341749,1,1,2,2,2,2,0,2,2,2,1773531000,Ended
+USA,"USL, League One",2026,,15285417,Fort Wayne FC,341749,Portland Hearts of Pine,1044345,0,3,3,3,3,0,0,0,0,0,1778110200,Ended
+USA,"USL, League One",2026,,15285425,Fort Wayne FC,341749,Westchester SC,1044342,1,0,1,1,1,0,0,0,0,0,1778369400,Ended
+USA,"USL, League One",2026,,15285432,AC Boise,1158834,Fort Wayne FC,341749,0,1,1,1,1,1,2,3,3,3,1779584400,Ended
+USA,"USL, League One",2026,,15285449,Fort Wayne FC,341749,AV Alta FC,1044343,0,0,0,0,0,0,0,0,0,0,1780183800,Ended
+USA,"USL, League One",2026,,15285458,Westchester SC,1044342,Fort Wayne FC,341749,1,0,1,1,1,0,1,1,1,1,1781132400,Ended
+USA,"USL, League One",2026,,15285463,Fort Wayne FC,341749,South Georgia Tormenta FC,253417,,,,,,,,,,,1781393400,Canceled
+USA,"USL, League One",2026,,15285494,Fort Wayne FC,341749,Spokane Velocity FC,502354,2,1,3,3,3,0,0,0,0,0,1783207800,Ended
+USA,"USL, League One",2023,1,10987625,One Knoxville SC,407748,Lexington SC,460707,2,0,2,2,2,1,0,1,1,1,1679180400,Ended
+USA,"USL, League One",2023,1,10987641,One Knoxville SC,407748,Central Valley Fuego,405294,1,0,1,1,1,0,1,1,1,1,1681340400,Ended
+USA,"USL, League One",2023,1,10987649,One Knoxville SC,407748,South Georgia Tormenta FC,253417,0,0,0,0,0,0,2,2,2,2,1682114400,Ended
+USA,"USL, League One",2023,1,10987657,Central Valley Fuego,405294,One Knoxville SC,407748,0,0,0,0,0,0,1,1,1,1,1682895600,Ended
+USA,"USL, League One",2023,1,10987666,One Knoxville SC,407748,Northern Colorado Hailstorm FC,405295,0,1,1,1,1,0,2,2,2,2,1684018800,Ended
+USA,"USL, League One",2023,1,10987677,Lexington SC,460707,One Knoxville SC,407748,1,0,1,1,1,0,1,1,1,1,1685228400,Ended
+USA,"USL, League One",2023,1,10987685,One Knoxville SC,407748,North Carolina FC,22003,0,0,0,0,0,1,0,1,1,1,1685835000,Ended
+USA,"USL, League One",2023,1,10987692,Northern Colorado Hailstorm FC,405295,One Knoxville SC,407748,0,0,0,0,0,0,0,0,0,0,1686445200,Ended
+USA,"USL, League One",2023,1,10987716,One Knoxville SC,407748,North Carolina FC,22003,2,0,2,2,2,1,1,2,2,2,1688859000,Ended
+USA,"USL, League One",2023,1,10987719,One Knoxville SC,407748,Northern Colorado Hailstorm FC,405295,1,1,2,2,2,2,2,4,4,4,1689118200,Ended
+USA,"USL, League One",2023,1,10987735,Central Valley Fuego,405294,One Knoxville SC,407748,0,0,0,0,0,0,1,1,1,1,1690684200,Ended
+USA,"USL, League One",2023,1,10987757,One Knoxville SC,407748,Lexington SC,460707,0,1,1,1,1,0,0,0,0,0,1692401400,Ended
+USA,"USL, League One",2023,1,10987771,South Georgia Tormenta FC,253417,One Knoxville SC,407748,0,1,1,1,1,2,1,3,3,3,1693611000,Ended
+USA,"USL, League One",2023,1,10987795,South Georgia Tormenta FC,253417,One Knoxville SC,407748,1,0,1,1,1,0,0,0,0,0,1695511800,Ended
+USA,"USL, League One",2023,1,10987813,North Carolina FC,22003,One Knoxville SC,407748,1,1,2,2,2,0,1,1,1,1,1697324400,Ended
+USA,"USL, League One",2024,1,11912046,One Knoxville SC,407748,Lexington SC,460707,0,2,2,2,2,0,0,0,0,0,1711233000,Ended
+USA,"USL, League One",2024,1,11912053,One Knoxville SC,407748,South Georgia Tormenta FC,253417,1,0,1,1,1,0,0,0,0,0,1711828800,Ended
+USA,USL League One Cup,2024,,12295184,One Knoxville SC,407748,Northern Colorado Hailstorm FC,405295,1,0,1,1,1,4,1,5,5,5,1715461200,Ended
+USA,"USL, League One",2024,1,12091455,Central Valley Fuego,405294,One Knoxville SC,407748,0,0,0,0,0,1,1,2,2,2,1715999400,Ended
+USA,USL League One Cup,2024,,12330961,One Knoxville SC,407748,Lexington SC,460707,0,2,2,2,2,0,0,0,0,0,1717887600,Ended
+USA,"USL, League One",2024,1,12091424,Northern Colorado Hailstorm FC,405295,One Knoxville SC,407748,1,1,2,2,2,0,1,1,1,1,1718672400,Ended
+USA,"USL, League One",2024,1,12091405,South Georgia Tormenta FC,253417,One Knoxville SC,407748,0,0,0,0,0,0,1,1,1,1,1720222200,Ended
+USA,"USL, League One",2024,1,12091400,One Knoxville SC,407748,Northern Colorado Hailstorm FC,405295,0,1,1,1,1,0,0,0,0,0,1720911600,Ended
+USA,USL League One Cup,2024,,12331172,Lexington SC,460707,One Knoxville SC,407748,0,0,0,0,5,0,0,0,0,3,1723330800,AP
+USA,"USL, League One",2024,1,12091364,One Knoxville SC,407748,Spokane Velocity FC,502354,1,0,1,1,1,0,1,1,1,1,1724454000,Ended
+USA,USL League One Cup,2024,,12331216,South Georgia Tormenta FC,253417,One Knoxville SC,407748,0,0,0,0,0,1,0,1,1,1,1725233400,Ended
+USA,"USL, League One",2024,1,12091358,Lexington SC,460707,One Knoxville SC,407748,0,0,0,0,0,0,1,1,1,1,1726268400,Ended
+USA,"USL, League One",2024,1,12091324,One Knoxville SC,407748,Central Valley Fuego,405294,1,1,2,2,2,1,0,1,1,1,1729033200,Ended
+USA,"USL, League One",2024,1,12091337,Spokane Velocity FC,502354,One Knoxville SC,407748,0,0,0,0,0,0,0,0,0,0,1729990800,Ended
+USA,"USL, League One",2025,,13278907,Spokane Velocity FC,502354,One Knoxville SC,407748,1,1,2,2,2,0,2,2,2,2,1742166000,Ended
+USA,"USL, League One",2025,,13278910,Texoma FC,1044344,One Knoxville SC,407748,0,0,0,0,0,1,1,2,2,2,1742688000,Ended
+USA,"USL, League One",2025,,13278932,FC Naples,1044341,One Knoxville SC,407748,0,0,0,0,0,1,0,1,1,1,1745103600,Ended
+USA,"USL, League One",2025,,13278940,Portland Hearts of Pine,1044345,One Knoxville SC,407748,1,0,1,1,1,1,0,1,1,1,1746396000,Ended
+USA,"USL, League One",2025,,13278967,Westchester SC,1044342,One Knoxville SC,407748,0,1,1,1,1,0,1,1,1,1,1749337200,Ended
+USA,"USL, League One",2025,,13278980,One Knoxville SC,407748,South Georgia Tormenta FC,253417,2,1,3,3,3,0,0,0,0,0,1750546800,Ended
+USA,"USL, League One",2025,,13278997,South Georgia Tormenta FC,253417,One Knoxville SC,407748,1,0,1,1,1,0,2,2,2,2,1752363000,Ended
+USA,"USL, League One",2025,,13279000,One Knoxville SC,407748,AV Alta FC,1044343,1,2,3,3,3,0,1,1,1,1,1752706800,Ended
+USA,"USL, League One",2025,,13279007,One Knoxville SC,407748,Westchester SC,1044342,1,0,1,1,1,1,0,1,1,1,1752966000,Ended
+USA,"USL, League One",2025,,13279014,One Knoxville SC,407748,Portland Hearts of Pine,1044345,1,0,1,1,1,0,0,0,0,0,1754175600,Ended
+USA,"USL, League One",2025,,13279044,One Knoxville SC,407748,FC Naples,1044341,0,0,0,0,0,0,0,0,0,0,1756335600,Ended
+USA,"USL, League One",2025,,13279049,One Knoxville SC,407748,Spokane Velocity FC,502354,1,0,1,1,1,0,0,0,0,0,1756587600,Ended
+USA,"USL, League One",2025,,13279055,South Georgia Tormenta FC,253417,One Knoxville SC,407748,1,1,2,2,2,1,0,1,1,1,1757201400,Ended
+USA,"USL, League One",2025,,13279059,AV Alta FC,1044343,One Knoxville SC,407748,1,0,1,1,1,1,1,2,2,2,1757817000,Ended
+USA,"USL, League One",2025,,13279093,One Knoxville SC,407748,Portland Hearts of Pine,1044345,1,2,3,3,3,0,1,1,1,1,1760135400,Ended
+USA,"USL, League One",2025,,13279106,One Knoxville SC,407748,Texoma FC,1044344,0,2,2,2,2,0,1,1,1,1,1760907600,Ended
+USA,"USL, League One, Playoffs",2025,28,14993779,One Knoxville SC,407748,FC Naples,1044341,0,1,1,1,1,0,0,0,0,0,1762646400,Ended
+USA,"USL, League One, Playoffs",2025,29,15028173,One Knoxville SC,407748,Spokane Velocity FC,502354,1,1,2,2,2,0,0,0,0,0,1763330400,Ended
+USA,"USL, League One",2026,,15227370,Westchester SC,1044342,One Knoxville SC,407748,1,1,2,2,2,3,0,3,3,3,1772928000,Ended
+USA,"USL, League One",2026,,15285394,Sarasota Paradise,465623,One Knoxville SC,407748,0,1,1,1,1,0,2,2,2,2,1775345400,Ended
+USA,"USL, League One",2026,,15227332,Portland Hearts of Pine,1044345,One Knoxville SC,407748,0,0,0,0,0,0,0,0,0,0,1775944800,Ended
+USA,"USL, League One",2026,,15285414,FC Naples,1044341,One Knoxville SC,407748,0,0,0,0,0,1,2,3,3,3,1777762800,Ended
+USA,"USL, League One",2026,,15285427,South Georgia Tormenta FC,253417,One Knoxville SC,407748,,,,,,,,,,,1778369400,Canceled
+USA,"USL, League One",2026,,15285473,Spokane Velocity FC,502354,One Knoxville SC,407748,0,0,0,0,0,2,2,4,4,4,1782003600,Ended
+USA,"USL, League One",2026,,15285485,AC Boise,1158834,One Knoxville SC,407748,1,0,1,1,1,1,1,2,2,2,1783042200,Ended
+USA,"USL, League One",2026,,15227343,Sarasota Paradise,465623,AC Boise,1158834,0,0,0,0,0,0,1,1,1,1,1772935800,Ended
+USA,"USL, League One",2026,,15285375,South Georgia Tormenta FC,253417,Sarasota Paradise,465623,,,,,,,,,,,1774132200,Canceled
+USA,"USL, League One",2026,,15285382,Sarasota Paradise,465623,Portland Hearts of Pine,1044345,1,0,1,1,1,0,0,0,0,0,1774740600,Ended
+USA,"USL, League One",2026,,15285400,Westchester SC,1044342,Sarasota Paradise,465623,0,2,2,2,2,0,0,0,0,0,1775689200,Ended
+USA,"USL, League One",2026,,15285389,FC Naples,1044341,Sarasota Paradise,465623,0,2,2,2,2,0,0,0,0,0,1775948400,Ended
+USA,"USL, League One",2026,,16027145,Sarasota Paradise,465623,AV Alta FC,1044343,0,1,1,1,1,1,1,2,2,2,1778974200,Ended
+USA,"USL, League One",2026,,15285433,Spokane Velocity FC,502354,Sarasota Paradise,465623,0,1,1,1,1,0,0,0,0,0,1779663600,Ended
+USA,"USL, League One",2026,,15285439,AC Boise,1158834,Sarasota Paradise,465623,0,0,0,0,0,0,2,2,2,2,1779930000,Ended
+USA,"USL, League One",2026,,15285464,AV Alta FC,1044343,Sarasota Paradise,465623,2,1,3,3,3,0,1,1,1,1,1781146800,Ended
+USA,"USL, League One",2024,1,11912048,Spokane Velocity FC,502354,Northern Colorado Hailstorm FC,405295,1,0,1,1,1,0,0,0,0,0,1711242000,Ended
+USA,"USL, League One",2024,1,12091473,Lexington SC,460707,Spokane Velocity FC,502354,2,0,2,2,2,2,0,2,2,2,1713124800,Ended
+USA,USL League One Cup,2024,,12295060,Spokane Velocity FC,502354,Central Valley Fuego,405294,1,0,1,1,3,0,1,1,1,5,1714255200,AP
+USA,"USL, League One",2024,1,12091417,Spokane Velocity FC,502354,Lexington SC,460707,0,1,1,1,1,1,0,1,1,1,1719190800,Ended
+USA,USL League One Cup,2024,,12331137,Northern Colorado Hailstorm FC,405295,Spokane Velocity FC,502354,2,1,3,3,3,0,1,1,1,1,1719709200,Ended
+USA,USL League One Cup,2024,,12331148,Central Valley Fuego,405294,Spokane Velocity FC,502354,0,1,1,1,1,0,0,0,0,0,1721442600,Ended
+USA,"USL, League One",2024,1,12091385,South Georgia Tormenta FC,253417,Spokane Velocity FC,502354,2,1,3,3,3,1,2,3,3,3,1722783600,Ended
+USA,USL League One Cup,2024,,12331199,Spokane Velocity FC,502354,Northern Colorado Hailstorm FC,405295,0,1,1,1,1,0,3,3,3,3,1723597200,Ended
+USA,"USL, League One",2024,1,12091357,Spokane Velocity FC,502354,Central Valley Fuego,405294,3,0,3,3,3,1,1,2,2,2,1725757200,Ended
+USA,"USL, League One",2024,1,12091355,Spokane Velocity FC,502354,South Georgia Tormenta FC,253417,0,0,0,0,0,0,0,0,0,0,1726362000,Ended
+USA,"USL, League One",2024,1,12091320,Central Valley Fuego,405294,Spokane Velocity FC,502354,1,0,1,1,1,0,0,0,0,0,1728525600,Ended
+USA,"USL, League One",2024,1,12091323,Northern Colorado Hailstorm FC,405295,Spokane Velocity FC,502354,1,0,1,1,1,0,0,0,0,0,1729386000,Ended
+USA,"USL, League One, Playoffs",2024,27,13053117,Northern Colorado Hailstorm FC,405295,Spokane Velocity FC,502354,0,0,0,0,0,0,3,3,3,3,1730595600,Ended
+USA,"USL, League One",2025,,13278909,Spokane Velocity FC,502354,FC Naples,1044341,0,0,0,0,0,0,1,1,1,1,1742684400,Ended
+USA,"USL, League One",2025,,13278921,Spokane Velocity FC,502354,Portland Hearts of Pine,1044345,0,0,0,0,0,0,0,0,0,0,1743901200,Ended
+USA,"USL, League One",2025,,13278929,Spokane Velocity FC,502354,Texoma FC,1044344,1,3,4,4,4,0,1,1,1,1,1744585200,Ended
+USA,"USL, League One",2025,,13278930,AV Alta FC,1044343,Spokane Velocity FC,502354,0,1,1,1,1,2,0,2,2,2,1745116200,Ended
+USA,"USL, League One",2025,,13278941,Spokane Velocity FC,502354,Westchester SC,1044342,1,2,3,3,3,1,0,1,1,1,1746399600,Ended
+USA,"USL, League One",2025,,13278945,South Georgia Tormenta FC,253417,Spokane Velocity FC,502354,0,0,0,0,0,1,0,1,1,1,1746919800,Ended
+USA,"USL, League One",2025,,13278961,AV Alta FC,1044343,Spokane Velocity FC,502354,0,0,0,0,0,0,0,0,0,0,1749351600,Ended
+USA,"USL, League One",2025,,13278986,Spokane Velocity FC,502354,Texoma FC,1044344,1,0,1,1,1,0,1,1,1,1,1751508000,Ended
+USA,"USL, League One",2025,,13279002,Westchester SC,1044342,Spokane Velocity FC,502354,,,,3,3,,,,0,0,1752706800,Walkover
+USA,"USL, League One",2025,,13279025,Spokane Velocity FC,502354,AV Alta FC,1044343,1,1,2,2,2,0,0,0,0,0,1754791200,Ended
+USA,"USL, League One",2025,,13279057,Spokane Velocity FC,502354,Westchester SC,1044342,1,1,2,2,2,1,0,1,1,1,1757286000,Ended
+USA,"USL, League One",2025,,13279063,Texoma FC,1044344,Spokane Velocity FC,502354,2,1,3,3,3,2,1,3,3,3,1757808000,Ended
+USA,"USL, League One",2025,,13279097,Spokane Velocity FC,502354,South Georgia Tormenta FC,253417,0,1,1,1,1,1,0,1,1,1,1760230800,Ended
+USA,"USL, League One",2025,,13279102,FC Naples,1044341,Spokane Velocity FC,502354,0,0,0,0,0,0,1,1,1,1,1760828400,Ended
+USA,"USL, League One",2025,,13279034,Portland Hearts of Pine,1044345,Spokane Velocity FC,502354,4,2,6,6,6,1,0,1,1,1,1761085800,Ended
+USA,"USL, League One, Playoffs",2025,27,14950938,Spokane Velocity FC,502354,South Georgia Tormenta FC,253417,0,0,0,1,5,0,0,0,1,4,1762131600,AP
+USA,"USL, League One, Playoffs",2025,28,14993781,Spokane Velocity FC,502354,Portland Hearts of Pine,1044345,1,0,1,2,8,0,1,1,2,7,1762740000,AP
+USA,"USL, League One",2026,,15227371,South Georgia Tormenta FC,253417,Spokane Velocity FC,502354,,,,,,,,,,,1772996400,Canceled
+USA,"USL, League One",2026,,15227331,AC Boise,1158834,Spokane Velocity FC,502354,0,1,1,1,1,1,0,1,1,1,1775350800,Ended
+USA,"USL, League One",2026,,15285377,Spokane Velocity FC,502354,AV Alta FC,1044343,1,2,3,3,3,1,0,1,1,1,1775610000,Ended
+USA,"USL, League One",2026,,15285422,Spokane Velocity FC,502354,FC Naples,1044341,1,1,2,2,2,0,1,1,1,1,1778450400,Ended
+USA,"USL, League One",2026,,15285445,Portland Hearts of Pine,1044345,Spokane Velocity FC,502354,0,2,2,2,2,1,0,1,1,1,1780180200,Ended
+USA,"USL, League One",2026,,15285459,AV Alta FC,1044343,Spokane Velocity FC,502354,0,1,1,1,1,0,0,0,0,0,1781406000,Ended
+USA,"USL, League One",2026,,15285478,Spokane Velocity FC,502354,Westchester SC,1044342,1,1,2,2,2,1,0,1,1,1,1782349200,Ended
+USA,"USL, League One",2025,,13278912,FC Naples,1044341,Portland Hearts of Pine,1044345,0,0,0,0,0,0,0,0,0,0,1743289200,Ended
+USA,"USL, League One",2025,,13278922,Texoma FC,1044344,FC Naples,1044341,0,0,0,0,0,1,2,3,3,3,1743897600,Ended
+USA,"USL, League One",2025,,13278951,Portland Hearts of Pine,1044345,FC Naples,1044341,1,1,2,2,2,0,1,1,1,1,1747517400,Ended
+USA,"USL, League One",2025,,13278983,South Georgia Tormenta FC,253417,FC Naples,1044341,1,1,2,2,2,1,0,1,1,1,1750894200,Ended
+USA,"USL, League One",2025,,13851571,AV Alta FC,1044343,FC Naples,1044341,1,3,4,4,4,0,1,1,1,1,1751166000,Ended
+USA,"USL, League One",2025,,13278993,FC Naples,1044341,Westchester SC,1044342,1,1,2,2,2,1,0,1,1,1,1752363000,Ended
+USA,"USL, League One",2025,,13279004,AV Alta FC,1044343,FC Naples,1044341,1,0,1,1,1,0,1,1,1,1,1752980400,Ended
+USA,"USL, League One",2025,,13279019,FC Naples,1044341,South Georgia Tormenta FC,253417,2,0,2,2,2,1,0,1,1,1,1754524800,Ended
+USA,"USL, League One",2025,,13279022,FC Naples,1044341,Texoma FC,1044344,2,0,2,2,2,0,1,1,1,1,1754782200,Ended
+USA,"USL, League One",2025,,13279046,FC Naples,1044341,Westchester SC,1044342,2,0,2,2,2,1,1,2,2,2,1756594800,Ended
+USA,"USL, League One",2025,,13279070,Portland Hearts of Pine,1044345,FC Naples,1044341,1,0,1,1,1,0,0,0,0,0,1758488400,Ended
+USA,"USL, League One",2025,,13279077,FC Naples,1044341,AV Alta FC,1044343,2,2,4,4,4,0,0,0,0,0,1759014000,Ended
+USA,"USL, League One",2025,,13279099,Westchester SC,1044342,FC Naples,1044341,0,2,2,2,2,0,0,0,0,0,1760292000,Ended
+USA,"USL, League One",2026,,15285412,Portland Hearts of Pine,1044345,FC Naples,1044341,1,0,1,1,1,0,1,1,1,1,1776627600,Ended
+USA,"USL, League One",2026,,15285430,AC Boise,1158834,FC Naples,1044341,1,1,2,2,2,0,0,0,0,0,1778720400,Ended
+USA,"USL, League One",2026,,15285441,FC Naples,1044341,Westchester SC,1044342,1,0,1,1,1,0,0,0,0,0,1779579000,Ended
+USA,"USL, League One",2026,,15285487,FC Naples,1044341,Portland Hearts of Pine,1044345,1,1,2,2,2,0,3,3,3,3,1783121400,Ended
+USA,"USL, League One",2025,,13278915,Texoma FC,1044344,Westchester SC,1044342,1,0,1,1,1,1,2,3,3,3,1743292800,Ended
+USA,"USL, League One",2025,,13278918,AV Alta FC,1044343,Westchester SC,1044342,2,0,2,2,2,0,0,0,0,0,1743906600,Ended
+USA,"USL, League One",2025,,13278976,Westchester SC,1044342,AV Alta FC,1044343,2,0,2,2,2,1,4,5,5,5,1750028400,Ended
+USA,"USL, League One",2025,,13279027,Westchester SC,1044342,South Georgia Tormenta FC,253417,1,2,3,3,3,1,2,3,3,3,1754866800,Ended
+USA,"USL, League One",2025,,13279042,Westchester SC,1044342,Portland Hearts of Pine,1044345,2,0,2,2,2,3,0,3,3,3,1756076400,Ended
+USA,"USL, League One",2025,,13279074,Westchester SC,1044342,Texoma FC,1044344,0,2,2,2,2,0,1,1,1,1,1758495600,Ended
+USA,"USL, League One",2025,,13279085,South Georgia Tormenta FC,253417,Westchester SC,1044342,2,1,3,3,3,1,0,1,1,1,1759532400,Ended
+USA,"USL, League One",2025,,13279104,Portland Hearts of Pine,1044345,Westchester SC,1044342,0,2,2,2,2,0,2,2,2,2,1760821200,Ended
+USA,"USL, League One",2026,,15285406,AC Boise,1158834,Westchester SC,1044342,2,2,4,4,4,0,0,0,0,0,1776560400,Ended
+USA,"USL, League One",2026,,15285447,Westchester SC,1044342,South Georgia Tormenta FC,253417,,,,,,,,,,,1780182000,Canceled
+USA,"USL, League One",2026,,15285467,Westchester SC,1044342,Portland Hearts of Pine,1044345,2,3,5,5,5,0,1,1,1,1,1781910000,Ended
+USA,"USL, League One",2026,,15285493,Westchester SC,1044342,AC Boise,1158834,0,0,0,0,0,0,1,1,1,1,1783292400,Ended
+USA,"USL, League One",2025,,13278906,South Georgia Tormenta FC,253417,AV Alta FC,1044343,2,0,2,2,2,0,0,0,0,0,1742079600,Ended
+USA,"USL, League One",2025,,13278943,AV Alta FC,1044343,Texoma FC,1044344,0,0,0,0,0,0,0,0,0,0,1746930600,Ended
+USA,"USL, League One",2025,,13278978,AV Alta FC,1044343,Portland Hearts of Pine,1044345,1,0,1,1,1,0,1,1,1,1,1750561200,Ended
+USA,"USL, League One",2025,,13278985,Portland Hearts of Pine,1044345,AV Alta FC,1044343,0,0,0,0,0,1,1,2,2,2,1751495400,Ended
+USA,"USL, League One",2025,,13279035,Texoma FC,1044344,AV Alta FC,1044343,2,1,3,3,3,0,3,3,3,3,1755734400,Ended
+USA,"USL, League One",2025,,13279067,AV Alta FC,1044343,South Georgia Tormenta FC,253417,0,0,0,0,0,0,3,3,3,3,1758421800,Ended
+USA,"USL, League One",2025,,13279090,Texoma FC,1044344,AV Alta FC,1044343,0,1,1,1,1,0,1,1,1,1,1759622400,Ended
+USA,"USL, League One",2025,,13279111,Portland Hearts of Pine,1044345,AV Alta FC,1044343,1,1,2,2,2,1,1,2,2,2,1761426000,Ended
+USA,"USL, League One",2026,,15285372,South Georgia Tormenta FC,253417,AV Alta FC,1044343,,,,,,,,,,,1773527400,Canceled
+USA,"USL, League One",2026,,15285370,AV Alta FC,1044343,Portland Hearts of Pine,1044345,0,0,0,0,0,0,0,0,0,0,1774146600,Ended
+USA,"USL, League One",2026,,15285396,AV Alta FC,1044343,AC Boise,1158834,1,1,2,2,2,1,1,2,2,2,1775961000,Ended
+USA,"USL, League One",2026,,15285411,AV Alta FC,1044343,South Georgia Tormenta FC,253417,,,,,,,,,,,1777775400,Canceled
+USA,"USL, League One",2025,,13278928,South Georgia Tormenta FC,253417,Portland Hearts of Pine,1044345,1,1,2,2,2,0,1,1,1,1,1744500600,Ended
+USA,"USL, League One",2025,,13278991,Portland Hearts of Pine,1044345,South Georgia Tormenta FC,253417,1,0,1,1,1,0,1,1,1,1,1751841000,Ended
+USA,"USL, League One",2025,,13278996,Texoma FC,1044344,Portland Hearts of Pine,1044345,0,0,0,0,0,1,0,1,1,1,1752377400,Ended
+USA,"USL, League One",2025,,13279078,Portland Hearts of Pine,1044345,Texoma FC,1044344,0,1,1,1,1,0,0,0,0,0,1759006800,Ended
+USA,"USL, League One",2026,,15285495,South Georgia Tormenta FC,253417,Portland Hearts of Pine,1044345,,,,,,,,,,,1783553400,Canceled
+USA,"USL, League One",2026,,15285374,South Georgia Tormenta FC,253417,AC Boise,1158834,,,,,,,,,,,1774737000,Canceled

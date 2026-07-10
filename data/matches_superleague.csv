@@ -1,0 +1,257 @@
+country,tournament,season,week,game_id,home_team,home_team_id,away_team,away_team_id,home_score_period1,home_score_period2,home_score_normaltime,home_score_display,home_score_current,away_score_period1,away_score_period2,away_score_normaltime,away_score_display,away_score_current,start_timestamp,status
+USA,USL Super League Women,24/25,,13474798,Carolina Ascent,507682,Lexington SC,465515,0,1,1,1,1,0,1,1,1,1,1724610600,Ended
+USA,USL Super League Women,24/25,,13474850,Lexington SC,465515,Tampa Bay Sun FC,1112821,0,1,1,2,2,2,1,3,3,3,1725825600,Ended
+USA,USL Super League Women,24/25,,13474836,Dallas Trinity,938069,Lexington SC,465515,2,4,6,6,6,1,1,2,2,2,1726272000,Ended
+USA,USL Super League Women,24/25,,13474821,Lexington SC,465515,Fort Lauderdale United,1041471,0,1,1,1,1,1,2,3,3,3,1727035200,Ended
+USA,USL Super League Women,24/25,,13474806,Brooklyn FC,938778,Lexington SC,465515,0,1,1,1,1,0,0,0,0,0,1727566200,Ended
+USA,USL Super League Women,24/25,,13475097,Lexington SC,465515,Carolina Ascent,507682,0,1,1,1,1,1,0,1,1,1,1728244800,Ended
+USA,USL Super League Women,24/25,,13474963,Spokane Zephyr FC,938068,Lexington SC,465515,1,1,2,2,2,1,2,3,3,3,1728853200,Ended
+USA,USL Super League Women,24/25,,13475014,Fort Lauderdale United,1041471,Lexington SC,465515,1,0,1,1,1,1,1,2,2,2,1729380600,Ended
+USA,USL Super League Women,24/25,,13475057,DC Power FC,938777,Lexington SC,465515,0,2,2,2,2,1,0,1,1,1,1729899000,Ended
+USA,USL Super League Women,24/25,,13474846,Tampa Bay Sun FC,1112821,Lexington SC,465515,0,3,3,3,3,0,1,1,1,1,1730588400,Ended
+USA,USL Super League Women,24/25,,13105338,Lexington SC,465515,Dallas Trinity,938069,1,1,2,2,2,0,3,3,3,3,1731196800,Ended
+USA,USL Super League Women,24/25,,13120103,Lexington SC,465515,Spokane Zephyr FC,938068,0,1,1,1,1,1,0,1,1,1,1731542400,Ended
+USA,USL Super League Women,24/25,,13205634,Lexington SC,465515,Brooklyn FC,938778,0,0,0,0,0,1,2,3,3,3,1733616000,Ended
+USA,USL Super League Women,24/25,,13228634,Lexington SC,465515,DC Power FC,938777,1,2,3,3,3,0,0,0,0,0,1734195600,Ended
+USA,USL Super League Women,24/25,,13476653,Carolina Ascent,507682,Lexington SC,465515,2,0,2,2,2,0,1,1,1,1,1739664000,Ended
+USA,USL Super League Women,24/25,,13476660,Fort Lauderdale United,1041471,Lexington SC,465515,0,2,2,2,2,0,0,0,0,0,1740270600,Ended
+USA,USL Super League Women,24/25,,13476665,Lexington SC,465515,Brooklyn FC,938778,0,0,0,0,0,0,0,0,0,0,1740873600,Ended
+USA,USL Super League Women,24/25,,13476671,DC Power FC,938777,Lexington SC,465515,0,1,1,1,1,1,1,2,2,2,1741543200,Ended
+USA,USL Super League Women,24/25,,13476690,Lexington SC,465515,Carolina Ascent,507682,0,0,0,0,0,3,1,4,4,4,1742760000,Ended
+USA,USL Super League Women,24/25,,13476678,Lexington SC,465515,Dallas Trinity,938069,0,0,0,0,0,1,2,3,3,3,1743962400,Ended
+USA,USL Super League Women,24/25,,13476615,Tampa Bay Sun FC,1112821,Lexington SC,465515,3,1,4,4,4,0,1,1,1,1,1744498800,Ended
+USA,USL Super League Women,24/25,,13476626,Lexington SC,465515,Spokane Zephyr FC,938068,0,0,0,0,0,2,1,3,3,3,1744840800,Ended
+USA,USL Super League Women,24/25,,13476635,Brooklyn FC,938778,Lexington SC,465515,0,0,0,1,1,1,0,1,1,1,1745100000,Ended
+USA,USL Super League Women,24/25,,13724938,Dallas Trinity,938069,Lexington SC,465515,1,2,3,3,3,0,1,1,1,1,1745712000,Ended
+USA,USL Super League Women,24/25,,13476793,Spokane Zephyr FC,938068,Lexington SC,465515,1,1,2,2,2,0,0,0,0,0,1746320400,Ended
+USA,USL Super League Women,24/25,,13476802,Lexington SC,465515,Tampa Bay Sun FC,1112821,0,0,0,0,0,1,2,3,3,3,1746918000,Ended
+USA,USL Super League Women,24/25,,13476810,Lexington SC,465515,Fort Lauderdale United,1041471,0,0,0,0,0,1,0,1,1,1,1747432800,Ended
+USA,USL Super League Women,24/25,,13476834,Lexington SC,465515,DC Power FC,938777,1,2,3,3,3,3,0,3,3,3,1748732400,Ended
+USA,USL Super League,25/26,1,14326690,Fort Lauderdale United,1041471,Lexington SC,465515,1,2,3,3,3,0,3,3,3,3,1755991800,Ended
+USA,USL Super League,25/26,1,14326707,Lexington SC,465515,Brooklyn FC,938778,2,0,2,2,2,0,0,0,0,0,1757268000,Ended
+USA,USL Super League,25/26,1,14326708,DC Power FC,938777,Lexington SC,465515,0,0,0,0,0,0,0,0,0,0,1757718000,Ended
+USA,USL Super League,25/26,1,14326713,Lexington SC,465515,Spokane Zephyr FC,938068,0,0,0,0,0,0,0,0,0,0,1758402000,Ended
+USA,USL Super League,25/26,1,14326716,Lexington SC,465515,Dallas Trinity,938069,3,3,6,6,6,1,0,1,1,1,1758924000,Ended
+USA,USL Super League,25/26,1,14326723,Spokane Zephyr FC,938068,Lexington SC,465515,0,0,0,0,0,0,0,0,0,0,1759626000,Ended
+USA,USL Super League,25/26,1,14326724,Lexington SC,465515,Carolina Ascent,507682,0,1,1,1,1,0,1,1,1,1,1760133600,Ended
+USA,USL Super League,25/26,1,14326731,Brooklyn FC,938778,Lexington SC,465515,,,,,,,,,,,1760558400,Postponed
+USA,USL Super League,25/26,1,14326737,Lexington SC,465515,Fort Lauderdale United,1041471,3,2,5,5,5,0,1,1,1,1,1760653800,Ended
+USA,USL Super League,25/26,1,14326743,Tampa Bay Sun FC,1112821,Lexington SC,465515,,,,,,,,,,,1761179400,Postponed
+USA,USL Super League,25/26,1,14326744,Lexington SC,465515,Sporting Jacksonville,1077193,1,3,4,4,4,0,2,2,2,2,1761948000,Ended
+USA,USL Super League,25/26,1,14862826,Brooklyn FC,938778,Lexington SC,465515,0,0,0,0,0,2,0,2,2,2,1763229600,Ended
+USA,USL Super League,25/26,1,14921346,Tampa Bay Sun FC,1112821,Lexington SC,465515,1,0,1,1,1,1,0,1,1,1,1763857800,Ended
+USA,USL Super League,25/26,1,14326757,Lexington SC,465515,Spokane Zephyr FC,938068,0,1,1,1,1,0,1,1,1,1,1765047600,Ended
+USA,USL Super League,25/26,1,14326760,Lexington SC,465515,DC Power FC,938777,1,1,2,2,2,2,0,2,2,2,1765652400,Ended
+USA,USL Super League,25/26,1,14326768,Dallas Trinity,938069,Lexington SC,465515,0,1,1,1,1,1,0,1,1,1,1766262600,Ended
+USA,USL Super League,25/26,1,14326773,Carolina Ascent,507682,Lexington SC,465515,,,,,,,,,,,1768172400,Postponed
+USA,USL Super League,25/26,1,14326779,Fort Lauderdale United,1041471,Lexington SC,465515,0,1,1,1,1,2,1,3,3,3,1769905800,Ended
+USA,USL Super League,25/26,1,14326783,Carolina Ascent,507682,Lexington SC,465515,1,0,1,1,1,1,1,2,2,2,1770490800,Ended
+USA,USL Super League,25/26,1,14326791,Lexington SC,465515,Dallas Trinity,938069,,,,,,,,,,,1771095600,Postponed
+USA,USL Super League,25/26,1,14326796,Lexington SC,465515,Sporting Jacksonville,1077193,0,0,0,0,0,2,1,3,3,3,1771700400,Ended
+USA,USL Super League,25/26,1,15573410,Lexington SC,465515,Dallas Trinity,938069,0,0,0,0,0,0,1,1,1,1,1772989200,Ended
+USA,USL Super League,25/26,1,14326809,Dallas Trinity,938069,Lexington SC,465515,0,2,2,2,2,1,1,2,2,2,1773880200,Ended
+USA,USL Super League,25/26,1,14326810,Lexington SC,465515,Fort Lauderdale United,1041471,0,2,2,2,2,0,0,0,0,0,1774126800,Ended
+USA,USL Super League,25/26,1,14326821,Brooklyn FC,938778,Lexington SC,465515,0,0,0,0,0,1,0,1,1,1,1774717200,Ended
+USA,USL Super League,25/26,1,14326828,DC Power FC,938777,Lexington SC,465515,0,0,0,0,0,0,2,2,2,2,1775084400,Ended
+USA,USL Super League,25/26,1,14921399,Carolina Ascent,507682,Lexington SC,465515,0,1,1,1,1,0,0,0,0,0,1775948400,Ended
+USA,USL Super League,25/26,1,14326837,Lexington SC,465515,Tampa Bay Sun FC,1112821,1,3,4,4,4,0,0,0,0,0,1776546000,Ended
+USA,USL Super League,25/26,1,14326844,Sporting Jacksonville,1077193,Lexington SC,465515,1,0,1,1,1,2,0,2,2,2,1777140000,Ended
+USA,USL Super League,25/26,1,14326852,Spokane Zephyr FC,938068,Lexington SC,465515,0,0,0,0,0,0,0,0,0,0,1777770000,Ended
+USA,USL Super League,25/26,1,14326861,Lexington SC,465515,Brooklyn FC,938778,3,0,3,3,3,0,1,1,1,1,1778436000,Ended
+USA,USL Super League,25/26,1,14326864,Lexington SC,465515,Tampa Bay Sun FC,1112821,0,1,1,1,1,0,0,0,0,0,1778965200,Ended
+USA,"USL Super League, Women, Playoffs",25/26,28,16199076,Lexington SC,465515,Dallas Trinity,938069,1,1,2,2,2,0,0,0,0,0,1779577200,Ended
+USA,"USL Super League, Women, Playoffs",25/26,29,16230284,Lexington SC,465515,Carolina Ascent,507682,0,1,1,3,3,1,0,1,1,1,1780182000,AET
+USA,USL Super League Women,24/25,,13474802,Carolina Ascent,507682,DC Power FC,938777,1,0,1,1,1,0,0,0,0,0,1723935600,Ended
+USA,USL Super League Women,24/25,,13474856,Carolina Ascent,507682,Fort Lauderdale United,1041471,1,1,2,2,2,0,1,1,1,1,1725665400,Ended
+USA,USL Super League Women,24/25,,13474823,Spokane Zephyr FC,938068,Carolina Ascent,507682,0,0,0,0,0,2,0,2,2,2,1726448400,Ended
+USA,USL Super League Women,24/25,,13474808,Carolina Ascent,507682,Tampa Bay Sun FC,1112821,0,0,0,0,0,0,0,0,0,0,1727479800,Ended
+USA,USL Super League Women,24/25,,13474986,Brooklyn FC,938778,Carolina Ascent,507682,0,1,1,1,1,1,0,1,1,1,1729035000,Ended
+USA,USL Super League Women,24/25,,13475009,Carolina Ascent,507682,Brooklyn FC,938778,1,1,2,2,2,0,0,0,0,0,1729378800,Ended
+USA,USL Super League Women,24/25,,13475068,Dallas Trinity,938069,Carolina Ascent,507682,2,0,2,2,2,2,0,2,2,2,1729900800,Ended
+USA,USL Super League Women,24/25,,13474843,DC Power FC,938777,Carolina Ascent,507682,0,0,0,0,0,1,0,1,1,1,1730660400,Ended
+USA,USL Super League Women,24/25,,13105324,Carolina Ascent,507682,Spokane Zephyr FC,938068,0,0,0,0,0,0,0,0,0,0,1731196800,Ended
+USA,USL Super League Women,24/25,,13474840,Tampa Bay Sun FC,1112821,Carolina Ascent,507682,2,0,2,2,2,1,0,1,1,1,1731801600,Ended
+USA,USL Super League Women,24/25,,13158147,Carolina Ascent,507682,Dallas Trinity,938069,0,0,0,0,0,1,0,1,1,1,1732406400,Ended
+USA,USL Super League Women,24/25,,13228638,Fort Lauderdale United,1041471,Carolina Ascent,507682,0,2,2,2,2,0,0,0,0,0,1734222600,Ended
+USA,USL Super League Women,24/25,,13476661,Carolina Ascent,507682,DC Power FC,938777,1,2,3,3,3,1,2,3,3,3,1740340800,Ended
+USA,USL Super League Women,24/25,,13476667,Carolina Ascent,507682,Fort Lauderdale United,1041471,1,0,1,1,1,0,2,2,2,2,1740945600,Ended
+USA,USL Super League Women,24/25,,13476670,Spokane Zephyr FC,938068,Carolina Ascent,507682,0,1,1,1,1,2,0,2,2,2,1741485600,Ended
+USA,USL Super League Women,24/25,,13476679,Tampa Bay Sun FC,1112821,Carolina Ascent,507682,1,0,1,1,1,0,0,0,0,0,1742081400,Ended
+USA,USL Super League Women,24/25,,13476692,Carolina Ascent,507682,Dallas Trinity,938069,2,1,3,3,3,0,0,0,0,0,1743289200,Ended
+USA,USL Super League Women,24/25,,13476591,DC Power FC,938777,Carolina Ascent,507682,0,0,0,0,0,0,1,1,1,1,1744155000,Ended
+USA,USL Super League Women,24/25,,13476612,Carolina Ascent,507682,Brooklyn FC,938778,1,4,5,5,5,0,0,0,0,0,1744498800,Ended
+USA,USL Super League Women,24/25,,13476637,Carolina Ascent,507682,Spokane Zephyr FC,938068,1,2,3,3,3,0,0,0,0,0,1745105400,Ended
+USA,USL Super League Women,24/25,,13476648,Fort Lauderdale United,1041471,Carolina Ascent,507682,1,1,2,2,2,3,2,5,5,5,1745710200,Ended
+USA,USL Super League Women,24/25,,13476813,Carolina Ascent,507682,Tampa Bay Sun FC,1112821,1,0,1,1,1,1,0,1,1,1,1747522800,Ended
+USA,USL Super League Women,24/25,,13476821,Brooklyn FC,938778,Carolina Ascent,507682,0,0,0,0,0,0,0,0,0,0,1748124000,Ended
+USA,USL Super League Women,24/25,,13476836,Dallas Trinity,938069,Carolina Ascent,507682,1,1,2,2,2,0,1,1,1,1,1748736000,Ended
+USA,"USL Super League Women, Playoffs",24/25,28,13963569,Carolina Ascent,507682,Fort Lauderdale United,1041471,0,1,1,1,1,0,1,1,2,2,1749423600,AET
+USA,USL Super League,25/26,1,14326696,Fort Lauderdale United,1041471,Carolina Ascent,507682,0,2,2,2,2,1,1,2,2,2,1756596600,Ended
+USA,USL Super League,25/26,1,14326702,Carolina Ascent,507682,Tampa Bay Sun FC,1112821,1,1,2,2,2,0,2,2,2,2,1757201100,Ended
+USA,USL Super League,25/26,1,14326710,Sporting Jacksonville,1077193,Carolina Ascent,507682,2,0,2,2,2,1,1,2,2,2,1757806200,Ended
+USA,USL Super League,25/26,1,14326715,Carolina Ascent,507682,Spokane Zephyr FC,938068,0,0,0,0,0,1,0,1,1,1,1758754800,Ended
+USA,USL Super League,25/26,1,14326717,Carolina Ascent,507682,Sporting Jacksonville,1077193,1,2,3,3,3,3,1,4,4,4,1759082400,Ended
+USA,USL Super League,25/26,1,14326720,Carolina Ascent,507682,DC Power FC,938777,2,1,3,3,3,1,1,2,2,2,1759618800,Ended
+USA,USL Super League,25/26,1,14326734,Brooklyn FC,938778,Carolina Ascent,507682,0,1,1,1,1,1,1,2,2,2,1760824800,Ended
+USA,USL Super League,25/26,1,14326739,DC Power FC,938777,Carolina Ascent,507682,,,,,,,,,,,1761091200,Postponed
+USA,USL Super League,25/26,1,14326747,Spokane Zephyr FC,938068,Carolina Ascent,507682,0,1,1,1,1,0,2,2,2,2,1761872400,Ended
+USA,USL Super League,25/26,1,14326752,Carolina Ascent,507682,Fort Lauderdale United,1041471,0,0,0,0,0,0,1,1,1,1,1762646400,Ended
+USA,USL Super League,25/26,1,14921343,DC Power FC,938777,Carolina Ascent,507682,0,0,0,0,0,0,1,1,1,1,1763769600,Ended
+USA,USL Super League,25/26,1,14326755,Carolina Ascent,507682,Brooklyn FC,938778,1,0,1,1,1,0,0,0,0,0,1765047600,Ended
+USA,USL Super League,25/26,1,14326762,Dallas Trinity,938069,Carolina Ascent,507682,0,1,1,1,1,0,0,0,0,0,1765657800,Ended
+USA,USL Super League,25/26,1,14326766,Carolina Ascent,507682,DC Power FC,938777,0,0,0,0,0,0,0,0,0,0,1766257200,Ended
+USA,USL Super League,25/26,1,14326780,Sporting Jacksonville,1077193,Carolina Ascent,507682,0,1,1,1,1,0,0,0,0,0,1769896800,Ended
+USA,USL Super League,25/26,1,14326790,Carolina Ascent,507682,Spokane Zephyr FC,938068,0,0,0,0,0,2,0,2,2,2,1771095600,Ended
+USA,USL Super League,25/26,1,14326795,Carolina Ascent,507682,Dallas Trinity,938069,1,1,2,2,2,0,0,0,0,0,1771700400,Ended
+USA,USL Super League,25/26,1,14326799,Carolina Ascent,507682,Tampa Bay Sun FC,1112821,0,1,1,1,1,0,0,0,0,0,1773442800,Ended
+USA,USL Super League,25/26,1,14326805,DC Power FC,938777,Carolina Ascent,507682,0,0,0,0,0,0,1,1,1,1,1773761400,Ended
+USA,USL Super League,25/26,1,14326815,Brooklyn FC,938778,Carolina Ascent,507682,0,0,0,0,0,1,1,2,2,2,1774206000,Ended
+USA,USL Super League,25/26,1,14326822,Carolina Ascent,507682,Fort Lauderdale United,1041471,0,1,1,1,1,0,1,1,1,1,1774738800,Ended
+USA,USL Super League,25/26,1,14326834,Tampa Bay Sun FC,1112821,Carolina Ascent,507682,0,1,1,1,1,2,0,2,2,2,1775422800,Ended
+USA,USL Super League,25/26,1,14326839,Dallas Trinity,938069,Carolina Ascent,507682,0,0,0,0,0,0,1,1,1,1,1776632400,Ended
+USA,USL Super League,25/26,1,14326845,Tampa Bay Sun FC,1112821,Carolina Ascent,507682,0,1,1,1,1,0,2,2,2,2,1777159800,Ended
+USA,USL Super League,25/26,1,14326857,Fort Lauderdale United,1041471,Carolina Ascent,507682,0,0,0,0,0,0,3,3,3,3,1778369400,Ended
+USA,USL Super League,25/26,1,14326865,Carolina Ascent,507682,Sporting Jacksonville,1077193,2,1,3,3,3,1,0,1,1,1,1778972400,Ended
+USA,"USL Super League, Women, Playoffs",25/26,28,16199237,Sporting Jacksonville,1077193,Carolina Ascent,507682,0,0,0,0,0,1,0,1,1,1,1779656400,Ended
+USA,USL Super League Women,24/25,,13474800,Tampa Bay Sun FC,1112821,Dallas Trinity,938069,0,1,1,1,1,1,0,1,1,1,1724020200,Ended
+USA,USL Super League Women,24/25,,13474855,Dallas Trinity,938069,DC Power FC,938777,0,1,1,1,1,1,0,1,1,1,1725753600,Ended
+USA,USL Super League Women,24/25,,13474814,Brooklyn FC,938778,Dallas Trinity,938069,2,0,2,2,2,0,0,0,0,0,1727307000,Ended
+USA,USL Super League Women,24/25,,13474921,Spokane Zephyr FC,938068,Dallas Trinity,938069,0,1,1,1,1,1,1,2,2,2,1728248400,Ended
+USA,USL Super League Women,24/25,,13475005,DC Power FC,938777,Dallas Trinity,938069,0,0,0,0,0,0,0,0,0,0,1729121400,Ended
+USA,USL Super League Women,24/25,,13474827,Dallas Trinity,938069,Fort Lauderdale United,1041471,0,1,1,1,1,0,0,0,0,0,1730581200,Ended
+USA,USL Super League Women,24/25,,13474824,Dallas Trinity,938069,Spokane Zephyr FC,938068,0,0,0,0,0,0,0,0,0,0,1732150800,Ended
+USA,USL Super League Women,24/25,,13474809,Fort Lauderdale United,1041471,Dallas Trinity,938069,1,1,2,2,2,0,1,1,1,1,1733099400,Ended
+USA,USL Super League Women,24/25,,13206585,Dallas Trinity,938069,Tampa Bay Sun FC,1112821,0,2,2,2,2,0,0,0,0,0,1733689800,Ended
+USA,USL Super League Women,24/25,,13228635,Dallas Trinity,938069,Brooklyn FC,938778,0,0,0,0,0,0,1,1,1,1,1734208200,Ended
+USA,USL Super League Women,24/25,,13476651,Dallas Trinity,938069,Tampa Bay Sun FC,1112821,1,0,1,1,1,0,1,1,1,1,1739662200,Ended
+USA,USL Super League Women,24/25,,13476655,Dallas Trinity,938069,Spokane Zephyr FC,938068,0,0,0,0,0,1,0,1,1,1,1740261600,Ended
+USA,USL Super League Women,24/25,,13476673,Dallas Trinity,938069,Brooklyn FC,938778,2,4,6,6,6,0,0,0,0,0,1741554000,Ended
+USA,USL Super League Women,24/25,,13476683,Brooklyn FC,938778,Dallas Trinity,938069,0,0,0,0,0,2,1,3,3,3,1742427000,Ended
+USA,USL Super League Women,24/25,,13476579,Dallas Trinity,938069,DC Power FC,938777,1,0,1,1,1,0,0,0,0,0,1743638400,Ended
+USA,USL Super League Women,24/25,,13963521,Spokane Zephyr FC,938068,Dallas Trinity,938069,0,3,3,3,3,0,0,0,0,0,1744506000,Ended
+USA,USL Super League Women,24/25,,13476631,Dallas Trinity,938069,Fort Lauderdale United,1041471,1,0,1,1,1,1,0,1,1,1,1745096400,Ended
+USA,USL Super League Women,24/25,,13476790,Tampa Bay Sun FC,1112821,Dallas Trinity,938069,1,0,1,1,1,0,0,0,0,0,1746396000,Ended
+USA,USL Super League Women,24/25,,13476799,DC Power FC,938777,Dallas Trinity,938069,0,3,3,3,3,2,0,2,2,2,1746747000,Ended
+USA,USL Super League Women,24/25,,13476828,Fort Lauderdale United,1041471,Dallas Trinity,938069,1,0,1,1,1,0,0,0,0,0,1748129400,Ended
+USA,"USL Super League Women, Playoffs",24/25,28,13963567,Tampa Bay Sun FC,1112821,Dallas Trinity,938069,1,1,2,2,2,1,0,1,1,1,1749339000,Ended
+USA,USL Super League,25/26,,14193937,Dallas Trinity,938069,Spokane Zephyr FC,938068,0,2,2,2,2,1,0,1,1,1,1755995400,Ended
+USA,USL Super League,25/26,1,14326699,Dallas Trinity,938069,Brooklyn FC,938778,1,0,1,1,1,0,0,0,0,0,1756600200,Ended
+USA,USL Super League,25/26,1,14326703,Sporting Jacksonville,1077193,Dallas Trinity,938069,0,0,0,0,0,0,1,1,1,1,1757201400,Ended
+USA,USL Super League,25/26,1,14326709,Fort Lauderdale United,1041471,Dallas Trinity,938069,2,2,4,4,4,0,1,1,1,1,1757806200,Ended
+USA,USL Super League,25/26,1,14326714,Tampa Bay Sun FC,1112821,Dallas Trinity,938069,0,1,1,1,1,1,0,1,1,1,1758411000,Ended
+USA,USL Super League,25/26,1,14326727,Spokane Zephyr FC,938068,Dallas Trinity,938069,0,2,2,2,2,0,0,0,0,0,1760310000,Ended
+USA,USL Super League,25/26,1,14326749,Dallas Trinity,938069,DC Power FC,938777,1,1,2,2,2,1,2,3,3,3,1762120800,Ended
+USA,USL Super League,25/26,1,14326751,Dallas Trinity,938069,Sporting Jacksonville,1077193,0,0,0,0,0,2,0,2,2,2,1762639200,Ended
+USA,USL Super League,25/26,1,14921378,Spokane Zephyr FC,938068,Dallas Trinity,938069,0,0,0,0,0,1,1,2,2,2,1763258400,Ended
+USA,USL Super League,25/26,1,14326758,Dallas Trinity,938069,DC Power FC,938777,2,0,2,2,2,1,0,1,1,1,1765063800,Ended
+USA,USL Super League,25/26,1,14326772,Brooklyn FC,938778,Dallas Trinity,938069,,,,,,,,,,,1768161600,Postponed
+USA,USL Super League,25/26,1,14326778,Dallas Trinity,938069,Brooklyn FC,938778,0,1,1,1,1,0,1,1,1,1,1769896800,Ended
+USA,USL Super League,25/26,1,14326785,Fort Lauderdale United,1041471,Dallas Trinity,938069,0,0,0,0,0,1,3,4,4,4,1770512400,Ended
+USA,USL Super League,25/26,1,14326800,DC Power FC,938777,Dallas Trinity,938069,1,0,1,1,1,1,0,1,1,1,1773356400,Ended
+USA,USL Super League,25/26,1,14326818,Dallas Trinity,938069,Sporting Jacksonville,1077193,0,0,0,0,0,2,2,4,4,4,1774213200,Ended
+USA,USL Super League,25/26,1,14326826,Dallas Trinity,938069,Tampa Bay Sun FC,1112821,0,1,1,1,1,1,1,2,2,2,1775003400,Ended
+USA,USL Super League,25/26,1,14326833,Dallas Trinity,938069,Spokane Zephyr FC,938068,1,2,3,3,3,0,1,1,1,1,1775338200,Ended
+USA,USL Super League,25/26,1,14921398,Brooklyn FC,938778,Dallas Trinity,938069,1,2,3,3,3,0,0,0,0,0,1776020400,Ended
+USA,USL Super League,25/26,1,14326843,Brooklyn FC,938778,Dallas Trinity,938069,0,1,1,1,1,0,1,1,1,1,1777158000,Ended
+USA,USL Super League,25/26,1,14326848,DC Power FC,938777,Dallas Trinity,938069,0,1,1,1,1,0,1,1,1,1,1777676400,Ended
+USA,USL Super League,25/26,1,14326858,Tampa Bay Sun FC,1112821,Dallas Trinity,938069,0,0,0,0,0,2,0,2,2,2,1778369400,Ended
+USA,USL Super League,25/26,1,14326866,Dallas Trinity,938069,Fort Lauderdale United,1041471,2,2,4,4,4,0,0,0,0,0,1778977800,Ended
+USA,USL Super League Women,24/25,,13474799,Tampa Bay Sun FC,1112821,DC Power FC,938777,0,0,0,0,0,0,0,0,0,0,1724540400,Ended
+USA,USL Super League Women,24/25,,13474844,DC Power FC,938777,Fort Lauderdale United,1041471,0,0,0,0,0,2,0,2,2,2,1726270200,Ended
+USA,USL Super League Women,24/25,,13474818,Spokane Zephyr FC,938068,DC Power FC,938777,1,0,1,1,1,0,0,0,0,0,1727038800,Ended
+USA,USL Super League Women,24/25,,13474804,DC Power FC,938777,Spokane Zephyr FC,938068,2,0,2,2,2,1,1,2,2,2,1727632800,Ended
+USA,USL Super League Women,24/25,,13474860,DC Power FC,938777,Tampa Bay Sun FC,1112821,0,0,0,0,0,0,3,3,3,3,1727908200,Ended
+USA,USL Super League Women,24/25,,13474954,Brooklyn FC,938778,DC Power FC,938777,0,0,0,0,0,0,1,1,1,1,1728689400,Ended
+USA,USL Super League Women,24/25,,13474805,DC Power FC,938777,Brooklyn FC,938778,0,0,0,0,0,3,0,3,3,3,1731540600,Ended
+USA,USL Super League Women,24/25,,13474817,Fort Lauderdale United,1041471,DC Power FC,938777,0,0,0,0,0,0,1,1,1,1,1732408200,Ended
+USA,USL Super League Women,24/25,,13476674,Spokane Zephyr FC,938068,DC Power FC,938777,1,2,3,3,3,0,2,2,2,2,1742072400,Ended
+USA,USL Super League Women,24/25,,13476688,DC Power FC,938777,Brooklyn FC,938778,0,1,1,1,1,1,0,1,1,1,1742752800,Ended
+USA,USL Super League Women,24/25,,13476621,Fort Lauderdale United,1041471,DC Power FC,938777,0,1,1,1,1,0,1,1,1,1,1744500600,Ended
+USA,USL Super League Women,24/25,,13476628,DC Power FC,938777,Tampa Bay Sun FC,1112821,0,0,0,0,0,0,1,1,1,1,1745019000,Ended
+USA,USL Super League Women,24/25,,13476646,Brooklyn FC,938778,DC Power FC,938777,0,0,0,0,0,1,0,1,1,1,1745704800,Ended
+USA,USL Super League Women,24/25,,13476807,DC Power FC,938777,Spokane Zephyr FC,938068,0,1,1,1,1,0,2,2,2,2,1747179000,Ended
+USA,USL Super League Women,24/25,,13476818,DC Power FC,938777,Fort Lauderdale United,1041471,1,0,1,1,1,0,1,1,1,1,1747782000,Ended
+USA,USL Super League Women,24/25,,13476824,Tampa Bay Sun FC,1112821,DC Power FC,938777,1,1,2,2,2,0,0,0,0,0,1748131200,Ended
+USA,USL Super League,25/26,,14193935,Sporting Jacksonville,1077193,DC Power FC,938777,1,0,1,1,1,1,2,3,3,3,1756000800,Ended
+USA,USL Super League,25/26,1,14326694,DC Power FC,938777,Spokane Zephyr FC,938068,1,1,2,2,2,2,0,2,2,2,1756595100,Ended
+USA,USL Super League,25/26,1,14326712,DC Power FC,938777,Brooklyn FC,938778,2,0,2,2,2,0,2,2,2,2,1758236400,Ended
+USA,USL Super League,25/26,1,14326728,DC Power FC,938777,Fort Lauderdale United,1041471,,,,,,,,,,,1760313600,Postponed
+USA,USL Super League,25/26,1,14326729,DC Power FC,938777,Sporting Jacksonville,1077193,0,0,0,0,0,0,1,1,1,1,1760482800,Ended
+USA,USL Super League,25/26,1,14326736,DC Power FC,938777,Spokane Zephyr FC,938068,0,1,1,1,1,0,1,1,1,1,1760896800,Ended
+USA,USL Super League,25/26,1,14326750,Brooklyn FC,938778,DC Power FC,938777,0,1,1,1,1,0,0,0,0,0,1762632000,Ended
+USA,USL Super League,25/26,1,14860692,DC Power FC,938777,Fort Lauderdale United,1041471,2,1,3,3,3,1,0,1,1,1,1762992000,Ended
+USA,USL Super League,25/26,1,14326776,Tampa Bay Sun FC,1112821,DC Power FC,938777,,,,,,,,,,,1768174200,Postponed
+USA,USL Super League,25/26,1,14326787,Sporting Jacksonville,1077193,DC Power FC,938777,0,0,0,0,0,0,1,1,1,1,1770501600,Ended
+USA,USL Super League,25/26,1,14326794,Tampa Bay Sun FC,1112821,DC Power FC,938777,1,0,1,1,1,0,1,1,1,1,1771115400,Ended
+USA,USL Super League,25/26,1,14326836,Brooklyn FC,938778,DC Power FC,938777,0,0,0,0,0,1,1,2,2,2,1772910000,Ended
+USA,USL Super League,25/26,1,14326813,Spokane Zephyr FC,938068,DC Power FC,938777,0,0,0,0,0,0,2,2,2,2,1774141200,Ended
+USA,USL Super League,25/26,1,14326819,DC Power FC,938777,Tampa Bay Sun FC,1112821,0,0,0,0,0,1,1,2,2,2,1774566000,Ended
+USA,USL Super League,25/26,1,14326830,Fort Lauderdale United,1041471,DC Power FC,938777,1,2,3,3,3,1,0,1,1,1,1775514600,Ended
+USA,USL Super League,25/26,1,14921431,Tampa Bay Sun FC,1112821,DC Power FC,938777,0,0,0,0,0,2,0,2,2,2,1775950200,Ended
+USA,USL Super League,25/26,1,14326841,DC Power FC,938777,Fort Lauderdale United,1041471,1,3,4,4,4,0,0,0,0,0,1776898800,Ended
+USA,USL Super League,25/26,1,14326855,DC Power FC,938777,Sporting Jacksonville,1077193,0,0,0,0,0,1,0,1,1,1,1778108400,Ended
+USA,USL Super League,25/26,1,14326860,Spokane Zephyr FC,938068,DC Power FC,938777,0,1,1,1,1,0,0,0,0,0,1778380200,Ended
+USA,USL Super League Women,24/25,,13474848,Spokane Zephyr FC,938068,Brooklyn FC,938778,1,0,1,1,1,0,1,1,1,1,1725843600,Ended
+USA,USL Super League Women,24/25,,13474829,Tampa Bay Sun FC,1112821,Brooklyn FC,938778,0,0,0,0,0,1,0,1,1,1,1726354800,Ended
+USA,USL Super League Women,24/25,,13474943,Fort Lauderdale United,1041471,Brooklyn FC,938778,0,1,1,1,1,0,0,0,0,0,1728257400,Ended
+USA,USL Super League Women,24/25,,13475036,Brooklyn FC,938778,Tampa Bay Sun FC,1112821,2,0,2,2,2,1,0,1,1,1,1729726200,Ended
+USA,USL Super League Women,24/25,,13475082,Brooklyn FC,938778,Fort Lauderdale United,1041471,2,1,3,3,3,0,1,1,1,1,1730052000,Ended
+USA,USL Super League Women,24/25,,13474807,Brooklyn FC,938778,Spokane Zephyr FC,938068,1,0,1,1,1,0,0,0,0,0,1730417400,Ended
+USA,USL Super League Women,24/25,,13476657,Tampa Bay Sun FC,1112821,Brooklyn FC,938778,1,0,1,1,1,0,1,1,1,1,1740268800,Ended
+USA,USL Super League Women,24/25,,13476675,Brooklyn FC,938778,Fort Lauderdale United,1041471,0,0,0,0,0,1,1,2,2,2,1742076000,Ended
+USA,USL Super League Women,24/25,,13476691,Brooklyn FC,938778,Tampa Bay Sun FC,1112821,1,1,2,2,2,1,1,2,2,2,1743285600,Ended
+USA,USL Super League Women,24/25,,13476581,Spokane Zephyr FC,938068,Brooklyn FC,938778,0,1,1,1,1,0,0,0,0,0,1743728400,Ended
+USA,USL Super League Women,24/25,,13476792,Fort Lauderdale United,1041471,Brooklyn FC,938778,1,0,1,1,1,1,3,4,4,4,1746315000,Ended
+USA,USL Super League Women,24/25,,13476795,Brooklyn FC,938778,Spokane Zephyr FC,938068,2,0,2,2,2,0,2,2,2,2,1746914400,Ended
+USA,USL Super League,25/26,,14193934,Brooklyn FC,938778,Tampa Bay Sun FC,1112821,0,2,2,2,2,0,1,1,1,1,1755990000,Ended
+USA,USL Super League,25/26,1,14326701,Brooklyn FC,938778,Spokane Zephyr FC,938068,0,1,1,1,1,0,1,1,1,1,1756940400,Ended
+USA,USL Super League,25/26,1,14326718,Brooklyn FC,938778,Fort Lauderdale United,1041471,0,1,1,1,1,2,0,2,2,2,1759086000,Ended
+USA,USL Super League,25/26,1,14326719,Brooklyn FC,938778,Sporting Jacksonville,1077193,0,3,3,3,3,1,2,3,3,3,1759615200,Ended
+USA,USL Super League,25/26,1,14326726,Brooklyn FC,938778,Tampa Bay Sun FC,1112821,0,2,2,2,2,1,1,2,2,2,1760220000,Ended
+USA,USL Super League,25/26,1,14326740,Brooklyn FC,938778,Spokane Zephyr FC,938068,,,,,,,,,,,1761163200,Postponed
+USA,USL Super League,25/26,1,14326746,Fort Lauderdale United,1041471,Brooklyn FC,938778,1,0,1,1,1,1,0,1,1,1,1762039800,Ended
+USA,USL Super League,25/26,1,14860691,Brooklyn FC,938778,Spokane Zephyr FC,938068,0,1,1,1,1,0,0,0,0,0,1763834400,Ended
+USA,USL Super League,25/26,1,14326764,Tampa Bay Sun FC,1112821,Brooklyn FC,938778,0,0,0,0,0,0,3,3,3,3,1765672200,Ended
+USA,USL Super League,25/26,1,14326792,Fort Lauderdale United,1041471,Brooklyn FC,938778,1,2,3,3,3,1,2,3,3,3,1771108200,Ended
+USA,USL Super League,25/26,1,14326803,Spokane Zephyr FC,938068,Brooklyn FC,938778,2,1,3,3,3,0,0,0,0,0,1773536400,Ended
+USA,USL Super League,25/26,1,14326806,Tampa Bay Sun FC,1112821,Brooklyn FC,938778,0,0,0,0,0,2,1,3,3,3,1773876600,Ended
+USA,USL Super League,25/26,1,14326831,Sporting Jacksonville,1077193,Brooklyn FC,938778,1,1,2,2,2,0,0,0,0,0,1775325600,Ended
+USA,USL Super League,25/26,1,14326853,Sporting Jacksonville,1077193,Brooklyn FC,938778,1,1,2,2,2,0,1,1,1,1,1777842000,Ended
+USA,USL Super League,25/26,1,14326868,Spokane Zephyr FC,938068,Brooklyn FC,938778,2,2,4,4,4,0,0,0,0,0,1778961600,Ended
+USA,USL Super League Women,24/25,,13474801,Spokane Zephyr FC,938068,Fort Lauderdale United,1041471,1,0,1,1,1,0,1,1,1,1,1723942800,Ended
+USA,USL Super League Women,24/25,,13474835,Fort Lauderdale United,1041471,Tampa Bay Sun FC,1112821,0,1,1,1,1,1,0,1,1,1,1731276000,Ended
+USA,USL Super League Women,24/25,,13205637,Fort Lauderdale United,1041471,Spokane Zephyr FC,938068,1,1,2,2,2,0,1,1,1,1,1733617800,Ended
+USA,USL Super League Women,24/25,,13448440,Tampa Bay Sun FC,1112821,Fort Lauderdale United,1041471,0,2,2,2,2,0,2,2,2,2,1739059200,Ended
+USA,USL Super League Women,24/25,,13476669,Fort Lauderdale United,1041471,Tampa Bay Sun FC,1112821,1,0,1,1,1,1,0,1,1,1,1741480200,Ended
+USA,USL Super League Women,24/25,,13476685,Fort Lauderdale United,1041471,Spokane Zephyr FC,938068,0,0,0,0,0,0,0,0,0,0,1742686200,Ended
+USA,USL Super League Women,24/25,,13476588,Tampa Bay Sun FC,1112821,Fort Lauderdale United,1041471,1,1,2,2,2,0,0,0,0,0,1743890400,Ended
+USA,USL Super League Women,24/25,,13476841,Spokane Zephyr FC,938068,Fort Lauderdale United,1041471,1,0,1,1,1,1,0,1,1,1,1748739600,Ended
+USA,"USL Super League Women, Playoffs",24/25,29,13987659,Tampa Bay Sun FC,1112821,Fort Lauderdale United,1041471,0,0,0,1,1,0,0,0,0,0,1749943800,Ended
+USA,USL Super League,25/26,1,14326705,Spokane Zephyr FC,938068,Fort Lauderdale United,1041471,0,0,0,0,0,0,1,1,1,1,1757206800,Ended
+USA,USL Super League,25/26,1,14326722,Tampa Bay Sun FC,1112821,Fort Lauderdale United,1041471,0,0,0,0,0,0,0,0,0,0,1759620600,Ended
+USA,USL Super League,25/26,1,14326732,Fort Lauderdale United,1041471,Tampa Bay Sun FC,1112821,,,,,,,,,,,1760657400,Postponed
+USA,USL Super League,25/26,1,14326741,Sporting Jacksonville,1077193,Fort Lauderdale United,1041471,,,,,,,,,,,1761179400,Postponed
+USA,USL Super League,25/26,1,14902010,Fort Lauderdale United,1041471,Tampa Bay Sun FC,1112821,0,1,1,1,1,0,1,1,1,1,1763253000,Ended
+USA,USL Super League,25/26,1,14912432,Sporting Jacksonville,1077193,Fort Lauderdale United,1041471,1,1,2,2,2,0,0,0,0,0,1763857800,Ended
+USA,USL Super League,25/26,1,14326763,Sporting Jacksonville,1077193,Fort Lauderdale United,1041471,0,1,1,1,1,0,1,1,1,1,1765663200,Ended
+USA,USL Super League,25/26,1,14326769,Fort Lauderdale United,1041471,Spokane Zephyr FC,938068,0,1,1,1,1,2,1,3,3,3,1766277000,Ended
+USA,USL Super League,25/26,1,14326775,Fort Lauderdale United,1041471,Sporting Jacksonville,1077193,,,,,,,,,,,1768174200,Postponed
+USA,USL Super League,25/26,1,14326797,Tampa Bay Sun FC,1112821,Fort Lauderdale United,1041471,1,2,3,3,3,0,0,0,0,0,1771720200,Ended
+USA,USL Super League,25/26,1,14326802,Fort Lauderdale United,1041471,Sporting Jacksonville,1077193,0,0,0,0,0,2,0,2,2,2,1773531000,Ended
+USA,USL Super League,25/26,1,14921423,Fort Lauderdale United,1041471,Sporting Jacksonville,1077193,0,1,1,1,1,2,2,4,4,4,1775937600,Ended
+USA,USL Super League,25/26,1,14326847,Spokane Zephyr FC,938068,Fort Lauderdale United,1041471,1,2,3,3,3,0,1,1,1,1,1777244400,Ended
+USA,USL Super League,25/26,1,14326850,Fort Lauderdale United,1041471,Tampa Bay Sun FC,1112821,0,1,1,1,1,0,2,2,2,2,1777764600,Ended
+USA,USL Super League,25/26,1,14326697,Tampa Bay Sun FC,1112821,Sporting Jacksonville,1077193,0,2,2,2,2,0,3,3,3,3,1756598400,Ended
+USA,USL Super League,25/26,1,14326735,Sporting Jacksonville,1077193,Tampa Bay Sun FC,1112821,0,1,1,1,1,1,0,1,1,1,1760830200,Ended
+USA,USL Super League,25/26,1,14326759,Tampa Bay Sun FC,1112821,Sporting Jacksonville,1077193,0,0,0,0,0,2,1,3,3,3,1765067400,Ended
+USA,USL Super League,25/26,1,14326770,Sporting Jacksonville,1077193,Tampa Bay Sun FC,1112821,1,2,3,3,3,0,1,1,1,1,1766268000,Ended
+USA,USL Super League,25/26,1,14326788,Sporting Jacksonville,1077193,Spokane Zephyr FC,938068,3,0,3,3,3,0,0,0,0,0,1770854400,Ended
+USA,USL Super League,25/26,1,14326825,Sporting Jacksonville,1077193,Spokane Zephyr FC,938068,1,0,1,1,1,1,0,1,1,1,1774740600,Ended
+USA,USL Super League,25/26,1,14326840,Spokane Zephyr FC,938068,Sporting Jacksonville,1077193,1,1,2,2,2,1,0,1,1,1,1776639600,Ended
+USA,USL Super League Women,24/25,,13475093,Spokane Zephyr FC,938068,Tampa Bay Sun FC,1112821,0,1,1,1,1,0,0,0,0,0,1730062800,Ended
+USA,USL Super League Women,24/25,,13228636,Tampa Bay Sun FC,1112821,Spokane Zephyr FC,938068,1,2,3,3,3,1,1,2,2,2,1734220800,Ended
+USA,USL Super League Women,24/25,,13476682,Tampa Bay Sun FC,1112821,Spokane Zephyr FC,938068,0,1,1,1,1,0,2,2,2,2,1742425200,Ended
+USA,USL Super League Women,24/25,,13476644,Spokane Zephyr FC,938068,Tampa Bay Sun FC,1112821,2,0,2,3,3,1,0,1,2,2,1745701200,Ended
+USA,USL Super League,25/26,1,14326711,Spokane Zephyr FC,938068,Tampa Bay Sun FC,1112821,2,0,2,2,2,0,0,0,0,0,1757811600,Ended
+USA,USL Super League,25/26,1,14326754,Spokane Zephyr FC,938068,Tampa Bay Sun FC,1112821,0,0,0,0,0,1,0,1,1,1,1762718400,Ended
+USA,USL Super League,25/26,1,14326781,Tampa Bay Sun FC,1112821,Spokane Zephyr FC,938068,1,1,2,2,2,1,1,2,2,2,1769905800,Ended

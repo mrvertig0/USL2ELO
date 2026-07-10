@@ -1,0 +1,120 @@
+{
+  "generated_at_utc": "2026-07-10T10:58:39.723587+00:00",
+  "data_fetched_at_utc": "2026-07-10T10:58:38.705476+00:00",
+  "matches_used": 242,
+  "k_factor": 26.0,
+  "home_advantage": 60.0,
+  "starting_rating": 1500.0,
+  "recent_form_window": 5,
+  "teams": [
+    {
+      "team_id": 507682,
+      "team": "Carolina Ascent",
+      "rating": 1646.7,
+      "games_played": 57,
+      "wins": 29,
+      "draws": 15,
+      "losses": 13,
+      "delta_recent": 63.9,
+      "delta_recent_games": 5,
+      "rank": 1
+    },
+    {
+      "team_id": 1077193,
+      "team": "Sporting Jacksonville",
+      "rating": 1596.1,
+      "games_played": 29,
+      "wins": 16,
+      "draws": 5,
+      "losses": 8,
+      "delta_recent": -33.9,
+      "delta_recent_games": 5,
+      "rank": 2
+    },
+    {
+      "team_id": 465515,
+      "team": "Lexington SC",
+      "rating": 1591.4,
+      "games_played": 57,
+      "wins": 19,
+      "draws": 17,
+      "losses": 21,
+      "delta_recent": 47.4,
+      "delta_recent_games": 5,
+      "rank": 3
+    },
+    {
+      "team_id": 938068,
+      "team": "Spokane Zephyr FC",
+      "rating": 1546.9,
+      "games_played": 56,
+      "wins": 21,
+      "draws": 18,
+      "losses": 17,
+      "delta_recent": 47.7,
+      "delta_recent_games": 5,
+      "rank": 4
+    },
+    {
+      "team_id": 938069,
+      "team": "Dallas Trinity",
+      "rating": 1488.7,
+      "games_played": 58,
+      "wins": 23,
+      "draws": 14,
+      "losses": 21,
+      "delta_recent": 25.7,
+      "delta_recent_games": 5,
+      "rank": 5
+    },
+    {
+      "team_id": 938777,
+      "team": "DC Power FC",
+      "rating": 1452.0,
+      "games_played": 56,
+      "wins": 13,
+      "draws": 18,
+      "losses": 25,
+      "delta_recent": 21.4,
+      "delta_recent_games": 5,
+      "rank": 6
+    },
+    {
+      "team_id": 938778,
+      "team": "Brooklyn FC",
+      "rating": 1421.1,
+      "games_played": 56,
+      "wins": 16,
+      "draws": 17,
+      "losses": 23,
+      "delta_recent": -8.7,
+      "delta_recent_games": 5,
+      "rank": 7
+    },
+    {
+      "team_id": 1112821,
+      "team": "Tampa Bay Sun FC",
+      "rating": 1418.1,
+      "games_played": 58,
+      "wins": 19,
+      "draws": 19,
+      "losses": 20,
+      "delta_recent": -39.8,
+      "delta_recent_games": 5,
+      "rank": 8
+    },
+    {
+      "team_id": 1041471,
+      "team": "Fort Lauderdale United",
+      "rating": 1339.0,
+      "games_played": 57,
+      "wins": 16,
+      "draws": 17,
+      "losses": 24,
+      "delta_recent": -63.2,
+      "delta_recent_games": 5,
+      "rank": 9
+    }
+  ],
+  "league_draw_rate": 0.2893
+}

@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-09T23:14:39.681824+00:00",
-  "data_fetched_at_utc": "2026-07-09T23:14:39.202996+00:00",
+  "generated_at_utc": "2026-07-10T10:58:39.379958+00:00",
+  "data_fetched_at_utc": "2026-07-10T10:55:31.535537+00:00",
   "matches_used": 496,
   "k_factor": 26.0,
   "home_advantage": 60.0,
@@ -94,12 +94,12 @@
     {
       "team_id": 1084999,
       "team": "Santa Clarita Blue Heat FC",
-      "rating": 1637.4,
+      "rating": 1637.3,
       "games_played": 10,
       "wins": 7,
       "draws": 2,
       "losses": 1,
-      "delta_recent": 101.5,
+      "delta_recent": 101.4,
       "delta_recent_games": 5,
       "rank": 8
     },
@@ -742,12 +742,12 @@
     {
       "team_id": 1085001,
       "team": "OC Sporting FC",
-      "rating": 1474.4,
+      "rating": 1474.8,
       "games_played": 2,
       "wins": 0,
       "draws": 0,
       "losses": 2,
-      "delta_recent": -25.6,
+      "delta_recent": -25.2,
       "delta_recent_games": 2,
       "rank": 62
     },
@@ -1042,7 +1042,7 @@
     {
       "team_id": 1225167,
       "team": "Socal Reds FC",
-      "rating": 1375.8,
+      "rating": 1375.5,
       "games_played": 9,
       "wins": 0,
       "draws": 1,

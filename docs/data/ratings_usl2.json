@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-07-09T23:14:39.524016+00:00",
-  "data_fetched_at_utc": "2026-07-09T23:13:15.015446+00:00",
-  "matches_used": 4723,
+  "generated_at_utc": "2026-07-10T10:58:39.106567+00:00",
+  "data_fetched_at_utc": "2026-07-10T10:54:07.342517+00:00",
+  "matches_used": 4727,
   "k_factor": 26.0,
   "home_advantage": 60.0,
   "starting_rating": 1500.0,
@@ -10,7 +10,7 @@
     {
       "team_id": 407738,
       "team": "Vermont Green FC",
-      "rating": 1857.0,
+      "rating": 1857.1,
       "games_played": 75,
       "wins": 55,
       "draws": 9,
@@ -111,7 +111,7 @@
       "wins": 73,
       "draws": 14,
       "losses": 14,
-      "delta_recent": -20.5,
+      "delta_recent": -20.6,
       "delta_recent_games": 5,
       "rank": 9
     },
@@ -171,7 +171,7 @@
       "wins": 59,
       "draws": 19,
       "losses": 13,
-      "delta_recent": -12.6,
+      "delta_recent": -12.5,
       "delta_recent_games": 5,
       "rank": 14
     },
@@ -255,7 +255,7 @@
       "wins": 40,
       "draws": 8,
       "losses": 13,
-      "delta_recent": -36.3,
+      "delta_recent": -36.2,
       "delta_recent_games": 5,
       "rank": 21
     },
@@ -440,18 +440,6 @@
       "rank": 36
     },
     {
-      "team_id": 383424,
-      "team": "Northern Virginia FC",
-      "rating": 1625.2,
-      "games_played": 79,
-      "wins": 43,
-      "draws": 12,
-      "losses": 24,
-      "delta_recent": 8.8,
-      "delta_recent_games": 5,
-      "rank": 37
-    },
-    {
       "team_id": 253783,
       "team": "Chicago FC United",
       "rating": 1625.1,
@@ -461,7 +449,31 @@
       "losses": 5,
       "delta_recent": 55.2,
       "delta_recent_games": 5,
+      "rank": 37
+    },
+    {
+      "team_id": 383424,
+      "team": "Northern Virginia FC",
+      "rating": 1625.1,
+      "games_played": 79,
+      "wins": 43,
+      "draws": 12,
+      "losses": 24,
+      "delta_recent": 8.8,
+      "delta_recent_games": 5,
       "rank": 38
+    },
+    {
+      "team_id": 1077315,
+      "team": "New England FC",
+      "rating": 1624.5,
+      "games_played": 28,
+      "wins": 18,
+      "draws": 3,
+      "losses": 7,
+      "delta_recent": -7.4,
+      "delta_recent_games": 5,
+      "rank": 39
     },
     {
       "team_id": 253178,
@@ -472,18 +484,6 @@
       "draws": 16,
       "losses": 32,
       "delta_recent": 27.9,
-      "delta_recent_games": 5,
-      "rank": 39
-    },
-    {
-      "team_id": 1077315,
-      "team": "New England FC",
-      "rating": 1620.6,
-      "games_played": 27,
-      "wins": 17,
-      "draws": 3,
-      "losses": 7,
-      "delta_recent": -1.3,
       "delta_recent_games": 5,
       "rank": 40
     },
@@ -586,24 +586,24 @@
     {
       "team_id": 419461,
       "team": "West Chester United",
-      "rating": 1593.6,
+      "rating": 1593.5,
       "games_played": 55,
       "wins": 29,
       "draws": 14,
       "losses": 12,
-      "delta_recent": -14.3,
+      "delta_recent": -14.4,
       "delta_recent_games": 5,
       "rank": 49
     },
     {
       "team_id": 465623,
       "team": "Sarasota Paradise",
-      "rating": 1592.8,
+      "rating": 1592.7,
       "games_played": 19,
       "wins": 12,
       "draws": 0,
       "losses": 7,
-      "delta_recent": 53.6,
+      "delta_recent": 53.5,
       "delta_recent_games": 5,
       "rank": 50
     },
@@ -639,14 +639,14 @@
       "wins": 68,
       "draws": 18,
       "losses": 20,
-      "delta_recent": -57.2,
+      "delta_recent": -57.1,
       "delta_recent_games": 5,
       "rank": 53
     },
     {
       "team_id": 253404,
       "team": "Seacoast United Phantoms",
-      "rating": 1588.7,
+      "rating": 1588.8,
       "games_played": 106,
       "wins": 65,
       "draws": 11,
@@ -706,7 +706,7 @@
     {
       "team_id": 316287,
       "team": "Florida Elite SA",
-      "rating": 1580.3,
+      "rating": 1580.2,
       "games_played": 40,
       "wins": 19,
       "draws": 7,
@@ -800,18 +800,6 @@
       "rank": 66
     },
     {
-      "team_id": 253410,
-      "team": "West Virginia United",
-      "rating": 1572.4,
-      "games_played": 90,
-      "wins": 40,
-      "draws": 20,
-      "losses": 30,
-      "delta_recent": 0.7,
-      "delta_recent_games": 5,
-      "rank": 67
-    },
-    {
       "team_id": 253335,
       "team": "Lane United FC",
       "rating": 1569.5,
@@ -821,7 +809,7 @@
       "losses": 10,
       "delta_recent": 13.5,
       "delta_recent_games": 5,
-      "rank": 68
+      "rank": 67
     },
     {
       "team_id": 253785,
@@ -833,7 +821,7 @@
       "losses": 3,
       "delta_recent": 34.8,
       "delta_recent_games": 5,
-      "rank": 69
+      "rank": 68
     },
     {
       "team_id": 407748,
@@ -845,19 +833,19 @@
       "losses": 3,
       "delta_recent": 15.5,
       "delta_recent_games": 5,
-      "rank": 70
+      "rank": 69
     },
     {
       "team_id": 224816,
       "team": "South Carolina United FC",
-      "rating": 1555.5,
+      "rating": 1555.4,
       "games_played": 94,
       "wins": 54,
       "draws": 17,
       "losses": 23,
-      "delta_recent": -12.6,
+      "delta_recent": -12.7,
       "delta_recent_games": 5,
-      "rank": 71
+      "rank": 70
     },
     {
       "team_id": 465629,
@@ -868,6 +856,18 @@
       "draws": 2,
       "losses": 7,
       "delta_recent": 53.3,
+      "delta_recent_games": 5,
+      "rank": 71
+    },
+    {
+      "team_id": 253410,
+      "team": "West Virginia United",
+      "rating": 1552.4,
+      "games_played": 91,
+      "wins": 40,
+      "draws": 20,
+      "losses": 31,
+      "delta_recent": -28.3,
       "delta_recent_games": 5,
       "rank": 72
     },
@@ -1083,19 +1083,19 @@
       "wins": 7,
       "draws": 1,
       "losses": 5,
-      "delta_recent": 69.4,
+      "delta_recent": 69.5,
       "delta_recent_games": 5,
       "rank": 90
     },
     {
       "team_id": 253664,
       "team": "Tampa Bay Rowdies U23",
-      "rating": 1520.2,
+      "rating": 1521.5,
       "games_played": 2,
       "wins": 1,
       "draws": 1,
       "losses": 0,
-      "delta_recent": 20.2,
+      "delta_recent": 21.5,
       "delta_recent_games": 2,
       "rank": 91
     },
@@ -1126,12 +1126,12 @@
     {
       "team_id": 284122,
       "team": "Black Rock FC",
-      "rating": 1518.8,
+      "rating": 1518.9,
       "games_played": 95,
       "wins": 30,
       "draws": 19,
       "losses": 46,
-      "delta_recent": 30.1,
+      "delta_recent": 30.0,
       "delta_recent_games": 5,
       "rank": 94
     },
@@ -1402,12 +1402,12 @@
     {
       "team_id": 313655,
       "team": "Northern Virginia United",
-      "rating": 1495.4,
+      "rating": 1495.9,
       "games_played": 3,
       "wins": 1,
       "draws": 1,
       "losses": 1,
-      "delta_recent": -4.6,
+      "delta_recent": -4.1,
       "delta_recent_games": 3,
       "rank": 117
     },
@@ -1474,12 +1474,12 @@
     {
       "team_id": 1173430,
       "team": "Hill City FC",
-      "rating": 1493.3,
+      "rating": 1493.2,
       "games_played": 13,
       "wins": 6,
       "draws": 0,
       "losses": 7,
-      "delta_recent": -3.9,
+      "delta_recent": -4.0,
       "delta_recent_games": 5,
       "rank": 123
     },
@@ -1522,12 +1522,12 @@
     {
       "team_id": 23633,
       "team": "Charlotte Eagles",
-      "rating": 1488.8,
+      "rating": 1488.7,
       "games_played": 94,
       "wins": 39,
       "draws": 21,
       "losses": 34,
-      "delta_recent": -3.9,
+      "delta_recent": -4.0,
       "delta_recent_games": 5,
       "rank": 127
     },
@@ -1539,7 +1539,7 @@
       "wins": 30,
       "draws": 11,
       "losses": 27,
-      "delta_recent": -38.8,
+      "delta_recent": -38.7,
       "delta_recent_games": 5,
       "rank": 128
     },
@@ -1714,12 +1714,12 @@
     {
       "team_id": 1173432,
       "team": "SC Jacksonville II",
-      "rating": 1476.1,
+      "rating": 1476.0,
       "games_played": 12,
       "wins": 2,
       "draws": 6,
       "losses": 4,
-      "delta_recent": -21.7,
+      "delta_recent": -21.8,
       "delta_recent_games": 5,
       "rank": 143
     },
@@ -1832,28 +1832,16 @@
       "rank": 152
     },
     {
-      "team_id": 1173441,
-      "team": "Real Colorado",
-      "rating": 1463.2,
-      "games_played": 11,
-      "wins": 4,
-      "draws": 1,
-      "losses": 6,
-      "delta_recent": -27.3,
-      "delta_recent_games": 5,
-      "rank": 153
-    },
-    {
       "team_id": 507378,
       "team": "Brooke House FC",
-      "rating": 1462.9,
+      "rating": 1462.8,
       "games_played": 36,
       "wins": 7,
       "draws": 11,
       "losses": 18,
-      "delta_recent": 1.9,
+      "delta_recent": 1.8,
       "delta_recent_games": 5,
-      "rank": 154
+      "rank": 153
     },
     {
       "team_id": 1173434,
@@ -1865,7 +1853,7 @@
       "losses": 6,
       "delta_recent": -7.1,
       "delta_recent_games": 5,
-      "rank": 155
+      "rank": 154
     },
     {
       "team_id": 253791,
@@ -1876,6 +1864,18 @@
       "draws": 20,
       "losses": 41,
       "delta_recent": 20.8,
+      "delta_recent_games": 5,
+      "rank": 155
+    },
+    {
+      "team_id": 1173441,
+      "team": "Real Colorado",
+      "rating": 1458.2,
+      "games_played": 12,
+      "wins": 4,
+      "draws": 2,
+      "losses": 6,
+      "delta_recent": -42.5,
       "delta_recent_games": 5,
       "rank": 156
     },
@@ -2002,12 +2002,12 @@
     {
       "team_id": 253403,
       "team": "FC Boston Bolts",
-      "rating": 1448.2,
+      "rating": 1448.3,
       "games_played": 96,
       "wins": 34,
       "draws": 22,
       "losses": 40,
-      "delta_recent": -14.1,
+      "delta_recent": -14.0,
       "delta_recent_games": 5,
       "rank": 167
     },
@@ -2025,7 +2025,7 @@
     },
     {
       "team_id": 253836,
-      "team": "Fc Wichita",
+      "team": "FC Wichita",
       "rating": 1447.3,
       "games_played": 11,
       "wins": 3,
@@ -2074,7 +2074,7 @@
     {
       "team_id": 465620,
       "team": "Swan City SC",
-      "rating": 1444.6,
+      "rating": 1444.5,
       "games_played": 12,
       "wins": 2,
       "draws": 3,
@@ -2110,7 +2110,7 @@
     {
       "team_id": 384040,
       "team": "Tampa Bay United SC",
-      "rating": 1442.5,
+      "rating": 1441.8,
       "games_played": 24,
       "wins": 5,
       "draws": 6,
@@ -2410,12 +2410,12 @@
     {
       "team_id": 417739,
       "team": "Flatirons SC",
-      "rating": 1382.2,
-      "games_played": 56,
+      "rating": 1387.2,
+      "games_played": 57,
       "wins": 23,
-      "draws": 8,
+      "draws": 9,
       "losses": 25,
-      "delta_recent": -66.6,
+      "delta_recent": -44.1,
       "delta_recent_games": 5,
       "rank": 201
     },
@@ -2434,12 +2434,12 @@
     {
       "team_id": 253660,
       "team": "AC Connecticut",
-      "rating": 1373.2,
+      "rating": 1373.3,
       "games_played": 97,
       "wins": 25,
       "draws": 13,
       "losses": 59,
-      "delta_recent": 4.3,
+      "delta_recent": 4.2,
       "delta_recent_games": 5,
       "rank": 203
     },
@@ -2458,7 +2458,7 @@
     {
       "team_id": 253665,
       "team": "Weston FC",
-      "rating": 1371.8,
+      "rating": 1371.7,
       "games_played": 84,
       "wins": 22,
       "draws": 14,
@@ -2470,12 +2470,12 @@
     {
       "team_id": 407743,
       "team": "Blackwatch Rush",
-      "rating": 1371.8,
-      "games_played": 66,
-      "wins": 17,
+      "rating": 1368.7,
+      "games_played": 68,
+      "wins": 18,
       "draws": 9,
-      "losses": 40,
-      "delta_recent": 38.1,
+      "losses": 41,
+      "delta_recent": 37.3,
       "delta_recent_games": 5,
       "rank": 206
     },
@@ -2576,18 +2576,6 @@
       "rank": 214
     },
     {
-      "team_id": 380873,
-      "team": "Pathfinder FC",
-      "rating": 1342.7,
-      "games_played": 55,
-      "wins": 10,
-      "draws": 12,
-      "losses": 33,
-      "delta_recent": -19.1,
-      "delta_recent_games": 5,
-      "rank": 215
-    },
-    {
       "team_id": 465618,
       "team": "Brevard Fire SC",
       "rating": 1341.4,
@@ -2595,7 +2583,19 @@
       "wins": 9,
       "draws": 7,
       "losses": 32,
-      "delta_recent": 0.1,
+      "delta_recent": 0.2,
+      "delta_recent_games": 5,
+      "rank": 215
+    },
+    {
+      "team_id": 380873,
+      "team": "Pathfinder FC",
+      "rating": 1340.9,
+      "games_played": 56,
+      "wins": 10,
+      "draws": 12,
+      "losses": 34,
+      "delta_recent": -18.2,
       "delta_recent_games": 5,
       "rank": 216
     },
@@ -2696,6 +2696,18 @@
       "rank": 224
     },
     {
+      "team_id": 71058,
+      "team": "Dayton Dutch Lions FC",
+      "rating": 1320.1,
+      "games_played": 84,
+      "wins": 17,
+      "draws": 9,
+      "losses": 58,
+      "delta_recent": 59.0,
+      "delta_recent_games": 5,
+      "rank": 225
+    },
+    {
       "team_id": 407742,
       "team": "Blue Goose SC",
       "rating": 1320.1,
@@ -2705,7 +2717,7 @@
       "losses": 21,
       "delta_recent": -35.0,
       "delta_recent_games": 5,
-      "rank": 225
+      "rank": 226
     },
     {
       "team_id": 313608,
@@ -2717,7 +2729,7 @@
       "losses": 42,
       "delta_recent": -54.4,
       "delta_recent_games": 5,
-      "rank": 226
+      "rank": 227
     },
     {
       "team_id": 373732,
@@ -2729,7 +2741,7 @@
       "losses": 19,
       "delta_recent": -37.4,
       "delta_recent_games": 5,
-      "rank": 227
+      "rank": 228
     },
     {
       "team_id": 380877,
@@ -2740,18 +2752,6 @@
       "draws": 7,
       "losses": 26,
       "delta_recent": -48.3,
-      "delta_recent_games": 5,
-      "rank": 228
-    },
-    {
-      "team_id": 71058,
-      "team": "Dayton Dutch Lions FC",
-      "rating": 1300.0,
-      "games_played": 83,
-      "wins": 16,
-      "draws": 9,
-      "losses": 58,
-      "delta_recent": 35.1,
       "delta_recent_games": 5,
       "rank": 229
     },
@@ -2866,7 +2866,7 @@
     {
       "team_id": 253850,
       "team": "Boston City FC",
-      "rating": 1184.0,
+      "rating": 1184.1,
       "games_played": 68,
       "wins": 10,
       "draws": 9,
@@ -2878,15 +2878,15 @@
     {
       "team_id": 407757,
       "team": "Patuxent Football Athletics",
-      "rating": 1181.0,
+      "rating": 1180.9,
       "games_played": 65,
       "wins": 6,
       "draws": 7,
       "losses": 52,
-      "delta_recent": -30.0,
+      "delta_recent": -30.1,
       "delta_recent_games": 5,
       "rank": 240
     }
   ],
-  "league_draw_rate": 0.1713
+  "league_draw_rate": 0.1714
 }
