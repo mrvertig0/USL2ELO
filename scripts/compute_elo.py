@@ -53,6 +53,54 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 OUT_DIR = ROOT / "docs" / "data"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
+ALIASES_PATH = Path(__file__).resolve().parent / "team_aliases.json"
+
+
+def load_team_aliases() -> tuple[dict[int, int], dict[int, str]]:
+    """Returns ({team_id: canonical_team_id}, {canonical_team_id: forced_name}).
+    Canonical id = the smallest id in the group, just for determinism --
+    the *display name* defaults to whichever name appears on that club's
+    most recent match (see run_elo_pass), unless a group specifies an
+    explicit "name" override."""
+    if not ALIASES_PATH.exists():
+        return {}, {}
+    data = json.loads(ALIASES_PATH.read_text())
+    id_to_canonical = {}
+    forced_names = {}
+    for group in data.get("merges", []):
+        ids = group.get("team_ids", [])
+        if len(ids) < 2:
+            continue
+        canonical = min(ids)
+        for tid in ids:
+            id_to_canonical[tid] = canonical
+        if group.get("name"):
+            forced_names[canonical] = group["name"]
+    return id_to_canonical, forced_names
+
+
+def apply_aliases(df: pd.DataFrame, id_to_canonical: dict[int, int], forced_names: dict[int, str]) -> pd.DataFrame:
+    if not id_to_canonical:
+        return df
+    df = df.copy()
+    df["home_team_id"] = df["home_team_id"].apply(
+        lambda x: id_to_canonical.get(int(x), int(x)) if pd.notna(x) else x)
+    df["away_team_id"] = df["away_team_id"].apply(
+        lambda x: id_to_canonical.get(int(x), int(x)) if pd.notna(x) else x)
+    if forced_names:
+        df["home_team"] = df.apply(
+            lambda r: forced_names.get(r["home_team_id"], r["home_team"]), axis=1)
+        df["away_team"] = df.apply(
+            lambda r: forced_names.get(r["away_team_id"], r["away_team"]), axis=1)
+    # A merge can turn a real historical match into a team "playing itself"
+    # if the two aliased ids ever actually met (shouldn't happen for a true
+    # rename, but drop defensively rather than silently corrupt a rating).
+    self_matches = df["home_team_id"] == df["away_team_id"]
+    if self_matches.any():
+        print(f"Warning: dropping {self_matches.sum()} match(es) that became "
+              f"team-vs-itself after applying team_aliases.json -- check that alias group.")
+        df = df[~self_matches]
+    return df
 
 
 def goal_diff_multiplier(goal_diff: int) -> float:
@@ -75,9 +123,9 @@ def run_elo_pass(matches: pd.DataFrame) -> tuple[list[dict], dict[str, list]]:
     def ensure_team(team_id: int, name: str):
         if team_id not in ratings:
             ratings[team_id] = STARTING_RATING
-            names[team_id] = name
             record[team_id] = {"wins": 0, "draws": 0, "losses": 0, "gp": 0}
             history[team_id] = [{"t": None, "rating": STARTING_RATING}]
+        names[team_id] = name  # always overwrite -> ends up as the most recent name seen
 
     for _, row in matches.iterrows():
         hid, aid = int(row["home_team_id"]), int(row["away_team_id"])
@@ -199,6 +247,13 @@ def compute_league(key: str, cfg: dict):
     finished = finished.dropna(subset=["home_score_current", "away_score_current"])
     finished["start_timestamp"] = pd.to_numeric(finished["start_timestamp"], errors="coerce")
     finished = finished.sort_values("start_timestamp", kind="stable")
+
+    id_to_canonical, forced_names = load_team_aliases()
+    if id_to_canonical:
+        before = finished[["home_team_id", "away_team_id"]].stack().nunique()
+        finished = apply_aliases(finished, id_to_canonical, forced_names)
+        after = finished[["home_team_id", "away_team_id"]].stack().nunique()
+        print(f"Applied team_aliases.json: {before} distinct team_ids -> {after} after merging")
 
     meta_path = DATA_DIR / f"meta_{key}.json"
     fetched_at = None

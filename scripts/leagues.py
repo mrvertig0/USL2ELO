@@ -34,6 +34,28 @@ def _wleague_filter(name) -> bool:
     return "usl" in norm and "w league" in norm
 
 
+def _championship_filter(name) -> bool:
+    norm = _normalize(name)
+    # Sofascore has a separate "USL Championship Old" tournament id for
+    # the league's pre-2019 branding (it was "USL" / "USL Pro" before
+    # settling on "USL Championship") -- exclude it the same way PDL is
+    # excluded from League Two, so old-branding results don't get folded
+    # into the modern Championship ratings.
+    if "old" in norm:
+        return False
+    return "usl" in norm and "championship" in norm
+
+
+def _league_one_filter(name) -> bool:
+    norm = _normalize(name)
+    return "usl" in norm and "league one" in norm
+
+
+def _super_league_filter(name) -> bool:
+    norm = _normalize(name)
+    return "usl" in norm and "super league" in norm
+
+
 LEAGUES = {
     "usl2": {
         "label": "USL League Two",
@@ -48,5 +70,26 @@ LEAGUES = {
         # https://www.sofascore.com/football/tournament/usa/usl-w-league/18890
         "tournament_id": 18890,
         "name_filter": _wleague_filter,
+    },
+    "champ": {
+        "label": "USL Championship",
+        "short_label": "Championship",
+        # https://www.sofascore.com/football/tournament/usa/usl-championship/13363
+        "tournament_id": 13363,
+        "name_filter": _championship_filter,
+    },
+    "l1": {
+        "label": "USL League One",
+        "short_label": "League One",
+        # https://www.sofascore.com/football/tournament/usa/usl-league-one/13362
+        "tournament_id": 13362,
+        "name_filter": _league_one_filter,
+    },
+    "superleague": {
+        "label": "USL Super League",
+        "short_label": "Super League",
+        # https://www.sofascore.com/football/tournament/usa/usl-super-league-women/28384
+        "tournament_id": 28384,
+        "name_filter": _super_league_filter,
     },
 }

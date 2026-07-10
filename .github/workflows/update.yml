@@ -8,7 +8,7 @@ name: Publish USL2 Elo site
 # IP-reputation block, not something fixable with headers or retries).
 # So the fetch has to run somewhere with a normal residential IP
 # instead: your own computer, on a schedule. See README.md ("Automating
-# the daily update") for how that's set up.
+# the daily update") for how that's set up with Windows Task Scheduler.
 #
 # This workflow just takes whatever is currently in docs/ and (re)publishes
 # it to GitHub Pages, any time main changes -- including when your
@@ -17,7 +17,7 @@ name: Publish USL2 Elo site
 on:
   push:
     branches: [main]
-  workflow_dispatch: {}
+  workflow_dispatch: {}   # lets you trigger a manual publish from the Actions tab
 
 permissions:
   contents: read

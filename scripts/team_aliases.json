@@ -1,0 +1,4 @@
+{
+  "_comment": "Clubs that Sofascore split across multiple team_ids (a rename, or an inconsistent 'II' suffix that isn't a real reserve side). Run find_duplicate_candidates.py to get a list of likely candidates with their team_ids. Each entry in 'merges' is one club: team_ids lists every id that's really the same club, 'name' is optional -- if omitted, compute_elo.py uses whichever name appears on that club's most recent match. Start empty; add entries as you confirm them.",
+  "merges": []
+}

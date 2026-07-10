@@ -41,10 +41,22 @@
       label: "USL W League",
       allTimeNote: "Every result since the league launched, folded into one running rating. Recalculated after every update.",
     },
+    champ: {
+      label: "USL Championship",
+      allTimeNote: "Every result since the league's modern Championship branding, folded into one running rating. Recalculated after every update.",
+    },
+    l1: {
+      label: "USL League One",
+      allTimeNote: "Every result since the league launched in 2019, folded into one running rating. Recalculated after every update.",
+    },
+    superleague: {
+      label: "USL Super League",
+      allTimeNote: "Every result since the league launched, folded into one running rating. Recalculated after every update.",
+    },
   };
 
   // datasets[league][scope] = { ratings, teams, history }
-  var datasets = { usl2: {}, wleague: {} };
+  var datasets = { usl2: {}, wleague: {}, champ: {}, l1: {}, superleague: {} };
   var activeLeague = "usl2";
   var activeScope = "all_time";
 
@@ -510,7 +522,13 @@
     });
   }
 
-  Promise.all([loadLeague("usl2"), loadLeague("wleague")])
+  Promise.all([
+    loadLeague("usl2"),
+    loadLeague("wleague"),
+    loadLeague("champ"),
+    loadLeague("l1"),
+    loadLeague("superleague"),
+  ])
     .then(function () {
       render();
     })

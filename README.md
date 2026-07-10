@@ -124,6 +124,49 @@ git push
 
 That push republishes the live site automatically.
 
+## Cleaning up duplicate/renamed clubs
+
+Sofascore sometimes splits one real club across multiple `team_id`s --
+usually because it renamed at some point, or because it recorded an
+inconsistent "II" suffix that isn't actually a separate reserve side.
+Two tools handle this:
+
+1. **Find candidates:**
+   ```bash
+   python3 scripts/find_duplicate_candidates.py
+   ```
+   This groups clubs by normalized name (ignoring punctuation and
+   reserve-side suffixes like "II"/"B"/"Reserves") and flags groups with
+   more than one `team_id`. It also checks whether the two ids were ever
+   active at the same time:
+   - **No overlap** (one stopped right around when the other started) →
+     labeled "likely rename" -- probably the same club.
+   - **Overlap** (both playing in the same season) → labeled "possible
+     reserve side" -- probably two genuinely different teams, shown for
+     your judgment rather than assumed.
+
+   This only catches clubs whose *name* stayed similar. A full rebrand to
+   a completely different name (no shared words at all) won't show up
+   here -- those you can only catch by recognizing the club yourself, the
+   way the original Motown FC / Motown FC II case was found.
+
+2. **Confirm real merges** in `scripts/team_aliases.json`:
+   ```json
+   {
+     "merges": [
+       {"team_ids": [111111, 222222]}
+     ]
+   }
+   ```
+   Each entry is one club; `team_ids` lists every id that's really the
+   same club. The displayed name defaults to whichever name appears on
+   that club's most recent match -- add an explicit `"name"` field to
+   the entry only if you want to override that.
+
+`compute_elo.py` applies this file automatically before computing
+ratings, for every league. Re-run `python3 scripts/compute_elo.py` (or
+`./scripts/run_update.sh`) after editing it to see the merge take effect.
+
 ## Automating the daily update
 
 Since the fetch has to run from your computer, "automatic" here means

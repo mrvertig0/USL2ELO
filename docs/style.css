@@ -31,6 +31,24 @@ body[data-league="wleague"] {
   --league-accent-text: #33195c;
 }
 
+body[data-league="champ"] {
+  /* Championship's brand is black + gold */
+  --league-accent: #e8c15c;
+  --league-accent-text: #4a3a08;
+}
+
+body[data-league="l1"] {
+  /* League One's brand is a bright blue */
+  --league-accent: #6fa8f5;
+  --league-accent-text: #0a2c52;
+}
+
+body[data-league="superleague"] {
+  /* USL Super League's brand color is orange. */
+  --league-accent: #ff9d47;
+  --league-accent-text: #5c2e05;
+}
+
 * { box-sizing: border-box; }
 
 html { scroll-behavior: smooth; }
