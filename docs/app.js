@@ -19,6 +19,17 @@
   var modalTeamName = document.getElementById("modal-team-name");
   var modalTeamSub = document.getElementById("modal-team-sub");
   var modalChartWrap = document.getElementById("modal-chart-wrap");
+  var modalCopyLink = document.getElementById("modal-copy-link");
+  var hofOpenBtn = document.getElementById("hof-open");
+  var hofOverlay = document.getElementById("hof-overlay");
+  var hofClose = document.getElementById("hof-close");
+  var hofLeagueName = document.getElementById("hof-league-name");
+  var hofPeak = document.getElementById("hof-peak");
+  var hofWinStreak = document.getElementById("hof-win-streak");
+  var hofUnbeatenStreak = document.getElementById("hof-unbeaten-streak");
+  var hofMostPlayed = document.getElementById("hof-most-played");
+  var hofLopsided = document.getElementById("hof-lopsided");
+  var hofBlowouts = document.getElementById("hof-blowouts");
   var compareOpenBtn = document.getElementById("compare-open");
   var compareOverlay = document.getElementById("compare-overlay");
   var compareClose = document.getElementById("compare-close");
@@ -148,19 +159,40 @@
     );
   }
 
-  function openModal(team, history) {
+  function openModal(team, history, league) {
     modalTeamName.textContent = team.team;
     modalTeamSub.textContent = team.wins + "W " + team.draws + "D " + team.losses + "L \u00b7 " +
       team.games_played + " matches \u00b7 current rating " + team.rating.toFixed(1);
     modalChartWrap.innerHTML = bigChart(history);
     modalOverlay.hidden = false;
     document.body.style.overflow = "hidden";
+    modalCopyLink.textContent = "Copy link";
+    var league2 = league || activeLeague;
+    history_pushHash("club/" + league2 + "/" + team.team_id);
   }
 
   function closeModal() {
     modalOverlay.hidden = true;
     document.body.style.overflow = "";
+    history_pushHash("");
   }
+
+  function history_pushHash(hash) {
+    var url = window.location.pathname + window.location.search + (hash ? "#" + hash : "");
+    window.history.replaceState(null, "", url);
+  }
+
+  modalCopyLink.addEventListener("click", function () {
+    var url = window.location.href;
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(function () {
+        modalCopyLink.textContent = "Copied!";
+        setTimeout(function () { modalCopyLink.textContent = "Copy link"; }, 1500);
+      }).catch(function () {
+        modalCopyLink.textContent = "Couldn't copy";
+      });
+    }
+  });
 
   modalClose.addEventListener("click", closeModal);
   modalOverlay.addEventListener("click", function (e) {
@@ -301,6 +333,30 @@
     });
     render();
   });
+
+  function openFromHash() {
+    var m = /^#club\/([a-z0-9]+)\/(\d+)$/.exec(window.location.hash);
+    if (!m) return;
+    var league = m[1], teamId = m[2];
+    if (!LEAGUES[league] || !datasets[league]) return;
+
+    if (league !== activeLeague) {
+      activeLeague = league;
+      document.body.dataset.league = league;
+      Array.prototype.forEach.call(leagueTabs.querySelectorAll(".league-tab"), function (b) {
+        var match = b.dataset.league === league;
+        b.classList.toggle("is-active", match);
+        b.setAttribute("aria-selected", match ? "true" : "false");
+      });
+      render();
+    }
+
+    var ds = datasets[league].all_time;
+    if (!ds) return;
+    var team = ds.teams.find(function (t) { return String(t.team_id) === teamId; });
+    if (!team) return;
+    openModal(team, ds.history[String(team.team_id)] || [], league);
+  }
 
   function loadJson(path) {
     return fetch(path).then(function (r) {
@@ -508,6 +564,100 @@
     renderCompare();
   });
 
+  // ---------- Hall of Fame ----------
+
+  function openHof() {
+    renderHof();
+    hofOverlay.hidden = false;
+    document.body.style.overflow = "hidden";
+  }
+
+  function closeHof() {
+    hofOverlay.hidden = true;
+    document.body.style.overflow = "";
+  }
+
+  hofOpenBtn.addEventListener("click", openHof);
+  hofClose.addEventListener("click", closeHof);
+  hofOverlay.addEventListener("click", function (e) {
+    if (e.target === hofOverlay) closeHof();
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape" && !hofOverlay.hidden) closeHof();
+  });
+
+  function renderRankedList(el, items, formatFn) {
+    el.innerHTML = "";
+    if (!items.length) {
+      el.innerHTML = '<li class="hof-empty">Not enough data yet.</li>';
+      return;
+    }
+    items.forEach(function (item, i) {
+      var li = document.createElement("li");
+      li.className = "hof-item";
+      li.innerHTML = '<span class="hof-rank">' + (i + 1) + "</span>" + formatFn(item);
+      el.appendChild(li);
+    });
+  }
+
+  function renderHof() {
+    var ds = datasets[activeLeague].all_time;
+    hofLeagueName.textContent = LEAGUES[activeLeague].label;
+
+    if (!ds) {
+      [hofPeak, hofWinStreak, hofUnbeatenStreak, hofMostPlayed, hofLopsided, hofBlowouts].forEach(function (el) {
+        el.innerHTML = '<li class="hof-empty">No data yet.</li>';
+      });
+      return;
+    }
+
+    var byPeak = ds.teams.slice().sort(function (a, b) { return b.peak_rating - a.peak_rating; }).slice(0, 5);
+    renderRankedList(hofPeak, byPeak, function (t) {
+      return '<span class="hof-name">' + escapeHtml(t.team) + "</span>" +
+        '<span class="hof-value">' + t.peak_rating.toFixed(1) + "</span>";
+    });
+
+    var byWinStreak = ds.teams.slice().filter(function (t) { return t.longest_win_streak > 0; })
+      .sort(function (a, b) { return b.longest_win_streak - a.longest_win_streak; }).slice(0, 5);
+    renderRankedList(hofWinStreak, byWinStreak, function (t) {
+      return '<span class="hof-name">' + escapeHtml(t.team) + "</span>" +
+        '<span class="hof-value">' + t.longest_win_streak + " game" + (t.longest_win_streak === 1 ? "" : "s") + "</span>";
+    });
+
+    var byUnbeaten = ds.teams.slice().filter(function (t) { return t.longest_unbeaten_streak > 0; })
+      .sort(function (a, b) { return b.longest_unbeaten_streak - a.longest_unbeaten_streak; }).slice(0, 5);
+    renderRankedList(hofUnbeatenStreak, byUnbeaten, function (t) {
+      return '<span class="hof-name">' + escapeHtml(t.team) + "</span>" +
+        '<span class="hof-value">' + t.longest_unbeaten_streak + " game" + (t.longest_unbeaten_streak === 1 ? "" : "s") + "</span>";
+    });
+
+    var riv = datasets[activeLeague].rivalries;
+    if (!riv) {
+      [hofMostPlayed, hofLopsided, hofBlowouts].forEach(function (el) {
+        el.innerHTML = '<li class="hof-empty">No data yet.</li>';
+      });
+      return;
+    }
+
+    renderRankedList(hofMostPlayed, riv.most_played, function (r) {
+      return '<span class="hof-name">' + escapeHtml(r.team_a) + " vs " + escapeHtml(r.team_b) + "</span>" +
+        '<span class="hof-value">' + r.meetings + " meeting" + (r.meetings === 1 ? "" : "s") +
+        ' <span class="hof-record">(' + r.wins_a + "\u2013" + r.draws + "\u2013" + r.wins_b + ")</span></span>";
+    });
+
+    renderRankedList(hofLopsided, riv.most_lopsided, function (r) {
+      return '<span class="hof-name">' + escapeHtml(r.team_a) + " vs " + escapeHtml(r.team_b) + "</span>" +
+        '<span class="hof-value">' + r.wins_a + "\u2013" + r.draws + "\u2013" + r.wins_b +
+        ' <span class="hof-record">(' + r.meetings + " meetings)</span></span>";
+    });
+
+    renderRankedList(hofBlowouts, riv.biggest_blowouts, function (m) {
+      var date = m.t ? new Date(m.t * 1000).toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" }) : "";
+      return '<span class="hof-name">' + escapeHtml(m.home) + " " + m.hs + "\u2013" + m.as + " " + escapeHtml(m.away) + "</span>" +
+        '<span class="hof-value"><span class="hof-record">' + escapeHtml(date) + "</span></span>";
+    });
+  }
+
   function loadLeague(key) {
     return Promise.all([
       loadJson("data/ratings_" + key + ".json").catch(function () { return null; }),
@@ -515,10 +665,12 @@
       loadJson("data/ratings_" + key + "_season.json").catch(function () { return null; }),
       loadJson("data/history_" + key + "_season.json").catch(function () { return {}; }),
       loadJson("data/matches_" + key + ".json").catch(function () { return []; }),
+      loadJson("data/rivalries_" + key + ".json").catch(function () { return null; }),
     ]).then(function (r) {
       if (r[0]) datasets[key].all_time = { ratings: r[0], teams: r[0].teams || [], history: r[1] || {} };
       if (r[2]) datasets[key].season = { ratings: r[2], teams: r[2].teams || [], history: r[3] || {} };
       datasets[key].matches = r[4] || [];
+      datasets[key].rivalries = r[5] || null;
     });
   }
 
@@ -531,6 +683,7 @@
   ])
     .then(function () {
       render();
+      openFromHash();
     })
     .catch(function (err) {
       boardBody.innerHTML =

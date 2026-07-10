@@ -502,6 +502,7 @@ footer {
   .compare-pickers { flex-direction: column; align-items: stretch; }
   .compare-vs { text-align: center; }
   .compare-odds-grid { grid-template-columns: 1fr; }
+  .hof-sections { grid-template-columns: 1fr; }
 }
 
 /* ---------- compare clubs ---------- */
@@ -670,4 +671,98 @@ footer {
   line-height: 1.5;
   margin-top: 0.9rem;
   text-align: center;
+}
+
+/* ---------- modal copy-link button ---------- */
+
+.modal-copy-link {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  color: var(--turf);
+  background: none;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  padding: 0.28rem 0.6rem;
+  margin-top: 0.5rem;
+  cursor: pointer;
+}
+
+.modal-copy-link:hover { background: rgba(79, 157, 110, 0.08); }
+
+/* ---------- hall of fame ---------- */
+
+.hof-sections {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.4rem 1.8rem;
+}
+
+.hof-section { min-width: 0; }
+
+.hof-heading {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1rem;
+  margin: 0 0 0.5rem;
+  color: var(--ink);
+}
+
+.hof-subnote {
+  font-size: 0.75rem;
+  color: rgba(20, 35, 29, 0.45);
+  margin: -0.3rem 0 0.5rem;
+}
+
+.hof-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.hof-item {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+}
+
+.hof-rank {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  color: rgba(20, 35, 29, 0.4);
+  flex-shrink: 0;
+  width: 1.1em;
+}
+
+.hof-name {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 500;
+}
+
+.hof-list-rivalry .hof-name { white-space: normal; }
+
+.hof-value {
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  font-weight: 600;
+  flex-shrink: 0;
+  text-align: right;
+}
+
+.hof-record {
+  font-weight: 400;
+  color: rgba(20, 35, 29, 0.5);
+}
+
+.hof-empty {
+  font-size: 0.8rem;
+  color: rgba(20, 35, 29, 0.45);
+  font-style: italic;
 }

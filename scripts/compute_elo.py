@@ -119,13 +119,32 @@ def run_elo_pass(matches: pd.DataFrame) -> tuple[list[dict], dict[str, list]]:
     names: dict[int, str] = {}
     record: dict[int, dict] = {}   # team_id -> {wins, draws, losses, gp}
     history: dict[int, list] = {}  # team_id -> [{"t": timestamp, "rating": r}, ...]
+    peak: dict[int, dict] = {}     # team_id -> {"rating": float, "t": timestamp}
+    streaks: dict[int, dict] = {}  # team_id -> {"win": int, "unbeaten": int, "best_win": int, "best_unbeaten": int}
 
     def ensure_team(team_id: int, name: str):
         if team_id not in ratings:
             ratings[team_id] = STARTING_RATING
             record[team_id] = {"wins": 0, "draws": 0, "losses": 0, "gp": 0}
             history[team_id] = [{"t": None, "rating": STARTING_RATING}]
+            peak[team_id] = {"rating": STARTING_RATING, "t": None}
+            streaks[team_id] = {"win": 0, "unbeaten": 0, "best_win": 0, "best_unbeaten": 0}
         names[team_id] = name  # always overwrite -> ends up as the most recent name seen
+
+    def apply_result(team_id: int, result: str):
+        """result: 'W' | 'D' | 'L' -- updates that team's running streaks."""
+        s = streaks[team_id]
+        if result == "W":
+            s["win"] += 1
+            s["unbeaten"] += 1
+        elif result == "D":
+            s["win"] = 0
+            s["unbeaten"] += 1
+        else:
+            s["win"] = 0
+            s["unbeaten"] = 0
+        s["best_win"] = max(s["best_win"], s["win"])
+        s["best_unbeaten"] = max(s["best_unbeaten"], s["unbeaten"])
 
     for _, row in matches.iterrows():
         hid, aid = int(row["home_team_id"]), int(row["away_team_id"])
@@ -151,20 +170,29 @@ def run_elo_pass(matches: pd.DataFrame) -> tuple[list[dict], dict[str, list]]:
         ratings[hid] = rh + change
         ratings[aid] = ra - change
 
+        ts_int = None if pd.isna(ts) else int(ts)
         for tid, r in ((hid, ratings[hid]), (aid, ratings[aid])):
-            history[tid].append({"t": None if pd.isna(ts) else int(ts), "rating": round(r, 1)})
+            history[tid].append({"t": ts_int, "rating": round(r, 1)})
+            if r > peak[tid]["rating"]:
+                peak[tid] = {"rating": round(r, 1), "t": ts_int}
 
         record[hid]["gp"] += 1
         record[aid]["gp"] += 1
         if w_home == 1.0:
             record[hid]["wins"] += 1
             record[aid]["losses"] += 1
+            apply_result(hid, "W")
+            apply_result(aid, "L")
         elif w_home == 0.0:
             record[hid]["losses"] += 1
             record[aid]["wins"] += 1
+            apply_result(hid, "L")
+            apply_result(aid, "W")
         else:
             record[hid]["draws"] += 1
             record[aid]["draws"] += 1
+            apply_result(hid, "D")
+            apply_result(aid, "D")
 
     rows = []
     for tid, rating in ratings.items():
@@ -182,6 +210,10 @@ def run_elo_pass(matches: pd.DataFrame) -> tuple[list[dict], dict[str, list]]:
             "losses": rec["losses"],
             "delta_recent": delta_recent,
             "delta_recent_games": n,
+            "peak_rating": peak[tid]["rating"],
+            "peak_rating_t": peak[tid]["t"],
+            "longest_win_streak": streaks[tid]["best_win"],
+            "longest_unbeaten_streak": streaks[tid]["best_unbeaten"],
         })
 
     rows.sort(key=lambda r: r["rating"], reverse=True)
@@ -190,6 +222,64 @@ def run_elo_pass(matches: pd.DataFrame) -> tuple[list[dict], dict[str, list]]:
 
     history_out = {str(tid): hist for tid, hist in history.items()}
     return rows, history_out
+
+
+def compute_rivalries(matches: pd.DataFrame, names: dict[int, str], top_n: int = 10, min_meetings_for_lopsided: int = 3) -> dict:
+    """Aggregates all-time matches into three leaderboards:
+      - most_played: pairs with the most total meetings
+      - most_lopsided: pairs (with a minimum meeting count, so a 1-0
+        all-time record doesn't count as a "lopsided rivalry") with the
+        biggest win-count gap between the two sides
+      - biggest_blowouts: single matches with the largest goal difference
+    """
+    from collections import defaultdict
+
+    pair_stats = defaultdict(lambda: {"wins_a": 0, "wins_b": 0, "draws": 0, "meetings": 0})
+    blowouts = []
+
+    for _, row in matches.iterrows():
+        hid, aid = int(row["home_team_id"]), int(row["away_team_id"])
+        hs, as_ = int(row["home_score_current"]), int(row["away_score_current"])
+        a, b = sorted([hid, aid])
+        st = pair_stats[(a, b)]
+        st["meetings"] += 1
+        if hs == as_:
+            st["draws"] += 1
+        else:
+            winner = hid if hs > as_ else aid
+            if winner == a:
+                st["wins_a"] += 1
+            else:
+                st["wins_b"] += 1
+
+        ts = row["start_timestamp"]
+        blowouts.append({
+            "t": None if pd.isna(ts) else int(ts),
+            "home": names.get(hid, "?"), "away": names.get(aid, "?"),
+            "hs": hs, "as": as_, "diff": abs(hs - as_),
+        })
+
+    most_played = []
+    most_lopsided = []
+    for (a, b), st in pair_stats.items():
+        entry = {
+            "team_a_id": a, "team_a": names.get(a, "?"),
+            "team_b_id": b, "team_b": names.get(b, "?"),
+            "meetings": st["meetings"], "wins_a": st["wins_a"], "wins_b": st["wins_b"], "draws": st["draws"],
+        }
+        most_played.append(entry)
+        if st["meetings"] >= min_meetings_for_lopsided:
+            most_lopsided.append(dict(entry, margin=abs(st["wins_a"] - st["wins_b"])))
+
+    most_played.sort(key=lambda e: e["meetings"], reverse=True)
+    most_lopsided.sort(key=lambda e: (e["margin"], e["meetings"]), reverse=True)
+    blowouts.sort(key=lambda e: e["diff"], reverse=True)
+
+    return {
+        "most_played": most_played[:top_n],
+        "most_lopsided": most_lopsided[:top_n],
+        "biggest_blowouts": blowouts[:top_n],
+    }
 
 
 def write_output(rows, history_out, fetched_at, matches_used, path_prefix, extra_meta=None):
@@ -267,6 +357,12 @@ def compute_league(key: str, cfg: dict):
     write_output(rows_all, history_all, fetched_at, len(finished), key, extra_meta={"league_draw_rate": draw_rate})
 
     write_matches_json(finished, key)
+
+    names_all = {r["team_id"]: r["team"] for r in rows_all}
+    rivalries = compute_rivalries(finished, names_all)
+    rivalries_path = OUT_DIR / f"rivalries_{key}.json"
+    rivalries_path.write_text(json.dumps(rivalries, indent=2))
+    print(f"Wrote {rivalries_path}")
 
     # --- current-season pass: reset to 1500, only this season's matches ---
     if "season" in finished.columns and finished["season"].notna().any():

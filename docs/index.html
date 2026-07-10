@@ -46,6 +46,7 @@
     <input id="search" type="text" placeholder="Find a club&hellip;" autocomplete="off">
     <div class="toolbar-right">
       <button type="button" class="compare-btn" id="compare-open">Compare clubs</button>
+      <button type="button" class="compare-btn" id="hof-open">Hall of Fame</button>
       <div class="seg" id="season-toggle" role="tablist" aria-label="Ratings scope">
         <button type="button" class="seg-btn is-active" data-scope="all_time" role="tab" aria-selected="true">All&#8209;time</button>
         <button type="button" class="seg-btn" data-scope="season" role="tab" aria-selected="false">This season</button>
@@ -106,6 +107,7 @@
     <div class="modal-header">
       <div class="modal-team-name" id="modal-team-name"></div>
       <div class="modal-team-sub" id="modal-team-sub"></div>
+      <button type="button" class="modal-copy-link" id="modal-copy-link">Copy link</button>
     </div>
     <div class="modal-chart-wrap" id="modal-chart-wrap"></div>
   </div>
@@ -143,6 +145,49 @@
         <div class="compare-odds-grid" id="compare-odds-grid"></div>
         <p class="compare-disclaimer">Based only on these Elo ratings &mdash; not a real betting line, and it has no idea about injuries, lineups, or anything that's happened since the last result. For fun, not for wagering.</p>
       </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="hof-overlay" hidden>
+  <div class="modal modal-wide" role="dialog" aria-modal="true" aria-labelledby="hof-title">
+    <button type="button" class="modal-close" id="hof-close" aria-label="Close">&times;</button>
+    <div class="modal-header">
+      <div class="modal-team-name" id="hof-title">Hall of Fame</div>
+      <div class="modal-team-sub" id="hof-league-name"></div>
+    </div>
+
+    <div class="hof-sections" id="hof-sections">
+      <section class="hof-section">
+        <h3 class="hof-heading">Peak Elo, all-time</h3>
+        <ol class="hof-list" id="hof-peak"></ol>
+      </section>
+
+      <section class="hof-section">
+        <h3 class="hof-heading">Longest win streak</h3>
+        <ol class="hof-list" id="hof-win-streak"></ol>
+      </section>
+
+      <section class="hof-section">
+        <h3 class="hof-heading">Longest unbeaten streak</h3>
+        <ol class="hof-list" id="hof-unbeaten-streak"></ol>
+      </section>
+
+      <section class="hof-section">
+        <h3 class="hof-heading">Most-played rivalries</h3>
+        <ol class="hof-list hof-list-rivalry" id="hof-most-played"></ol>
+      </section>
+
+      <section class="hof-section">
+        <h3 class="hof-heading">Most lopsided series</h3>
+        <p class="hof-subnote">Minimum 3 meetings</p>
+        <ol class="hof-list hof-list-rivalry" id="hof-lopsided"></ol>
+      </section>
+
+      <section class="hof-section">
+        <h3 class="hof-heading">Biggest blowouts</h3>
+        <ol class="hof-list hof-list-rivalry" id="hof-blowouts"></ol>
+      </section>
     </div>
   </div>
 </div>
